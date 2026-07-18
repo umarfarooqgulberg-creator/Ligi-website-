@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Name of insects</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+    <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Ant</td>
+    <td>چیونٹی</td>
+</tr>
+<tr>
+    <td>Bee</td>
+    <td>مکھی</td>
+</tr>
+<tr>
+    <td>Honey Bee</td>
+    <td>شہد کی مکھی</td>
+</tr>
+<tr>
+    <td>Bumblebee</td>
+    <td>بھونرا</td>
+</tr>
+<tr>
+    <td>Wasp</td>
+    <td>بھڑ</td>
+</tr>
+<tr>
+    <td>Hornet</td>
+    <td>بڑا بھڑ</td>
+</tr>
+<tr>
+    <td>Butterfly</td>
+    <td>تتلی</td>
+</tr>
+<tr>
+    <td>Moth</td>
+    <td>پتنگا</td>
+</tr>
+<tr>
+    <td>Dragonfly</td>
+    <td>سنہری مکھی</td>
+</tr>
+<tr>
+    <td>Damselfly</td>
+    <td>باریک ڈریگن فلائی</td>
+</tr>
+<tr>
+    <td>Grasshopper</td>
+    <td>ٹڈا</td>
+</tr>
+<tr>
+    <td>Cricket</td>
+    <td>جھینگر</td>
+</tr>
+<tr>
+    <td>Locust</td>
+    <td>دلّہ ٹڈا</td>
+</tr>
+<tr>
+    <td>Cockroach</td>
+    <td>کاکروچ</td>
+</tr>
+<tr>
+    <td>Termite</td>
+    <td>دیمک</td>
+</tr>
+<tr>
+    <td>Praying Mantis</td>
+    <td>دعائیہ کیڑا</td>
+</tr>
+<tr>
+    <td>Stick Insect</td>
+    <td>لکڑی نما کیڑا</td>
+</tr>
+<tr>
+    <td>Leaf Insect</td>
+    <td>پتے نما کیڑا</td>
+</tr>
+<tr>
+    <td>Beetle</td>
+    <td>بھونرا کیڑا</td>
+</tr>
+<tr>
+    <td>Ladybug</td>
+    <td>لال بھونرا</td>
+</tr>
+<tr>
+    <td>Firefly</td>
+    <td>جگنو</td>
+</tr>
+<tr>
+    <td>Weevil</td>
+    <td>گھُن</td>
+</tr>
+<tr>
+    <td>Stag Beetle</td>
+    <td>سینگ والا بھونرا</td>
+</tr>
+<tr>
+    <td>Rhinoceros Beetle</td>
+    <td>گینڈا بھونرا</td>
+</tr>
+<tr>
+    <td>Dung Beetle</td>
+    <td>گوبر بھونرا</td>
+</tr>
+<tr>
+    <td>Ground Beetle</td>
+    <td>زمینی بھونرا</td>
+</tr>
+<tr>
+    <td>Click Beetle</td>
+    <td>کلک بھونرا</td>
+</tr>
+<tr>
+    <td>June Beetle</td>
+    <td>جون بھونرا</td>
+</tr>
+<tr>
+    <td>Fly</td>
+    <td>مکھی</td>
+</tr>
+<tr>
+    <td>Housefly</td>
+    <td>گھریلو مکھی</td>
+</tr>
+<tr>
+    <td>Fruit Fly</td>
+    <td>پھل کی مکھی</td>
+</tr>
+<tr>
+    <td>Horsefly</td>
+    <td>گھوڑا مکھی</td>
+</tr>
+<tr>
+    <td>Mosquito</td>
+    <td>مچھر</td>
+</tr>
+<tr>
+    <td>Gnat</td>
+    <td>ننھی مکھی</td>
+</tr>
+<tr>
+    <td>Midge</td>
+    <td>باریک مچھر</td>
+</tr>
+<tr>
+    <td>Flea</td>
+    <td>پِسّو</td>
+</tr>
+<tr>
+    <td>Louse</td>
+    <td>جوئیں</td>
+</tr>
+<tr>
+    <td>Aphid</td>
+    <td>پودوں کی جوں</td>
+</tr>
+<tr>
+    <td>Cicada</td>
+    <td>جھینگر نما کیڑا</td>
+</tr>
+<tr>
+    <td>Leafhopper</td>
+    <td>پتہ کودنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Treehopper</td>
+    <td>درخت کودنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Planthopper</td>
+    <td>پودا کودنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Shield Bug</td>
+    <td>ڈھال نما کیڑا</td>
+</tr>
+<tr>
+    <td>Stink Bug</td>
+    <td>بدبودار کیڑا</td>
+</tr>
+<tr>
+    <td>Assassin Bug</td>
+    <td>شکاری کیڑا</td>
+</tr>
+<tr>
+    <td>Water Strider</td>
+    <td>پانی پر چلنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Water Boatman</td>
+    <td>آبی کشتی نما کیڑا</td>
+</tr>
+<tr>
+    <td>Backswimmer</td>
+    <td>الٹا تیرنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Lacewing</td>
+    <td>لیس ونگ</td>
+</tr>
+<tr>
+    <td>Antlion</td>
+    <td>چیونٹی خور کیڑا</td>
+</tr>
+        <tr>
+    <td>Caddisfly</td>
+    <td>کیڈس فلائی</td>
+</tr>
+<tr>
+    <td>Mayfly</td>
+    <td>مے فلائی</td>
+</tr>
+<tr>
+    <td>Stonefly</td>
+    <td>اسٹون فلائی</td>
+</tr>
+<tr>
+    <td>Dobsonfly</td>
+    <td>ڈابسن فلائی</td>
+</tr>
+<tr>
+    <td>Alderfly</td>
+    <td>ایلڈر فلائی</td>
+</tr>
+<tr>
+    <td>Scorpionfly</td>
+    <td>بچھو نما فلائی</td>
+</tr>
+<tr>
+    <td>Snakefly</td>
+    <td>سانپ نما فلائی</td>
+</tr>
+<tr>
+    <td>Whitefly</td>
+    <td>سفید مکھی</td>
+</tr>
+<tr>
+    <td>Blackfly</td>
+    <td>کالی مکھی</td>
+</tr>
+<tr>
+    <td>Hoverfly</td>
+    <td>ہوور فلائی</td>
+</tr>
+<tr>
+    <td>Robber Fly</td>
+    <td>شکاری مکھی</td>
+</tr>
+<tr>
+    <td>Bee Fly</td>
+    <td>شہد مکھی نما فلائی</td>
+</tr>
+<tr>
+    <td>Blow Fly</td>
+    <td>بلو فلائی</td>
+</tr>
+<tr>
+    <td>Bot Fly</td>
+    <td>باٹ فلائی</td>
+</tr>
+<tr>
+    <td>Crane Fly</td>
+    <td>کرین فلائی</td>
+</tr>
+<tr>
+    <td>Dance Fly</td>
+    <td>ڈانس فلائی</td>
+</tr>
+<tr>
+    <td>March Fly</td>
+    <td>مارچ فلائی</td>
+</tr>
+<tr>
+    <td>Fungus Gnat</td>
+    <td>فنگس گنیٹ</td>
+</tr>
+<tr>
+    <td>Thrips</td>
+    <td>تھرپس</td>
+</tr>
+<tr>
+    <td>Booklouse</td>
+    <td>کتابی جوں</td>
+</tr>
+<tr>
+    <td>Barklouse</td>
+    <td>درختی جوں</td>
+</tr>
+<tr>
+    <td>Earwig</td>
+    <td>کان کھجورا</td>
+</tr>
+<tr>
+    <td>Silverfish</td>
+    <td>سلور فش کیڑا</td>
+</tr>
+<tr>
+    <td>Firebrat</td>
+    <td>فائر بریٹ</td>
+</tr>
+<tr>
+    <td>Bristletail</td>
+    <td>برسل ٹیل</td>
+</tr>
+<tr>
+    <td>Springtail</td>
+    <td>اسپرنگ ٹیل</td>
+</tr>
+<tr>
+    <td>Webspinner</td>
+    <td>جالا بننے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Zorapteran</td>
+    <td>زوراپٹیرن</td>
+</tr>
+<tr>
+    <td>Glowworm</td>
+    <td>چمکدار سنڈی</td>
+</tr>
+<tr>
+    <td>Silkworm</td>
+    <td>ریشم کا کیڑا</td>
+</tr>
+<tr>
+    <td>Tobacco Hornworm</td>
+    <td>تمباکو سنڈی</td>
+</tr>
+<tr>
+    <td>Cabbage Worm</td>
+    <td>بند گوبھی کی سنڈی</td>
+</tr>
+<tr>
+    <td>Armyworm</td>
+    <td>آرمی ورم</td>
+</tr>
+<tr>
+    <td>Cutworm</td>
+    <td>کٹ ورم</td>
+</tr>
+<tr>
+    <td>Mealworm</td>
+    <td>میل ورم</td>
+</tr>
+<tr>
+    <td>Wireworm</td>
+    <td>وائر ورم</td>
+</tr>
+<tr>
+    <td>Bagworm</td>
+    <td>بیگ ورم</td>
+</tr>
+<tr>
+    <td>Leaf Miner</td>
+    <td>پتہ کھودنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Gall Wasp</td>
+    <td>گال بھڑ</td>
+</tr>
+<tr>
+    <td>Ichneumon Wasp</td>
+    <td>اچنیومون بھڑ</td>
+</tr>
+<tr>
+    <td>Braconid Wasp</td>
+    <td>براکونڈ بھڑ</td>
+</tr>
+<tr>
+    <td>Paper Wasp</td>
+    <td>کاغذی بھڑ</td>
+</tr>
+<tr>
+    <td>Mud Dauber</td>
+    <td>مٹی کا گھونسلا بنانے والی بھڑ</td>
+</tr>
+<tr>
+    <td>Cuckoo Wasp</td>
+    <td>کوئل بھڑ</td>
+</tr>
+<tr>
+    <td>Sawfly</td>
+    <td>سا فلائی</td>
+</tr>
+<tr>
+    <td>Velvet Ant</td>
+    <td>مخملی چیونٹی</td>
+</tr>
+<tr>
+    <td>Carpenter Ant</td>
+    <td>بڑھئی چیونٹی</td>
+</tr>
+<tr>
+    <td>Leafcutter Ant</td>
+    <td>پتے کاٹنے والی چیونٹی</td>
+</tr>
+<tr>
+    <td>Fire Ant</td>
+    <td>آگ چیونٹی</td>
+</tr>
+<tr>
+    <td>Harvester Ant</td>
+    <td>دانہ جمع کرنے والی چیونٹی</td>
+</tr>
+        <tr>
+    <td>Carpenter Bee</td>
+    <td>بڑھئی مکھی</td>
+</tr>
+<tr>
+    <td>Mason Bee</td>
+    <td>معمار مکھی</td>
+</tr>
+<tr>
+    <td>Mining Bee</td>
+    <td>سرنگ بنانے والی مکھی</td>
+</tr>
+<tr>
+    <td>Leafcutter Bee</td>
+    <td>پتے کاٹنے والی مکھی</td>
+</tr>
+<tr>
+    <td>Sweat Bee</td>
+    <td>پسینہ پسند مکھی</td>
+</tr>
+<tr>
+    <td>Cuckoo Bee</td>
+    <td>کوئل مکھی</td>
+</tr>
+<tr>
+    <td>Orchid Bee</td>
+    <td>آرکڈ مکھی</td>
+</tr>
+<tr>
+    <td>Blue Banded Bee</td>
+    <td>نیلی پٹی والی مکھی</td>
+</tr>
+<tr>
+    <td>Green Lacewing</td>
+    <td>سبز لیس ونگ</td>
+</tr>
+<tr>
+    <td>Brown Lacewing</td>
+    <td>بھورا لیس ونگ</td>
+</tr>
+<tr>
+    <td>Tiger Beetle</td>
+    <td>ٹائیگر بھونرا</td>
+</tr>
+<tr>
+    <td>Jewel Beetle</td>
+    <td>جواہر نما بھونرا</td>
+</tr>
+<tr>
+    <td>Longhorn Beetle</td>
+    <td>لمبے سینگ والا بھونرا</td>
+</tr>
+<tr>
+    <td>Leaf Beetle</td>
+    <td>پتہ بھونرا</td>
+</tr>
+<tr>
+    <td>Darkling Beetle</td>
+    <td>کالا بھونرا</td>
+</tr>
+<tr>
+    <td>Soldier Beetle</td>
+    <td>سپاہی بھونرا</td>
+</tr>
+<tr>
+    <td>Burying Beetle</td>
+    <td>دفن کرنے والا بھونرا</td>
+</tr>
+<tr>
+    <td>Water Beetle</td>
+    <td>آبی بھونرا</td>
+</tr>
+<tr>
+    <td>Whirligig Beetle</td>
+    <td>گھومنے والا آبی بھونرا</td>
+</tr>
+<tr>
+    <td>Goliath Beetle</td>
+    <td>گولیاتھ بھونرا</td>
+</tr>
+<tr>
+    <td>Atlas Beetle</td>
+    <td>اٹلس بھونرا</td>
+</tr>
+<tr>
+    <td>Hercules Beetle</td>
+    <td>ہرکیولیز بھونرا</td>
+</tr>
+<tr>
+    <td>Tortoise Beetle</td>
+    <td>کچھوا بھونرا</td>
+</tr>
+<tr>
+    <td>Flea Beetle</td>
+    <td>پسو بھونرا</td>
+</tr>
+<tr>
+    <td>Seed Beetle</td>
+    <td>بیج بھونرا</td>
+</tr>
+<tr>
+    <td>Bark Beetle</td>
+    <td>چھال بھونرا</td>
+</tr>
+<tr>
+    <td>Ambrosia Beetle</td>
+    <td>امبروزیا بھونرا</td>
+</tr>
+<tr>
+    <td>Deathwatch Beetle</td>
+    <td>ڈیتھ واچ بھونرا</td>
+</tr>
+<tr>
+    <td>Powderpost Beetle</td>
+    <td>پاؤڈر پوسٹ بھونرا</td>
+</tr>
+<tr>
+    <td>Oil Beetle</td>
+    <td>تیل بھونرا</td>
+</tr>
+<tr>
+    <td>Blister Beetle</td>
+    <td>چھالہ بنانے والا بھونرا</td>
+</tr>
+<tr>
+    <td>Rove Beetle</td>
+    <td>روو بھونرا</td>
+</tr>
+<tr>
+    <td>Net-winged Beetle</td>
+    <td>جال دار پروں والا بھونرا</td>
+</tr>
+<tr>
+    <td>Scarab Beetle</td>
+    <td>اسکارب بھونرا</td>
+</tr>
+<tr>
+    <td>Water Scorpion</td>
+    <td>آبی بچھو کیڑا</td>
+</tr>
+<tr>
+    <td>Water Measurer</td>
+    <td>پانی ناپنے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Water Bug</td>
+    <td>آبی کیڑا</td>
+</tr>
+<tr>
+    <td>Giant Water Bug</td>
+    <td>دیوقامت آبی کیڑا</td>
+</tr>
+<tr>
+    <td>Water Penny</td>
+    <td>واٹر پینی</td>
+</tr>
+<tr>
+    <td>Spittlebug</td>
+    <td>جھاگ بنانے والا کیڑا</td>
+</tr>
+<tr>
+    <td>Froghopper</td>
+    <td>مینڈک کود کیڑا</td>
+</tr>
+<tr>
+    <td>Lanternfly</td>
+    <td>لالٹین فلائی</td>
+</tr>
+<tr>
+    <td>Spotted Lanternfly</td>
+    <td>دھبے دار لالٹین فلائی</td>
+</tr>
+<tr>
+    <td>Glasswing Butterfly</td>
+    <td>شفاف پروں والی تتلی</td>
+</tr>
+<tr>
+    <td>Monarch Butterfly</td>
+    <td>مونارک تتلی</td>
+</tr>
+<tr>
+    <td>Swallowtail Butterfly</td>
+    <td>سویلو ٹیل تتلی</td>
+</tr>
+<tr>
+    <td>Blue Morpho Butterfly</td>
+    <td>بلیو مورفو تتلی</td>
+</tr>
+<tr>
+    <td>Painted Lady Butterfly</td>
+    <td>پینٹڈ لیڈی تتلی</td>
+</tr>
+<tr>
+    <td>Red Admiral Butterfly</td>
+    <td>ریڈ ایڈمرل تتلی</td>
+</tr>
+<tr>
+    <td>Zebra Longwing Butterfly</td>
+    <td>زیبرا لانگ ونگ تتلی</td>
+</tr>
+        <tr>
+    <td>Luna Moth</td>
+    <td>لونا پتنگا</td>
+</tr>
+<tr>
+    <td>Atlas Moth</td>
+    <td>اٹلس پتنگا</td>
+</tr>
+<tr>
+    <td>Cecropia Moth</td>
+    <td>سیکروپیا پتنگا</td>
+</tr>
+<tr>
+    <td>Polyphemus Moth</td>
+    <td>پولیفیمس پتنگا</td>
+</tr>
+<tr>
+    <td>Silk Moth</td>
+    <td>ریشمی پتنگا</td>
+</tr>
+<tr>
+    <td>Hawk Moth</td>
+    <td>ہاک پتنگا</td>
+</tr>
+<tr>
+    <td>Sphinx Moth</td>
+    <td>سفنکس پتنگا</td>
+</tr>
+<tr>
+    <td>Tussock Moth</td>
+    <td>ٹساک پتنگا</td>
+</tr>
+<tr>
+    <td>Tiger Moth</td>
+    <td>ٹائیگر پتنگا</td>
+</tr>
+<tr>
+    <td>Gypsy Moth</td>
+    <td>جپسی پتنگا</td>
+</tr>
+<tr>
+    <td>Codling Moth</td>
+    <td>کوڈلنگ پتنگا</td>
+</tr>
+<tr>
+    <td>Bag Moth</td>
+    <td>بیگ پتنگا</td>
+</tr>
+<tr>
+    <td>Clothes Moth</td>
+    <td>کپڑوں کا پتنگا</td>
+</tr>
+<tr>
+    <td>Indian Meal Moth</td>
+    <td>انڈین میل پتنگا</td>
+</tr>
+<tr>
+    <td>Yucca Moth</td>
+    <td>یوکا پتنگا</td>
+</tr>
+<tr>
+    <td>Skipper Butterfly</td>
+    <td>اسکپر تتلی</td>
+</tr>
+<tr>
+    <td>Common Blue Butterfly</td>
+    <td>کامن بلیو تتلی</td>
+</tr>
+<tr>
+    <td>Orange Tip Butterfly</td>
+    <td>اورنج ٹپ تتلی</td>
+</tr>
+<tr>
+    <td>Peacock Butterfly</td>
+    <td>مور تتلی</td>
+</tr>
+<tr>
+    <td>Comma Butterfly</td>
+    <td>کوما تتلی</td>
+</tr>
+<tr>
+    <td>Small Tortoiseshell Butterfly</td>
+    <td>چھوٹی کچھوا تتلی</td>
+</tr>
+<tr>
+    <td>Question Mark Butterfly</td>
+    <td>سوالیہ نشان تتلی</td>
+</tr>
+<tr>
+    <td>Viceroy Butterfly</td>
+    <td>وائس رائے تتلی</td>
+</tr>
+<tr>
+    <td>Julia Butterfly</td>
+    <td>جولیا تتلی</td>
+</tr>
+<tr>
+    <td>Postman Butterfly</td>
+    <td>پوسٹ مین تتلی</td>
+</tr>
+<tr>
+    <td>Leafwing Butterfly</td>
+    <td>پتے نما تتلی</td>
+</tr>
+<tr>
+    <td>Metalmark Butterfly</td>
+    <td>میٹل مارک تتلی</td>
+</tr>
+<tr>
+    <td>Apollo Butterfly</td>
+    <td>اپالو تتلی</td>
+</tr>
+<tr>
+    <td>Birdwing Butterfly</td>
+    <td>برڈ ونگ تتلی</td>
+</tr>
+<tr>
+    <td>Copper Butterfly</td>
+    <td>کاپر تتلی</td>
+</tr>
+<tr>
+    <td>Hairstreak Butterfly</td>
+    <td>ہیئر اسٹریک تتلی</td>
+</tr>
+<tr>
+    <td>Ringlet Butterfly</td>
+    <td>رنگ لیٹ تتلی</td>
+</tr>
+<tr>
+    <td>Satyr Butterfly</td>
+    <td>سیٹائر تتلی</td>
+</tr>
+<tr>
+    <td>Owlet Moth</td>
+    <td>اولیٹ پتنگا</td>
+</tr>
+<tr>
+    <td>Prominent Moth</td>
+    <td>پرومننٹ پتنگا</td>
+</tr>
+<tr>
+    <td>Underwing Moth</td>
+    <td>انڈر ونگ پتنگا</td>
+</tr>
+<tr>
+    <td>Angle Shades Moth</td>
+    <td>اینگل شیڈز پتنگا</td>
+</tr>
+<tr>
+    <td>Elephant Hawk Moth</td>
+    <td>ایلیفینٹ ہاک پتنگا</td>
+</tr>
+<tr>
+    <td>Oleander Hawk Moth</td>
+    <td>اولینڈر ہاک پتنگا</td>
+</tr>
+<tr>
+    <td>Death's-head Hawk Moth</td>
+    <td>ڈیتھ ہیڈ ہاک پتنگا</td>
+</tr>
+<tr>
+    <td>Emperor Moth</td>
+    <td>ایمپراٹر پتنگا</td>
+</tr>
+<tr>
+    <td>Io Moth</td>
+    <td>آئی او پتنگا</td>
+</tr>
+<tr>
+    <td>Rosy Maple Moth</td>
+    <td>روزی میپل پتنگا</td>
+</tr>
+<tr>
+    <td>Puss Moth</td>
+    <td>پس پتنگا</td>
+</tr>
+<tr>
+    <td>Peppered Moth</td>
+    <td>پیپرڈ پتنگا</td>
+</tr>
+<tr>
+    <td>Winter Moth</td>
+    <td>ونٹر پتنگا</td>
+</tr>
+<tr>
+    <td>Oak Eggar Moth</td>
+    <td>اوک ایگر پتنگا</td>
+</tr>
+<tr>
+    <td>Lappet Moth</td>
+    <td>لیپیٹ پتنگا</td>
+</tr>
+<tr>
+    <td>Buff-tip Moth</td>
+    <td>بف ٹپ پتنگا</td>
+</tr>
+<tr>
+    <td>Ghost Moth</td>
+    <td>گھوسٹ پتنگا</td>
+</tr>
+      </tbody>
+      </tbody>
+</body>
+</html>
