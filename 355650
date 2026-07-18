@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Name of Animals</title>
+   <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+  <table border="4">
+    <tr>
+      <thead>
+        <th>meaning</th>
+      <th>معنی</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td>Lion</td>
+    <td>شیر</td>
+</tr>
+<tr>
+    <td>Tiger</td>
+    <td>ببر شیر</td>
+</tr>
+<tr>
+    <td>Leopard</td>
+    <td>تیندوا</td>
+</tr>
+<tr>
+    <td>Cheetah</td>
+    <td>چیتا</td>
+</tr>
+<tr>
+    <td>Jaguar</td>
+    <td>جیگوار</td>
+</tr>
+<tr>
+    <td>Panther</td>
+    <td>کالا تیندوا</td>
+</tr>
+<tr>
+    <td>Cat</td>
+    <td>بلی</td>
+</tr>
+<tr>
+    <td>Dog</td>
+    <td>کتا</td>
+</tr>
+<tr>
+    <td>Wolf</td>
+    <td>بھیڑیا</td>
+</tr>
+<tr>
+    <td>Fox</td>
+    <td>لومڑی</td>
+</tr>
+<tr>
+    <td>Jackal</td>
+    <td>گیدڑ</td>
+</tr>
+<tr>
+    <td>Hyena</td>
+    <td>لکڑ بگھا</td>
+</tr>
+<tr>
+    <td>Bear</td>
+    <td>ریچھ</td>
+</tr>
+<tr>
+    <td>Panda</td>
+    <td>پانڈا</td>
+</tr>
+<tr>
+    <td>Koala</td>
+    <td>کوالا</td>
+</tr>
+<tr>
+    <td>Elephant</td>
+    <td>ہاتھی</td>
+</tr>
+<tr>
+    <td>Rhinoceros</td>
+    <td>گینڈا</td>
+</tr>
+<tr>
+    <td>Hippopotamus</td>
+    <td>دریائی گھوڑا</td>
+</tr>
+<tr>
+    <td>Horse</td>
+    <td>گھوڑا</td>
+</tr>
+<tr>
+    <td>Donkey</td>
+    <td>گدھا</td>
+</tr>
+<tr>
+    <td>Zebra</td>
+    <td>زیبرا</td>
+</tr>
+<tr>
+    <td>Camel</td>
+    <td>اونٹ</td>
+</tr>
+<tr>
+    <td>Llama</td>
+    <td>لاما</td>
+</tr>
+<tr>
+    <td>Alpaca</td>
+    <td>الپاکا</td>
+</tr>
+<tr>
+    <td>Deer</td>
+    <td>ہرن</td>
+</tr>
+<tr>
+    <td>Antelope</td>
+    <td>بارہ سنگھا</td>
+</tr>
+<tr>
+    <td>Moose</td>
+    <td>موس ہرن</td>
+</tr>
+<tr>
+    <td>Elk</td>
+    <td>ایلک</td>
+</tr>
+<tr>
+    <td>Buffalo</td>
+    <td>بھینسا</td>
+</tr>
+<tr>
+    <td>Bison</td>
+    <td>جنگلی بھینسا</td>
+</tr>
+<tr>
+    <td>Cow</td>
+    <td>گائے</td>
+</tr>
+<tr>
+    <td>Bull</td>
+    <td>بیل</td>
+</tr>
+<tr>
+    <td>Ox</td>
+    <td>بیل</td>
+</tr>
+<tr>
+    <td>Goat</td>
+    <td>بکری</td>
+</tr>
+<tr>
+    <td>Sheep</td>
+    <td>بھیڑ</td>
+</tr>
+<tr>
+    <td>Ram</td>
+    <td>مینڈھا</td>
+</tr>
+<tr>
+    <td>Pig</td>
+    <td>سور</td>
+</tr>
+<tr>
+    <td>Boar</td>
+    <td>جنگلی سور</td>
+</tr>
+<tr>
+    <td>Rabbit</td>
+    <td>خرگوش</td>
+</tr>
+<tr>
+    <td>Hare</td>
+    <td>صحرائی خرگوش</td>
+</tr>
+<tr>
+    <td>Squirrel</td>
+    <td>گلہری</td>
+</tr>
+<tr>
+    <td>Rat</td>
+    <td>چوہا</td>
+</tr>
+<tr>
+    <td>Mouse</td>
+    <td>ننھا چوہا</td>
+</tr>
+<tr>
+    <td>Hamster</td>
+    <td>ہیمسٹر</td>
+</tr>
+<tr>
+    <td>Guinea Pig</td>
+    <td>گنی پگ</td>
+</tr>
+<tr>
+    <td>Monkey</td>
+    <td>بندر</td>
+</tr>
+<tr>
+    <td>Chimpanzee</td>
+    <td>شمپانزی</td>
+</tr>
+<tr>
+    <td>Gorilla</td>
+    <td>گوریلا</td>
+</tr>
+<tr>
+    <td>Orangutan</td>
+    <td>اورنگوٹان</td>
+</tr>
+<tr>
+    <td>Baboon</td>
+    <td>بابون</td>
+</tr>
+<tr>
+    <td>Lemur</td>
+    <td>لیمور</td>
+  <tr>
+    <td>Gibbon</td>
+    <td>گبن</td>
+</tr>
+<tr>
+    <td>Sloth</td>
+    <td>سست جانور</td>
+</tr>
+<tr>
+    <td>Armadillo</td>
+    <td>آرماڈیلو</td>
+</tr>
+<tr>
+    <td>Anteater</td>
+    <td>چیونٹی خور</td>
+</tr>
+<tr>
+    <td>Aardvark</td>
+    <td>آرڈوارک</td>
+</tr>
+<tr>
+    <td>Mole</td>
+    <td>چھچھوندر</td>
+</tr>
+<tr>
+    <td>Hedgehog</td>
+    <td>خارپشت</td>
+</tr>
+<tr>
+    <td>Porcupine</td>
+    <td>سیہ</td>
+</tr>
+<tr>
+    <td>Beaver</td>
+    <td>آبی چوہا</td>
+</tr>
+<tr>
+    <td>Otter</td>
+    <td>اوندبلاو</td>
+</tr>
+<tr>
+    <td>Mink</td>
+    <td>منک</td>
+</tr>
+<tr>
+    <td>Ferret</td>
+    <td>فیریٹ</td>
+</tr>
+<tr>
+    <td>Weasel</td>
+    <td>نیولا</td>
+</tr>
+<tr>
+    <td>Badger</td>
+    <td>بیجر</td>
+</tr>
+<tr>
+    <td>Wolverine</td>
+    <td>وولورین</td>
+</tr>
+<tr>
+    <td>Raccoon</td>
+    <td>ریکیون</td>
+</tr>
+<tr>
+    <td>Skunk</td>
+    <td>بدبودار جانور</td>
+</tr>
+<tr>
+    <td>Opossum</td>
+    <td>اوپوسم</td>
+</tr>
+<tr>
+    <td>Kangaroo</td>
+    <td>کینگرو</td>
+</tr>
+<tr>
+    <td>Wallaby</td>
+    <td>والابی</td>
+</tr>
+<tr>
+    <td>Wombat</td>
+    <td>وومبیٹ</td>
+</tr>
+<tr>
+    <td>Tasmanian Devil</td>
+    <td>تسمانی شیطان</td>
+</tr>
+<tr>
+    <td>Platypus</td>
+    <td>پلاٹیپس</td>
+</tr>
+<tr>
+    <td>Echidna</td>
+    <td>ایکیڈنا</td>
+</tr>
+<tr>
+    <td>Seal</td>
+    <td>سیل</td>
+</tr>
+<tr>
+    <td>Sea Lion</td>
+    <td>سمندری شیر</td>
+</tr>
+<tr>
+    <td>Walrus</td>
+    <td>والرس</td>
+</tr>
+<tr>
+    <td>Dolphin</td>
+    <td>ڈولفن</td>
+</tr>
+<tr>
+    <td>Whale</td>
+    <td>وہیل</td>
+</tr>
+<tr>
+    <td>Blue Whale</td>
+    <td>نیلی وہیل</td>
+</tr>
+<tr>
+    <td>Orca</td>
+    <td>قاتل وہیل</td>
+</tr>
+<tr>
+    <td>Narwhal</td>
+    <td>ناروال</td>
+</tr>
+<tr>
+    <td>Manatee</td>
+    <td>مانیٹی</td>
+</tr>
+<tr>
+    <td>Dugong</td>
+    <td>ڈوگونگ</td>
+</tr>
+<tr>
+    <td>Crocodile</td>
+    <td>مگرمچھ</td>
+</tr>
+<tr>
+    <td>Alligator</td>
+    <td>ایلیگیٹر</td>
+</tr>
+<tr>
+    <td>Gharial</td>
+    <td>گھڑیال</td>
+</tr>
+<tr>
+    <td>Komodo Dragon</td>
+    <td>کوموڈو ڈریگن</td>
+</tr>
+<tr>
+    <td>Iguana</td>
+    <td>اگوانا</td>
+</tr>
+<tr>
+    <td>Chameleon</td>
+    <td>گرگٹ</td>
+</tr>
+<tr>
+    <td>Gecko</td>
+    <td>گیکو</td>
+</tr>
+<tr>
+    <td>Lizard</td>
+    <td>چھپکلی</td>
+</tr>
+<tr>
+    <td>Snake</td>
+    <td>سانپ</td>
+</tr>
+<tr>
+    <td>Cobra</td>
+    <td>کوبرا</td>
+</tr>
+<tr>
+    <td>Python</td>
+    <td>اجگر</td>
+</tr>
+<tr>
+    <td>Anaconda</td>
+    <td>ایناکونڈا</td>
+</tr>
+<tr>
+    <td>Viper</td>
+    <td>افعی</td>
+</tr>
+<tr>
+    <td>Rattlesnake</td>
+    <td>جھنجھناہٹ والا سانپ</td>
+</tr>
+<tr>
+    <td>Tortoise</td>
+    <td>خشکی کا کچھوا</td>
+</tr>
+<tr>
+    <td>Turtle</td>
+    <td>کچھوا</td>
+</tr>
+<tr>
+    <td>Frog</td>
+    <td>مینڈک</td>
+</tr>
+<tr>
+    <td>Toad</td>
+    <td>بھیک</td>
+</tr>
+<tr>
+    <td>Salamander</td>
+    <td>سلمینڈر</td>
+</tr>
+<tr>
+    <td>Newt</td>
+    <td>نیوٹ</td>
+</tr>
+<tr>
+    <td>Axolotl</td>
+    <td>ایکسولوٹل</td>
+</tr>
+<tr>
+    <td>Bat</td>
+    <td>چمگادڑ</td>
+</tr>
+<tr>
+    <td>Mongoose</td>
+    <td>نیولا</td>
+</tr>
+<tr>
+    <td>Civet</td>
+    <td>سیویٹ</td>
+</tr>
+<tr>
+    <td>Genet</td>
+    <td>جینیٹ</td>
+</tr>
+<tr>
+    <td>Caracal</td>
+    <td>کاراکل</td>
+</tr>
+<tr>
+    <td>Lynx</td>
+    <td>لنکس</td>
+</tr>
+<tr>
+    <td>Serval</td>
+    <td>سروَل</td>
+</tr>
+<tr>
+    <td>Ocelot</td>
+    <td>اوسیلوٹ</td>
+</tr>
+<tr>
+    <td>Cougar</td>
+    <td>کوگر</td>
+</tr>
+<tr>
+    <td>Puma</td>
+    <td>پیوما</td>
+</tr>
+<tr>
+    <td>Wildcat</td>
+    <td>جنگلی بلی</td>
+</tr>
+<tr>
+    <td>Dingo</td>
+    <td>ڈنگو</td>
+</tr>
+<tr>
+    <td>Coyote</td>
+    <td>کویوٹی</td>
+</tr>
+<tr>
+    <td>Reindeer</td>
+    <td>بارہ سنگھا</td>
+</tr>
+<tr>
+    <td>Gazelle</td>
+    <td>غزال</td>
+</tr>
+<tr>
+    <td>Giraffe</td>
+    <td>زرافہ</td>
+</tr>
+<tr>
+    <td>Okapi</td>
+    <td>اوکاپی</td>
+</tr>
+<tr>
+    <td>Yak</td>
+    <td>یاک</td>
+</tr>
+<tr>
+    <td>Musk Ox</td>
+    <td>مشکی بیل</td>
+</tr>
+<tr>
+    <td>Wild Boar</td>
+    <td>جنگلی سور</td>
+</tr>
+<tr>
+    <td>Tapir</td>
+    <td>ٹیپر</td>
+</tr>
+<tr>
+    <td>Pangolin</td>
+    <td>پینگولن</td>
+</tr>
+<tr>
+    <td>Meerkat</td>
+    <td>میرکیٹ</td>
+</tr>
+<tr>
+    <td>Prairie Dog</td>
+    <td>پریری ڈاگ</td>
+</tr>
+<tr>
+    <td>Capybara</td>
+    <td>کیپی بارا</td>
+</tr>
+<tr>
+    <td>Chinchilla</td>
+    <td>چنچیلا</td>
+</tr>
+<tr>
+    <td>Jerboa</td>
+    <td>جربوع</td>
+</tr>
+<tr>
+    <td>Dormouse</td>
+    <td>ڈورماؤس</td>
+</tr>
+<tr>
+    <td>Shrew</td>
+    <td>چھچھوندر نما جانور</td>
+</tr>
+<tr>
+    <td>Loris</td>
+    <td>لورس</td>
+</tr>
+<tr>
+    <td>Tamarin</td>
+    <td>ٹامرن بندر</td>
+</tr>
+<tr>
+    <td>Macaque</td>
+    <td>مکاک بندر</td>
+</tr>
+<tr>
+    <td>Mandrill</td>
+    <td>مینڈرل</td>
+</tr>
+<tr>
+    <td>Howler Monkey</td>
+    <td>ہاولر بندر</td>
+</tr>
+<tr>
+    <td>Spider Monkey</td>
+    <td>مکڑی بندر</td>
+</tr>
+<tr>
+    <td>Capuchin Monkey</td>
+    <td>کیپوچن بندر</td>
+</tr>
+<tr>
+    <td>Sifaka</td>
+    <td>سیفاکا</td>
+</tr>
+<tr>
+    <td>Bongo</td>
+    <td>بونگو ہرن</td>
+</tr>
+<tr>
+    <td>Kudu</td>
+    <td>کودو</td>
+</tr>
+<tr>
+    <td>Impala</td>
+    <td>امپالا</td>
+</tr>
+<tr>
+    <td>Wildebeest</td>
+    <td>وائلڈ بیسٹ</td>
+</tr>
+<tr>
+    <td>Springbok</td>
+    <td>اسپرنگ بوک</td>
+</tr>
+<tr>
+    <td>Saiga Antelope</td>
+    <td>سائیگا ہرن</td>
+</tr>
+<tr>
+    <td>Nilgai</td>
+    <td>نیل گائے</td>
+</tr>
+<tr>
+    <td>Blackbuck</td>
+    <td>کالا ہرن</td>
+</tr>
+  <tr>
+    <td>Ibex</td>
+    <td>جنگلی بکرا</td>
+</tr>
+<tr>
+    <td>Markhor</td>
+    <td>مارخور</td>
+</tr>
+<tr>
+    <td>Chamois</td>
+    <td>شاموا</td>
+</tr>
+<tr>
+    <td>Mouflon</td>
+    <td>جنگلی بھیڑ</td>
+</tr>
+<tr>
+    <td>Bharal</td>
+    <td>نیلی بھیڑ</td>
+</tr>
+<tr>
+    <td>Takin</td>
+    <td>ٹاکن</td>
+</tr>
+<tr>
+    <td>Gaur</td>
+    <td>گور</td>
+</tr>
+<tr>
+    <td>Banteng</td>
+    <td>بانٹینگ</td>
+</tr>
+<tr>
+    <td>Kouprey</td>
+    <td>کوپرے</td>
+</tr>
+<tr>
+    <td>Water Buffalo</td>
+    <td>آبی بھینسا</td>
+</tr>
+<tr>
+    <td>African Wild Dog</td>
+    <td>افریقی جنگلی کتا</td>
+</tr>
+<tr>
+    <td>Fennec Fox</td>
+    <td>فینک لومڑی</td>
+</tr>
+<tr>
+    <td>Arctic Fox</td>
+    <td>قطبی لومڑی</td>
+</tr>
+<tr>
+    <td>Red Fox</td>
+    <td>سرخ لومڑی</td>
+</tr>
+<tr>
+    <td>Gray Wolf</td>
+    <td>سرمئی بھیڑیا</td>
+</tr>
+<tr>
+    <td>Polar Bear</td>
+    <td>قطبی ریچھ</td>
+</tr>
+<tr>
+    <td>Grizzly Bear</td>
+    <td>گرزلی ریچھ</td>
+</tr>
+<tr>
+    <td>Sun Bear</td>
+    <td>سن بیئر</td>
+</tr>
+<tr>
+    <td>Moon Bear</td>
+    <td>چاند ریچھ</td>
+</tr>
+<tr>
+    <td>Spectacled Bear</td>
+    <td>عینکی ریچھ</td>
+</tr>
+<tr>
+    <td>Snow Leopard</td>
+    <td>برفیلا تیندوا</td>
+</tr>
+<tr>
+    <td>Clouded Leopard</td>
+    <td>بادل نما تیندوا</td>
+</tr>
+<tr>
+    <td>Fishing Cat</td>
+    <td>مچھلی خور بلی</td>
+</tr>
+<tr>
+    <td>Sand Cat</td>
+    <td>صحرائی بلی</td>
+</tr>
+<tr>
+    <td>Pallas's Cat</td>
+    <td>پالاس بلی</td>
+</tr>
+<tr>
+    <td>African Elephant</td>
+    <td>افریقی ہاتھی</td>
+</tr>
+<tr>
+    <td>Asian Elephant</td>
+    <td>ایشیائی ہاتھی</td>
+</tr>
+<tr>
+    <td>Indian Rhinoceros</td>
+    <td>بھارتی گینڈا</td>
+</tr>
+<tr>
+    <td>Black Rhinoceros</td>
+    <td>کالا گینڈا</td>
+</tr>
+<tr>
+    <td>White Rhinoceros</td>
+    <td>سفید گینڈا</td>
+</tr>
+<tr>
+    <td>Pygmy Hippopotamus</td>
+    <td>چھوٹا دریائی گھوڑا</td>
+</tr>
+<tr>
+    <td>African Lion</td>
+    <td>افریقی شیر</td>
+</tr>
+<tr>
+    <td>Bengal Tiger</td>
+    <td>بنگال ٹائیگر</td>
+</tr>
+<tr>
+    <td>Siberian Tiger</td>
+    <td>سائبیرین ٹائیگر</td>
+</tr>
+<tr>
+    <td>Malayan Tiger</td>
+    <td>ملایائی ٹائیگر</td>
+</tr>
+<tr>
+    <td>Tasmanian Tiger</td>
+    <td>تسمانی شیر</td>
+</tr>
+<tr>
+    <td>Camelopard</td>
+    <td>زرافہ نما جانور</td>
+</tr>
+<tr>
+    <td>Mammoth</td>
+    <td>میمتھ</td>
+</tr>
+<tr>
+    <td>Saber-Toothed Cat</td>
+    <td>تلوار دانت والی بلی</td>
+</tr>
+<tr>
+    <td>Quokka</td>
+    <td>کووکا</td>
+</tr>
+<tr>
+    <td>Quoll</td>
+    <td>کوول</td>
+</tr>
+<tr>
+    <td>Numbat</td>
+    <td>نمبیٹ</td>
+</tr>
+<tr>
+    <td>Bilby</td>
+    <td>بلبی</td>
+</tr>
+<tr>
+    <td>Bandicoot</td>
+    <td>بینڈی کوٹ</td>
+</tr>
+<tr>
+    <td>Cuscus</td>
+    <td>کسکس</td>
+</tr>
+<tr>
+    <td>Tree Kangaroo</td>
+    <td>درختی کینگرو</td>
+</tr>
+<tr>
+    <td>Sugar Glider</td>
+    <td>شوگر گلائیڈر</td>
+</tr>
+<tr>
+    <td>Ringtail Possum</td>
+    <td>رِنگ ٹیل پوسم</td>
+</tr>
+<tr>
+    <td>Brush-tailed Possum</td>
+    <td>برش ٹیل پوسم</td>
+</tr>
+<tr>
+    <td>Rock Hyrax</td>
+    <td>راک ہائریکس</td>
+</tr>
+    </tbody>
+    </table>
+</body>
+</html>
