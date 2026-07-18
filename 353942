@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Body parts of human</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰  <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+
+  
+  
+  
+  
+  
+  
+  
+  
+    <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Head</td>
+    <td>سر</td>
+</tr>
+<tr>
+    <td>Hair</td>
+    <td>بال</td>
+</tr>
+<tr>
+    <td>Scalp</td>
+    <td>کھوپڑی کی جلد</td>
+</tr>
+<tr>
+    <td>Forehead</td>
+    <td>پیشانی</td>
+</tr>
+<tr>
+    <td>Temple</td>
+    <td>کنپٹی</td>
+</tr>
+<tr>
+    <td>Face</td>
+    <td>چہرہ</td>
+</tr>
+<tr>
+    <td>Eye</td>
+    <td>آنکھ</td>
+</tr>
+<tr>
+    <td>Eyebrow</td>
+    <td>ابرو</td>
+</tr>
+<tr>
+    <td>Eyelash</td>
+    <td>پلک</td>
+</tr>
+<tr>
+    <td>Eyelid</td>
+    <td>پپوٹا</td>
+</tr>
+<tr>
+    <td>Pupil</td>
+    <td>آنکھ کی پتلی</td>
+</tr>
+<tr>
+    <td>Iris</td>
+    <td>عنبیہ</td>
+</tr>
+<tr>
+    <td>Cornea</td>
+    <td>قرنیہ</td>
+</tr>
+<tr>
+    <td>Lens</td>
+    <td>عدسہ</td>
+</tr>
+<tr>
+    <td>Retina</td>
+    <td>ریٹینا</td>
+</tr>
+<tr>
+    <td>Ear</td>
+    <td>کان</td>
+</tr>
+<tr>
+    <td>Ear Lobe</td>
+    <td>کان کی لو</td>
+</tr>
+<tr>
+    <td>Ear Canal</td>
+    <td>کان کی نالی</td>
+</tr>
+<tr>
+    <td>Eardrum</td>
+    <td>کان کا پردہ</td>
+</tr>
+<tr>
+    <td>Nose</td>
+    <td>ناک</td>
+</tr>
+<tr>
+    <td>Nostril</td>
+    <td>نتھنا</td>
+</tr>
+<tr>
+    <td>Nasal Septum</td>
+    <td>ناک کی درمیانی ہڈی</td>
+</tr>
+<tr>
+    <td>Nasal Cavity</td>
+    <td>ناک کی گہا</td>
+</tr>
+<tr>
+    <td>Mouth</td>
+    <td>منہ</td>
+</tr>
+<tr>
+    <td>Lip</td>
+    <td>ہونٹ</td>
+</tr>
+<tr>
+    <td>Tongue</td>
+    <td>زبان</td>
+</tr>
+<tr>
+    <td>Tooth</td>
+    <td>دانت</td>
+</tr>
+<tr>
+    <td>Teeth</td>
+    <td>دانت (جمع)</td>
+</tr>
+<tr>
+    <td>Incisor</td>
+    <td>سامنے کا دانت</td>
+</tr>
+<tr>
+    <td>Canine Tooth</td>
+    <td>نوکیلا دانت</td>
+</tr>
+<tr>
+    <td>Premolar</td>
+    <td>چھوٹی داڑھ</td>
+</tr>
+<tr>
+    <td>Molar</td>
+    <td>داڑھ</td>
+</tr>
+<tr>
+    <td>Wisdom Tooth</td>
+    <td>عقل داڑھ</td>
+</tr>
+<tr>
+    <td>Gum</td>
+    <td>مسوڑھا</td>
+</tr>
+<tr>
+    <td>Jaw</td>
+    <td>جبڑا</td>
+</tr>
+<tr>
+    <td>Mandible</td>
+    <td>نچلا جبڑا</td>
+</tr>
+<tr>
+    <td>Maxilla</td>
+    <td>اوپری جبڑا</td>
+</tr>
+<tr>
+    <td>Chin</td>
+    <td>ٹھوڑی</td>
+</tr>
+<tr>
+    <td>Cheek</td>
+    <td>گال</td>
+</tr>
+<tr>
+    <td>Beard</td>
+    <td>داڑھی</td>
+</tr>
+<tr>
+    <td>Moustache</td>
+    <td>مونچھ</td>
+</tr>
+<tr>
+    <td>Neck</td>
+    <td>گردن</td>
+</tr>
+<tr>
+    <td>Throat</td>
+    <td>گلا</td>
+</tr>
+<tr>
+    <td>Voice Box</td>
+    <td>حنجرہ</td>
+</tr>
+<tr>
+    <td>Vocal Cord</td>
+    <td>آواز کی تار</td>
+</tr>
+<tr>
+    <td>Epiglottis</td>
+    <td>لسان المزمار</td>
+</tr>
+<tr>
+    <td>Uvula</td>
+    <td>کاک</td>
+</tr>
+<tr>
+    <td>Tonsil</td>
+    <td>ٹانسل</td>
+</tr>
+<tr>
+    <td>Collarbone</td>
+    <td>ہنسلی کی ہڈی</td>
+</tr>
+<tr>
+    <td>Shoulder</td>
+    <td>کندھا</td>
+</tr>
+<tr>
+    <td>Shoulder Blade</td>
+    <td>کندھے کی ہڈی</td>
+</tr>
+      
+      <tr>
+    <td>Arm</td>
+    <td>بازو</td>
+</tr>
+<tr>
+    <td>Upper Arm</td>
+    <td>بازو کا اوپری حصہ</td>
+</tr>
+<tr>
+    <td>Forearm</td>
+    <td>بازو کا نچلا حصہ</td>
+</tr>
+<tr>
+    <td>Elbow</td>
+    <td>کہنی</td>
+</tr>
+<tr>
+    <td>Wrist</td>
+    <td>کلائی</td>
+</tr>
+<tr>
+    <td>Hand</td>
+    <td>ہاتھ</td>
+</tr>
+<tr>
+    <td>Palm</td>
+    <td>ہتھیلی</td>
+</tr>
+<tr>
+    <td>Back of Hand</td>
+    <td>ہاتھ کی پشت</td>
+</tr>
+<tr>
+    <td>Finger</td>
+    <td>انگلی</td>
+</tr>
+<tr>
+    <td>Thumb</td>
+    <td>انگوٹھا</td>
+</tr>
+<tr>
+    <td>Index Finger</td>
+    <td>شہادت کی انگلی</td>
+</tr>
+<tr>
+    <td>Middle Finger</td>
+    <td>درمیانی انگلی</td>
+</tr>
+<tr>
+    <td>Ring Finger</td>
+    <td>منگنی کی انگلی</td>
+</tr>
+<tr>
+    <td>Little Finger</td>
+    <td>چھوٹی انگلی</td>
+</tr>
+<tr>
+    <td>Knuckle</td>
+    <td>انگلی کا جوڑ</td>
+</tr>
+<tr>
+    <td>Fingernail</td>
+    <td>ہاتھ کا ناخن</td>
+</tr>
+<tr>
+    <td>Cuticle</td>
+    <td>ناخن کی جڑ کی جلد</td>
+</tr>
+<tr>
+    <td>Fingerprint</td>
+    <td>انگلی کا نشان</td>
+</tr>
+<tr>
+    <td>Fist</td>
+    <td>مٹھی</td>
+</tr>
+<tr>
+    <td>Armpit</td>
+    <td>بغل</td>
+</tr>
+<tr>
+    <td>Chest</td>
+    <td>سینہ</td>
+</tr>
+<tr>
+    <td>Breast</td>
+    <td>چھاتی</td>
+</tr>
+<tr>
+    <td>Nipple</td>
+    <td>چھاتی کی نوک</td>
+</tr>
+<tr>
+    <td>Rib</td>
+    <td>پسلی</td>
+</tr>
+<tr>
+    <td>Rib Cage</td>
+    <td>پسلیوں کا پنجرہ</td>
+</tr>
+<tr>
+    <td>Back</td>
+    <td>پیٹھ</td>
+</tr>
+<tr>
+    <td>Spine</td>
+    <td>ریڑھ کی ہڈی</td>
+</tr>
+<tr>
+    <td>Spinal Cord</td>
+    <td>حرام مغز</td>
+</tr>
+<tr>
+    <td>Waist</td>
+    <td>کمر</td>
+</tr>
+<tr>
+    <td>Abdomen</td>
+    <td>پیٹ کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Stomach</td>
+    <td>پیٹ</td>
+</tr>
+<tr>
+    <td>Navel</td>
+    <td>ناف</td>
+</tr>
+<tr>
+    <td>Hip</td>
+    <td>کولہا</td>
+</tr>
+<tr>
+    <td>Pelvis</td>
+    <td>کولہے کی ہڈی</td>
+</tr>
+<tr>
+    <td>Groin</td>
+    <td>زیرِ ناف حصہ</td>
+</tr>
+<tr>
+    <td>Buttocks</td>
+    <td>کولہے</td>
+</tr>
+<tr>
+    <td>Rump</td>
+    <td>سرین</td>
+</tr>
+<tr>
+    <td>Leg</td>
+    <td>ٹانگ</td>
+</tr>
+<tr>
+    <td>Thigh</td>
+    <td>ران</td>
+</tr>
+<tr>
+    <td>Knee</td>
+    <td>گھٹنا</td>
+</tr>
+<tr>
+    <td>Kneecap</td>
+    <td>گھٹنے کی ٹوپی</td>
+</tr>
+<tr>
+    <td>Shin</td>
+    <td>پنڈلی کی اگلی ہڈی</td>
+</tr>
+<tr>
+    <td>Calf</td>
+    <td>پنڈلی</td>
+</tr>
+<tr>
+    <td>Ankle</td>
+    <td>ٹخنہ</td>
+</tr>
+<tr>
+    <td>Heel</td>
+    <td>ایڑی</td>
+</tr>
+<tr>
+    <td>Sole</td>
+    <td>تلوہ</td>
+</tr>
+<tr>
+    <td>Foot</td>
+    <td>پاؤں</td>
+</tr>
+<tr>
+    <td>Instep</td>
+    <td>پاؤں کا اوپری حصہ</td>
+</tr>
+<tr>
+    <td>Arch of Foot</td>
+    <td>پاؤں کا محرابی حصہ</td>
+</tr>
+<tr>
+    <td>Toe</td>
+    <td>پاؤں کی انگلی</td>
+</tr>
+<tr>
+    <td>Toenail</td>
+    <td>پاؤں کا ناخن</td>
+</tr>
+      
+      <tr>
+    <td>Brain</td>
+    <td>دماغ</td>
+</tr>
+<tr>
+    <td>Cerebrum</td>
+    <td>دماغ کا بڑا حصہ</td>
+</tr>
+<tr>
+    <td>Cerebellum</td>
+    <td>مخیخ</td>
+</tr>
+<tr>
+    <td>Brain Stem</td>
+    <td>دماغ کا تنا</td>
+</tr>
+<tr>
+    <td>Nerve</td>
+    <td>عصب</td>
+</tr>
+<tr>
+    <td>Neuron</td>
+    <td>عصبی خلیہ</td>
+</tr>
+<tr>
+    <td>Optic Nerve</td>
+    <td>بینائی کا عصب</td>
+</tr>
+<tr>
+    <td>Heart</td>
+    <td>دل</td>
+</tr>
+<tr>
+    <td>Heart Valve</td>
+    <td>دل کا والو</td>
+</tr>
+<tr>
+    <td>Aorta</td>
+    <td>شہ رگ</td>
+</tr>
+<tr>
+    <td>Artery</td>
+    <td>شریان</td>
+</tr>
+<tr>
+    <td>Vein</td>
+    <td>ورید</td>
+</tr>
+<tr>
+    <td>Capillary</td>
+    <td>باریک خون کی نالی</td>
+</tr>
+<tr>
+    <td>Blood</td>
+    <td>خون</td>
+</tr>
+<tr>
+    <td>Red Blood Cell</td>
+    <td>سرخ خون کا خلیہ</td>
+</tr>
+<tr>
+    <td>White Blood Cell</td>
+    <td>سفید خون کا خلیہ</td>
+</tr>
+<tr>
+    <td>Platelet</td>
+    <td>خون کی پلیٹلیٹ</td>
+</tr>
+<tr>
+    <td>Pulse</td>
+    <td>نبض</td>
+</tr>
+<tr>
+    <td>Lung</td>
+    <td>پھیپھڑا</td>
+</tr>
+<tr>
+    <td>Bronchus</td>
+    <td>برونکس</td>
+</tr>
+<tr>
+    <td>Alveoli</td>
+    <td>ہوائی تھیلیاں</td>
+</tr>
+<tr>
+    <td>Trachea</td>
+    <td>ہوا کی نالی</td>
+</tr>
+<tr>
+    <td>Esophagus</td>
+    <td>غذائی نالی</td>
+</tr>
+<tr>
+    <td>Liver</td>
+    <td>جگر</td>
+</tr>
+<tr>
+    <td>Gallbladder</td>
+    <td>پتہ</td>
+</tr>
+<tr>
+    <td>Pancreas</td>
+    <td>لبلبہ</td>
+</tr>
+<tr>
+    <td>Spleen</td>
+    <td>تلی</td>
+</tr>
+<tr>
+    <td>Kidney</td>
+    <td>گردہ</td>
+</tr>
+<tr>
+    <td>Bladder</td>
+    <td>مثانہ</td>
+</tr>
+<tr>
+    <td>Ureter</td>
+    <td>حالب</td>
+</tr>
+<tr>
+    <td>Urethra</td>
+    <td>پیشاب کی نالی</td>
+</tr>
+<tr>
+    <td>Small Intestine</td>
+    <td>چھوٹی آنت</td>
+</tr>
+<tr>
+    <td>Large Intestine</td>
+    <td>بڑی آنت</td>
+</tr>
+<tr>
+    <td>Colon</td>
+    <td>قولون</td>
+</tr>
+<tr>
+    <td>Cecum</td>
+    <td>اندھی آنت</td>
+</tr>
+<tr>
+    <td>Appendix</td>
+    <td>اپینڈکس</td>
+</tr>
+<tr>
+    <td>Rectum</td>
+    <td>مستقیم آنت</td>
+</tr>
+<tr>
+    <td>Anus</td>
+    <td>مقعد</td>
+</tr>
+<tr>
+    <td>Diaphragm</td>
+    <td>حجابِ حاجز</td>
+</tr>
+<tr>
+    <td>Thyroid Gland</td>
+    <td>تھائرائیڈ غدود</td>
+</tr>
+<tr>
+    <td>Parathyroid Gland</td>
+    <td>پیراتھائرائیڈ غدود</td>
+</tr>
+<tr>
+    <td>Pituitary Gland</td>
+    <td>پچیوٹری غدود</td>
+</tr>
+<tr>
+    <td>Pineal Gland</td>
+    <td>صنوبری غدود</td>
+</tr>
+<tr>
+    <td>Hypothalamus</td>
+    <td>ہائپوتھیلمس</td>
+</tr>
+<tr>
+    <td>Adrenal Gland</td>
+    <td>ایڈرینل غدود</td>
+</tr>
+<tr>
+    <td>Thymus</td>
+    <td>تھائمس غدود</td>
+</tr>
+<tr>
+    <td>Lymph Node</td>
+    <td>لمفی غدود</td>
+</tr>
+<tr>
+    <td>Lymph Vessel</td>
+    <td>لمفی نالی</td>
+</tr>
+<tr>
+    <td>Immune Cell</td>
+    <td>مدافعتی خلیہ</td>
+</tr>
+<tr>
+    <td>Stem Cell</td>
+    <td>بنیادی خلیہ</td>
+</tr>
+      
+      <tr>
+    <td>Bone</td>
+    <td>ہڈی</td>
+</tr>
+<tr>
+    <td>Skull</td>
+    <td>کھوپڑی</td>
+</tr>
+<tr>
+    <td>Cranium</td>
+    <td>دماغی کھوپڑی</td>
+</tr>
+<tr>
+    <td>Clavicle</td>
+    <td>ہنسلی کی ہڈی</td>
+</tr>
+<tr>
+    <td>Scapula</td>
+    <td>کندھے کی ہڈی</td>
+</tr>
+<tr>
+    <td>Sternum</td>
+    <td>سینے کی درمیانی ہڈی</td>
+</tr>
+<tr>
+    <td>Vertebra</td>
+    <td>مہرہ</td>
+</tr>
+<tr>
+    <td>Vertebral Column</td>
+    <td>ریڑھ کی ہڈی کا ستون</td>
+</tr>
+<tr>
+    <td>Coccyx</td>
+    <td>دمچی کی ہڈی</td>
+</tr>
+<tr>
+    <td>Sacrum</td>
+    <td>سیکرم ہڈی</td>
+</tr>
+<tr>
+    <td>Humerus</td>
+    <td>بازو کی ہڈی</td>
+</tr>
+<tr>
+    <td>Radius</td>
+    <td>کلائی کی ایک ہڈی</td>
+</tr>
+<tr>
+    <td>Ulna</td>
+    <td>کلائی کی دوسری ہڈی</td>
+</tr>
+<tr>
+    <td>Femur</td>
+    <td>ران کی ہڈی</td>
+</tr>
+<tr>
+    <td>Patella</td>
+    <td>گھٹنے کی ہڈی</td>
+</tr>
+<tr>
+    <td>Tibia</td>
+    <td>پنڈلی کی بڑی ہڈی</td>
+</tr>
+<tr>
+    <td>Fibula</td>
+    <td>پنڈلی کی چھوٹی ہڈی</td>
+</tr>
+<tr>
+    <td>Metacarpal</td>
+    <td>ہتھیلی کی ہڈی</td>
+</tr>
+<tr>
+    <td>Metatarsal</td>
+    <td>پاؤں کی درمیانی ہڈی</td>
+</tr>
+<tr>
+    <td>Phalanx</td>
+    <td>انگلی کی ہڈی</td>
+</tr>
+<tr>
+    <td>Muscle</td>
+    <td>پٹھا</td>
+</tr>
+<tr>
+    <td>Biceps</td>
+    <td>بازو کا اگلا پٹھا</td>
+</tr>
+<tr>
+    <td>Triceps</td>
+    <td>بازو کا پچھلا پٹھا</td>
+</tr>
+<tr>
+    <td>Deltoid</td>
+    <td>کندھے کا پٹھا</td>
+</tr>
+<tr>
+    <td>Pectoral Muscle</td>
+    <td>سینے کا پٹھا</td>
+</tr>
+<tr>
+    <td>Abdominal Muscle</td>
+    <td>پیٹ کا پٹھا</td>
+</tr>
+<tr>
+    <td>Gluteus</td>
+    <td>سرین کا پٹھا</td>
+</tr>
+<tr>
+    <td>Hamstring</td>
+    <td>ران کا پچھلا پٹھا</td>
+</tr>
+<tr>
+    <td>Quadriceps</td>
+    <td>ران کا اگلا پٹھا</td>
+</tr>
+<tr>
+    <td>Calf Muscle</td>
+    <td>پنڈلی کا پٹھا</td>
+</tr>
+<tr>
+    <td>Tendon</td>
+    <td>کنڈرا</td>
+</tr>
+<tr>
+    <td>Ligament</td>
+    <td>رباط</td>
+</tr>
+<tr>
+    <td>Cartilage</td>
+    <td>غضروف</td>
+</tr>
+<tr>
+    <td>Joint</td>
+    <td>جوڑ</td>
+</tr>
+<tr>
+    <td>Bone Marrow</td>
+    <td>ہڈی کا گودا</td>
+</tr>
+<tr>
+    <td>Synovial Fluid</td>
+    <td>جوڑوں کا سیال</td>
+</tr>
+<tr>
+    <td>DNA</td>
+    <td>ڈی این اے</td>
+</tr>
+<tr>
+    <td>Chromosome</td>
+    <td>کروموسوم</td>
+</tr>
+<tr>
+    <td>Cell</td>
+    <td>خلیہ</td>
+</tr>
+<tr>
+    <td>Tissue</td>
+    <td>بافت</td>
+</tr>
+      
+      <tr>
+    <td>Hypophysis</td>
+    <td>پچیوٹری غدود</td>
+</tr>
+
+<tr>
+    <td>Duodenum</td>
+    <td>اثنا عشری آنت</td>
+</tr>
+
+<tr>
+    <td>Jejunum</td>
+    <td>خالی آنت</td>
+</tr>
+
+<tr>
+    <td>Ileum</td>
+    <td>آخری چھوٹی آنت</td>
+</tr>
+
+<tr>
+    <td>Sigmoid Colon</td>
+    <td>ایس نما بڑی آنت</td>
+</tr>
+
+<tr>
+    <td>Pericardium</td>
+    <td>دل کی جھلی</td>
+</tr>
+
+<tr>
+    <td>Pleura</td>
+    <td>پھیپھڑوں کی جھلی</td>
+</tr>
+
+<tr>
+    <td>Periosteum</td>
+    <td>ہڈی کی بیرونی جھلی</td>
+</tr>
+
+<tr>
+    <td>Enamel</td>
+    <td>دانت کی سخت بیرونی تہہ</td>
+</tr>
+
+<tr>
+    <td>Dentin</td>
+    <td>دانت کی اندرونی سخت تہہ</td>
+</tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
