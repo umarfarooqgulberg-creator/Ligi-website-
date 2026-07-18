@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Vegetables Named</title>
+   <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+<table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Potato</td>
+    <td>آلو</td>
+</tr>
+<tr>
+    <td>Tomato</td>
+    <td>ٹماٹر</td>
+</tr>
+<tr>
+    <td>Onion</td>
+    <td>پیاز</td>
+</tr>
+<tr>
+    <td>Garlic</td>
+    <td>لہسن</td>
+</tr>
+<tr>
+    <td>Ginger</td>
+    <td>ادرک</td>
+</tr>
+<tr>
+    <td>Carrot</td>
+    <td>گاجر</td>
+</tr>
+<tr>
+    <td>Radish</td>
+    <td>مولی</td>
+</tr>
+<tr>
+    <td>Turnip</td>
+    <td>شلجم</td>
+</tr>
+<tr>
+    <td>Beetroot</td>
+    <td>چقندر</td>
+</tr>
+<tr>
+    <td>Cabbage</td>
+    <td>بند گوبھی</td>
+</tr>
+<tr>
+    <td>Cauliflower</td>
+    <td>پھول گوبھی</td>
+</tr>
+<tr>
+    <td>Broccoli</td>
+    <td>بروکلی</td>
+</tr>
+<tr>
+    <td>Spinach</td>
+    <td>پالک</td>
+</tr>
+<tr>
+    <td>Fenugreek</td>
+    <td>میتھی</td>
+</tr>
+<tr>
+    <td>Mustard Greens</td>
+    <td>سرسوں کا ساگ</td>
+</tr>
+<tr>
+    <td>Lettuce</td>
+    <td>سلاد کے پتے</td>
+</tr>
+<tr>
+    <td>Coriander</td>
+    <td>دھنیا</td>
+</tr>
+<tr>
+    <td>Mint</td>
+    <td>پودینہ</td>
+</tr>
+<tr>
+    <td>Curry Leaves</td>
+    <td>کڑی پتے</td>
+</tr>
+<tr>
+    <td>Spring Onion</td>
+    <td>ہرا پیاز</td>
+</tr>
+<tr>
+    <td>Leek</td>
+    <td>لیک</td>
+</tr>
+<tr>
+    <td>Celery</td>
+    <td>اجوائن کے ڈنٹھل</td>
+</tr>
+<tr>
+    <td>Asparagus</td>
+    <td>ایسپاراگس</td>
+</tr>
+<tr>
+    <td>Artichoke</td>
+    <td>آرٹی چوک</td>
+</tr>
+<tr>
+    <td>Eggplant</td>
+    <td>بینگن</td>
+</tr>
+<tr>
+    <td>Bell Pepper</td>
+    <td>شملہ مرچ</td>
+</tr>
+<tr>
+    <td>Green Chili</td>
+    <td>ہری مرچ</td>
+</tr>
+<tr>
+    <td>Red Chili</td>
+    <td>سرخ مرچ</td>
+</tr>
+<tr>
+    <td>Okra</td>
+    <td>بھنڈی</td>
+</tr>
+<tr>
+    <td>Bitter Gourd</td>
+    <td>کریلا</td>
+</tr>
+<tr>
+    <td>Bottle Gourd</td>
+    <td>لوکی</td>
+</tr>
+<tr>
+    <td>Ridge Gourd</td>
+    <td>توری</td>
+</tr>
+<tr>
+    <td>Sponge Gourd</td>
+    <td>گھیا توری</td>
+</tr>
+<tr>
+    <td>Snake Gourd</td>
+    <td>چچنڈا</td>
+</tr>
+<tr>
+    <td>Pointed Gourd</td>
+    <td>پرول</td>
+</tr>
+<tr>
+    <td>Ash Gourd</td>
+    <td>سفید کدو</td>
+</tr>
+<tr>
+    <td>Pumpkin</td>
+    <td>کدو</td>
+</tr>
+<tr>
+    <td>Cucumber</td>
+    <td>کھیرا</td>
+</tr>
+<tr>
+    <td>Zucchini</td>
+    <td>زوکینی</td>
+</tr>
+<tr>
+    <td>Peas</td>
+    <td>مٹر</td>
+</tr>
+<tr>
+    <td>Green Beans</td>
+    <td>سبز پھلیاں</td>
+</tr>
+<tr>
+    <td>Broad Beans</td>
+    <td>باقلا</td>
+</tr>
+<tr>
+    <td>French Beans</td>
+    <td>فرینچ بینز</td>
+</tr>
+<tr>
+    <td>Cluster Beans</td>
+    <td>گوار پھلی</td>
+</tr>
+<tr>
+    <td>Drumstick</td>
+    <td>سہانجنا</td>
+</tr>
+<tr>
+    <td>Sweet Corn</td>
+    <td>میٹھی مکئی</td>
+</tr>
+<tr>
+    <td>Mushroom</td>
+    <td>کھمبی</td>
+</tr>
+<tr>
+    <td>Lotus Root</td>
+    <td>کنول کی جڑ</td>
+</tr>
+<tr>
+    <td>Taro Root</td>
+    <td>اروی</td>
+</tr>
+<tr>
+    <td>Yam</td>
+    <td>سورن</td>
+</tr>
+        <tr>
+    <td>Brussels Sprouts</td>
+    <td>برسلز اسپراؤٹس</td>
+</tr>
+<tr>
+    <td>Red Cabbage</td>
+    <td>سرخ بند گوبھی</td>
+</tr>
+<tr>
+    <td>Chinese Cabbage</td>
+    <td>چائنیز بند گوبھی</td>
+</tr>
+<tr>
+    <td>Bok Choy</td>
+    <td>بوک چوئے</td>
+</tr>
+<tr>
+    <td>Kale</td>
+    <td>کیل</td>
+</tr>
+<tr>
+    <td>Collard Greens</td>
+    <td>کولارڈ ساگ</td>
+</tr>
+<tr>
+    <td>Swiss Chard</td>
+    <td>سوئس چارڈ</td>
+</tr>
+<tr>
+    <td>Arugula</td>
+    <td>ارگولا</td>
+</tr>
+<tr>
+    <td>Watercress</td>
+    <td>واٹر کریس</td>
+</tr>
+<tr>
+    <td>Endive</td>
+    <td>اینڈائیو</td>
+</tr>
+<tr>
+    <td>Escarole</td>
+    <td>ایسکارول</td>
+</tr>
+<tr>
+    <td>Fennel</td>
+    <td>سونف کی سبزی</td>
+</tr>
+<tr>
+    <td>Kohlrabi</td>
+    <td>کوہل رابی</td>
+</tr>
+<tr>
+    <td>Parsnip</td>
+    <td>پارسنپ</td>
+</tr>
+<tr>
+    <td>Rutabaga</td>
+    <td>روٹا باگا</td>
+</tr>
+<tr>
+    <td>Celeriac</td>
+    <td>سیلری کی جڑ</td>
+</tr>
+<tr>
+    <td>Daikon</td>
+    <td>جاپانی مولی</td>
+</tr>
+<tr>
+    <td>Horseradish</td>
+    <td>ہارس ریڈش</td>
+</tr>
+<tr>
+    <td>Jicama</td>
+    <td>جیکاما</td>
+</tr>
+<tr>
+    <td>Cassava</td>
+    <td>کساوا</td>
+</tr>
+<tr>
+    <td>Bamboo Shoots</td>
+    <td>بانس کی کونپلیں</td>
+</tr>
+<tr>
+    <td>Bean Sprouts</td>
+    <td>بینز کی کونپلیں</td>
+</tr>
+<tr>
+    <td>Chayote</td>
+    <td>چایوٹے</td>
+</tr>
+<tr>
+    <td>Pattypan Squash</td>
+    <td>پیٹی پین اسکواش</td>
+</tr>
+<tr>
+    <td>Acorn Squash</td>
+    <td>ایکارن اسکواش</td>
+</tr>
+<tr>
+    <td>Butternut Squash</td>
+    <td>بٹرنٹ اسکواش</td>
+</tr>
+<tr>
+    <td>Spaghetti Squash</td>
+    <td>اسپاگیٹی اسکواش</td>
+</tr>
+<tr>
+    <td>Kabocha</td>
+    <td>کابوچا کدو</td>
+</tr>
+<tr>
+    <td>Turban Squash</td>
+    <td>ٹربن اسکواش</td>
+</tr>
+<tr>
+    <td>Delicata Squash</td>
+    <td>ڈیلیکاٹا اسکواش</td>
+</tr>
+<tr>
+    <td>Romanesco</td>
+    <td>رومانیسکو</td>
+</tr>
+<tr>
+    <td>Romanesco Broccoli</td>
+    <td>رومانیسکو بروکلی</td>
+</tr>
+<tr>
+    <td>Purple Cauliflower</td>
+    <td>جامنی پھول گوبھی</td>
+</tr>
+<tr>
+    <td>White Radish</td>
+    <td>سفید مولی</td>
+</tr>
+<tr>
+    <td>Red Radish</td>
+    <td>سرخ مولی</td>
+</tr>
+<tr>
+    <td>Purple Carrot</td>
+    <td>جامنی گاجر</td>
+</tr>
+<tr>
+    <td>Yellow Carrot</td>
+    <td>پیلی گاجر</td>
+</tr>
+<tr>
+    <td>White Carrot</td>
+    <td>سفید گاجر</td>
+</tr>
+<tr>
+    <td>Purple Yam</td>
+    <td>جامنی سورن</td>
+</tr>
+<tr>
+    <td>Elephant Foot Yam</td>
+    <td>ہاتھی پاؤں سورن</td>
+</tr>
+<tr>
+    <td>Malabar Spinach</td>
+    <td>پُوئی ساگ</td>
+</tr>
+<tr>
+    <td>Amaranth Greens</td>
+    <td>چولائی کا ساگ</td>
+</tr>
+<tr>
+    <td>Sorrel</td>
+    <td>ترش ساگ</td>
+</tr>
+<tr>
+    <td>Purslane</td>
+    <td>کلفہ</td>
+</tr>
+<tr>
+    <td>Dandelion Greens</td>
+    <td>ڈینڈیلین کے پتے</td>
+</tr>
+<tr>
+    <td>Mizuna</td>
+    <td>میزونا</td>
+</tr>
+<tr>
+    <td>Tatsoi</td>
+    <td>ٹاٹسوئی</td>
+</tr>
+<tr>
+    <td>Komatsuna</td>
+    <td>کوماٹسونا</td>
+</tr>
+<tr>
+    <td>Mustard Spinach</td>
+    <td>سرسوں پالک</td>
+</tr>
+<tr>
+    <td>Pak Choi</td>
+    <td>پاک چوئی</td>
+</tr>
+        <tr>
+    <td>Cardoon</td>
+    <td>کارڈون</td>
+</tr>
+<tr>
+    <td>Crosne</td>
+    <td>کروسنے</td>
+</tr>
+<tr>
+    <td>Celtuce</td>
+    <td>سیلٹوس</td>
+</tr>
+<tr>
+    <td>Yardlong Bean</td>
+    <td>لمبی پھلی</td>
+</tr>
+<tr>
+    <td>Hyacinth Bean</td>
+    <td>ہائسنٹھ بین</td>
+</tr>
+<tr>
+    <td>Lima Bean</td>
+    <td>لیما بین</td>
+</tr>
+<tr>
+    <td>Mung Bean Sprouts</td>
+    <td>مونگ کی کونپلیں</td>
+</tr>
+<tr>
+    <td>Soybean Sprouts</td>
+    <td>سویا بین کی کونپلیں</td>
+</tr>
+<tr>
+    <td>Edamame</td>
+    <td>کچی سویا بین</td>
+</tr>
+<tr>
+    <td>Winged Bean</td>
+    <td>چار پروں والی پھلی</td>
+</tr>
+<tr>
+    <td>Water Spinach</td>
+    <td>واٹر اسپینچ</td>
+</tr>
+<tr>
+    <td>New Zealand Spinach</td>
+    <td>نیوزی لینڈ پالک</td>
+</tr>
+<tr>
+    <td>Sea Kale</td>
+    <td>سمندری کیل</td>
+</tr>
+<tr>
+    <td>Sea Beet</td>
+    <td>سمندری چقندر</td>
+</tr>
+<tr>
+    <td>Samphire</td>
+    <td>سامفائر</td>
+</tr>
+<tr>
+    <td>Nopales</td>
+    <td>کیکٹس کے پتے</td>
+</tr>
+<tr>
+    <td>Cactus Pad</td>
+    <td>کیکٹس کی پتی</td>
+</tr>
+<tr>
+    <td>Heart of Palm</td>
+    <td>کھجور کے تنے کا گودا</td>
+</tr>
+<tr>
+    <td>Banana Blossom</td>
+    <td>کیلے کا پھول</td>
+</tr>
+<tr>
+    <td>Banana Stem</td>
+    <td>کیلے کا تنا</td>
+</tr>
+<tr>
+    <td>Lotus Stem</td>
+    <td>کنول کا تنا</td>
+</tr>
+<tr>
+    <td>Fiddlehead Fern</td>
+    <td>فرن کی کونپل</td>
+</tr>
+<tr>
+    <td>Chicory</td>
+    <td>چکوری</td>
+</tr>
+<tr>
+    <td>Radicchio</td>
+    <td>ریڈیکیو</td>
+</tr>
+<tr>
+    <td>Salsify</td>
+    <td>سالسیفائی</td>
+</tr>
+<tr>
+    <td>Black Salsify</td>
+    <td>بلیک سالسیفائی</td>
+</tr>
+<tr>
+    <td>Skirret</td>
+    <td>اسکرٹ جڑ</td>
+</tr>
+<tr>
+    <td>Scorzonera</td>
+    <td>سکورزونیرا</td>
+</tr>
+<tr>
+    <td>Oca</td>
+    <td>اوکا</td>
+</tr>
+<tr>
+    <td>Ulluco</td>
+    <td>اُلیوکو</td>
+</tr>
+<tr>
+    <td>Mashua</td>
+    <td>ماشوا</td>
+</tr>
+<tr>
+    <td>Yacon</td>
+    <td>یاکون</td>
+</tr>
+<tr>
+    <td>Tigernut</td>
+    <td>ٹائیگر نٹ</td>
+</tr>
+<tr>
+    <td>Chinese Broccoli</td>
+    <td>چائنیز بروکلی</td>
+</tr>
+<tr>
+    <td>Broccolini</td>
+    <td>بروکولینی</td>
+</tr>
+<tr>
+    <td>Kai Lan</td>
+    <td>کائی لان</td>
+</tr>
+<tr>
+    <td>Choy Sum</td>
+    <td>چوئے سم</td>
+</tr>
+<tr>
+    <td>Rapini</td>
+    <td>راپینی</td>
+</tr>
+<tr>
+    <td>Tat Soi</td>
+    <td>ٹاٹ سوئی</td>
+</tr>
+<tr>
+    <td>Garland Chrysanthemum</td>
+    <td>گارلینڈ کرسینتھیمم</td>
+</tr>
+<tr>
+    <td>Perilla Leaves</td>
+    <td>پیریلا کے پتے</td>
+</tr>
+<tr>
+    <td>Shiso</td>
+    <td>شیسو</td>
+</tr>
+<tr>
+    <td>Molokhia</td>
+    <td>ملوخیہ</td>
+</tr>
+<tr>
+    <td>Jute Leaves</td>
+    <td>پٹ سن کے پتے</td>
+</tr>
+<tr>
+    <td>Roselle Leaves</td>
+    <td>گڑہل کے پتے</td>
+</tr>
+<tr>
+    <td>Cowpea Leaves</td>
+    <td>لوبیا کے پتے</td>
+</tr>
+<tr>
+    <td>Pumpkin Leaves</td>
+    <td>کدو کے پتے</td>
+</tr>
+<tr>
+    <td>Sweet Potato Leaves</td>
+    <td>شکر قندی کے پتے</td>
+</tr>
+<tr>
+    <td>Cassava Leaves</td>
+    <td>کساوا کے پتے</td>
+</tr>
+<tr>
+    <td>Pea Shoots</td>
+    <td>مٹر کی نرم کونپلیں</td>
+</tr>
+        <tr>
+    <td>Pea Tendrils</td>
+    <td>مٹر کی بیل کی نرم شاخیں</td>
+</tr>
+<tr>
+    <td>Garlic Chives</td>
+    <td>لہسن کی پتی</td>
+</tr>
+<tr>
+    <td>Chives</td>
+    <td>چائیوز</td>
+</tr>
+<tr>
+    <td>Ramps</td>
+    <td>جنگلی لیک</td>
+</tr>
+<tr>
+    <td>Tree Onion</td>
+    <td>درختی پیاز</td>
+</tr>
+<tr>
+    <td>Pearl Onion</td>
+    <td>چھوٹا سفید پیاز</td>
+</tr>
+<tr>
+    <td>Cipollini Onion</td>
+    <td>چپولینی پیاز</td>
+</tr>
+<tr>
+    <td>Shallot</td>
+    <td>شلوٹ</td>
+</tr>
+<tr>
+    <td>Scallion</td>
+    <td>باریک ہرا پیاز</td>
+</tr>
+<tr>
+    <td>Red Onion</td>
+    <td>سرخ پیاز</td>
+</tr>
+<tr>
+    <td>White Onion</td>
+    <td>سفید پیاز</td>
+</tr>
+<tr>
+    <td>Yellow Onion</td>
+    <td>پیلا پیاز</td>
+</tr>
+<tr>
+    <td>Sweet Onion</td>
+    <td>میٹھا پیاز</td>
+</tr>
+<tr>
+    <td>Purple Asparagus</td>
+    <td>جامنی ایسپاراگس</td>
+</tr>
+<tr>
+    <td>White Asparagus</td>
+    <td>سفید ایسپاراگس</td>
+</tr>
+<tr>
+    <td>Green Asparagus</td>
+    <td>سبز ایسپاراگس</td>
+</tr>
+<tr>
+    <td>Yellow Beet</td>
+    <td>پیلا چقندر</td>
+</tr>
+<tr>
+    <td>Chioggia Beet</td>
+    <td>چیوگیا چقندر</td>
+</tr>
+<tr>
+    <td>Golden Beet</td>
+    <td>سنہری چقندر</td>
+</tr>
+<tr>
+    <td>Purple Sprouting Broccoli</td>
+    <td>جامنی بروکلی</td>
+</tr>
+<tr>
+    <td>White Eggplant</td>
+    <td>سفید بینگن</td>
+</tr>
+<tr>
+    <td>Thai Eggplant</td>
+    <td>تھائی بینگن</td>
+</tr>
+<tr>
+    <td>Japanese Eggplant</td>
+    <td>جاپانی بینگن</td>
+</tr>
+<tr>
+    <td>Indian Eggplant</td>
+    <td>بھارتی بینگن</td>
+</tr>
+<tr>
+    <td>Turkish Eggplant</td>
+    <td>ترک بینگن</td>
+</tr>
+<tr>
+    <td>Mini Bell Pepper</td>
+    <td>چھوٹی شملہ مرچ</td>
+</tr>
+<tr>
+    <td>Yellow Bell Pepper</td>
+    <td>پیلی شملہ مرچ</td>
+</tr>
+<tr>
+    <td>Orange Bell Pepper</td>
+    <td>نارنجی شملہ مرچ</td>
+</tr>
+<tr>
+    <td>Purple Bell Pepper</td>
+    <td>جامنی شملہ مرچ</td>
+</tr>
+<tr>
+    <td>Poblano Pepper</td>
+    <td>پوبلانو مرچ</td>
+</tr>
+<tr>
+    <td>Jalapeño</td>
+    <td>جالاپینو مرچ</td>
+</tr>
+<tr>
+    <td>Serrano Pepper</td>
+    <td>سیرانو مرچ</td>
+</tr>
+<tr>
+    <td>Habanero Pepper</td>
+    <td>ہابانیرو مرچ</td>
+</tr>
+<tr>
+    <td>Cayenne Pepper</td>
+    <td>کائین مرچ</td>
+</tr>
+<tr>
+    <td>Anaheim Pepper</td>
+    <td>ایناہائم مرچ</td>
+</tr>
+<tr>
+    <td>Shishito Pepper</td>
+    <td>شیشیتو مرچ</td>
+</tr>
+<tr>
+    <td>Padron Pepper</td>
+    <td>پیڈرون مرچ</td>
+</tr>
+<tr>
+    <td>Tomatillo</td>
+    <td>ٹوماٹیلو</td>
+</tr>
+<tr>
+    <td>Green Tomato</td>
+    <td>سبز ٹماٹر</td>
+</tr>
+<tr>
+    <td>Yellow Tomato</td>
+    <td>پیلا ٹماٹر</td>
+</tr>
+<tr>
+    <td>Heirloom Tomato</td>
+    <td>روایتی ٹماٹر</td>
+</tr>
+<tr>
+    <td>Cherry Tomato</td>
+    <td>چیری ٹماٹر</td>
+</tr>
+<tr>
+    <td>Roma Tomato</td>
+    <td>روما ٹماٹر</td>
+</tr>
+<tr>
+    <td>Beefsteak Tomato</td>
+    <td>بڑا ٹماٹر</td>
+</tr>
+<tr>
+    <td>Gherkin</td>
+    <td>چھوٹا اچاری کھیرا</td>
+</tr>
+<tr>
+    <td>Armenian Cucumber</td>
+    <td>آرمینیائی کھیرا</td>
+</tr>
+<tr>
+    <td>Luffa</td>
+    <td>جھینگا توری</td>
+</tr>
+<tr>
+    <td>Ivy Gourd</td>
+    <td>کنڈرو</td>
+</tr>
+<tr>
+    <td>Teasel Gourd</td>
+    <td>کاکوڑا</td>
+</tr>
+<tr>
+    <td>Apple Gourd</td>
+    <td>ٹنڈہ</td>
+</tr>
+      </tbody>
+      </table>
+</body>
+</html>
