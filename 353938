@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Vocabulary list</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+  
+  <section>
+    <main>
+  <div id="div">
+  <div class="class">
+    <li><a href="Body.human.html">Body Parts of Humans</a></li>
+    <li><a href="Body.human.html">انسانی جسم کے اعضا</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Name.animal.html">Names of Animals</a></li>
+    <li><a href="Name.animal.html">جانوروں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Name.birds.html">Names of Birds</a></li>
+    <li><a href="Name.birds.html">پرندوں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Name.insect.html">Names of Insects</a></li>
+    <li><a href="Name.insect.html">کیڑوں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Name.seaA.html">Names of Sea Animals</a></li>
+    <li><a href="Name.seaA.html">سمندری جانوروں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Body.animal.html">Body Parts of Animals</a></li>
+    <li><a href="Body.animal.html">جانوروں کے جسم کے اعضا</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Body.birds.html">Body Parts of Birds</a></li>
+    <li><a href="Body.birds.html">پرندوں کے جسم کے اعضا</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Body.insect.html">Body Parts of Insects</a></li>
+    <li><a href="Body.insect.html">کیڑوں کے جسم کے اعضا</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Body.seaA.html">Body Parts of Sea Animals</a></li>
+    <li><a href="Body.seaA.html">سمندری جانوروں کے جسم کے اعضا</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Fruit.html">Names of Fruits</a></li>
+    <li><a href="Fruit.html">پھلوں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Vegetable.html">Names of Vegetables</a></li>
+    <li><a href="Vegetable.html">سبزیوں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Flower.html">Names of Flowers</a></li>
+    <li><a href="Flower.html">پھولوں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Trees.html">Names of Trees</a></li>
+    <li><a href="Trees.html">درختوں کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="DryF.html">Names of Dry Fruits</a></li>
+    <li><a href="DryF.html">خشک میوہ جات کے نام</a></li>
+</div>
+
+<div class="class">
+    <li><a href="Species.html">Names of Spices</a></li>
+    <li><a href="Species.html">مصالحہ جات کے نام</a></li>
+</div>
+
+    </div>
+      </main>
+    </section>
+</body>
+</html>
