@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Body parts of insect</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+</body>
+<!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+
+
+ <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+     <tbody>
+       <tr>
+    <td>Head</td>
+    <td>سر</td>
+</tr>
+<tr>
+    <td>Thorax</td>
+    <td>سینہ</td>
+</tr>
+<tr>
+    <td>Abdomen</td>
+    <td>پیٹ</td>
+</tr>
+<tr>
+    <td>Compound Eye</td>
+    <td>مرکب آنکھ</td>
+</tr>
+<tr>
+    <td>Simple Eye</td>
+    <td>سادہ آنکھ</td>
+</tr>
+<tr>
+    <td>Ocellus</td>
+    <td>سادہ بصری عضو</td>
+</tr>
+<tr>
+    <td>Antenna</td>
+    <td>حسی مونچھ</td>
+</tr>
+<tr>
+    <td>Antennal Segment</td>
+    <td>مونچھ کا حصہ</td>
+</tr>
+<tr>
+    <td>Scape</td>
+    <td>مونچھ کی جڑ</td>
+</tr>
+<tr>
+    <td>Pedicel</td>
+    <td>مونچھ کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Flagellum</td>
+    <td>مونچھ کا آخری حصہ</td>
+</tr>
+<tr>
+    <td>Frons</td>
+    <td>پیشانی</td>
+</tr>
+<tr>
+    <td>Clypeus</td>
+    <td>چہرے کا اگلا حصہ</td>
+</tr>
+<tr>
+    <td>Labrum</td>
+    <td>اوپری ہونٹ</td>
+</tr>
+<tr>
+    <td>Mandible</td>
+    <td>چبانے والا جبڑا</td>
+</tr>
+<tr>
+    <td>Maxilla</td>
+    <td>بالائی جبڑا</td>
+</tr>
+<tr>
+    <td>Maxillary Palp</td>
+    <td>بالائی جبڑے کی حسی شاخ</td>
+</tr>
+<tr>
+    <td>Labium</td>
+    <td>نچلا ہونٹ</td>
+</tr>
+<tr>
+    <td>Labial Palp</td>
+    <td>نچلے ہونٹ کی حسی شاخ</td>
+</tr>
+<tr>
+    <td>Proboscis</td>
+    <td>لمبی سونڈ</td>
+</tr>
+<tr>
+    <td>Rostrum</td>
+    <td>سونڈ نما اگلا حصہ</td>
+</tr>
+<tr>
+    <td>Neck</td>
+    <td>گردن</td>
+</tr>
+<tr>
+    <td>Pronotum</td>
+    <td>سینے کا اگلا حصہ</td>
+</tr>
+<tr>
+    <td>Mesonotum</td>
+    <td>سینے کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Metanotum</td>
+    <td>سینے کا پچھلا حصہ</td>
+</tr>
+<tr>
+    <td>Wing</td>
+    <td>پر</td>
+</tr>
+<tr>
+    <td>Forewing</td>
+    <td>اگلا پر</td>
+</tr>
+<tr>
+    <td>Hindwing</td>
+    <td>پچھلا پر</td>
+</tr>
+<tr>
+    <td>Wing Vein</td>
+    <td>پر کی رگ</td>
+</tr>
+<tr>
+    <td>Wing Margin</td>
+    <td>پر کا کنارہ</td>
+</tr>
+<tr>
+    <td>Leg</td>
+    <td>ٹانگ</td>
+</tr>
+<tr>
+    <td>Foreleg</td>
+    <td>اگلی ٹانگ</td>
+</tr>
+<tr>
+    <td>Midleg</td>
+    <td>درمیانی ٹانگ</td>
+</tr>
+<tr>
+    <td>Hind Leg</td>
+    <td>پچھلی ٹانگ</td>
+</tr>
+<tr>
+    <td>Coxa</td>
+    <td>ٹانگ کی جڑ</td>
+</tr>
+<tr>
+    <td>Trochanter</td>
+    <td>ٹانگ کا دوسرا جوڑ</td>
+</tr>
+<tr>
+    <td>Femur</td>
+    <td>ران</td>
+</tr>
+<tr>
+    <td>Tibia</td>
+    <td>پنڈلی</td>
+</tr>
+<tr>
+    <td>Tarsus</td>
+    <td>پاؤں کا حصہ</td>
+</tr>
+<tr>
+    <td>Tarsal Claw</td>
+    <td>پنجے کا ناخن</td>
+</tr>
+<tr>
+    <td>Pretarsus</td>
+    <td>پاؤں کا آخری حصہ</td>
+</tr>
+<tr>
+    <td>Arolium</td>
+    <td>چپکنے والی گدی</td>
+</tr>
+<tr>
+    <td>Spur</td>
+    <td>نوکیلا کانٹا</td>
+</tr>
+<tr>
+    <td>Spine</td>
+    <td>کانٹا</td>
+</tr>
+<tr>
+    <td>Seta</td>
+    <td>باریک بال</td>
+</tr>
+<tr>
+    <td>Setae</td>
+    <td>باریک بال (جمع)</td>
+</tr>
+<tr>
+    <td>Cerci</td>
+    <td>دم کے آخری حسی اعضا</td>
+</tr>
+<tr>
+    <td>Ovipositor</td>
+    <td>انڈے دینے والا عضو</td>
+</tr>
+<tr>
+    <td>Spiracle</td>
+    <td>سانس کا سوراخ</td>
+</tr>
+<tr>
+    <td>Exoskeleton</td>
+    <td>بیرونی سخت ڈھانچہ</td>
+</tr>
+       <tr>
+    <td>Epicranium</td>
+    <td>سر کا اوپری حصہ</td>
+</tr>
+<tr>
+    <td>Vertex</td>
+    <td>سر کی چوٹی</td>
+</tr>
+<tr>
+    <td>Gena</td>
+    <td>گال کا حصہ</td>
+</tr>
+<tr>
+    <td>Occiput</td>
+    <td>سر کا پچھلا حصہ</td>
+</tr>
+<tr>
+    <td>Postocciput</td>
+    <td>سر کا پچھلا نچلا حصہ</td>
+</tr>
+<tr>
+    <td>Postclypeus</td>
+    <td>کلائپیئس کا پچھلا حصہ</td>
+</tr>
+<tr>
+    <td>Anteclypeus</td>
+    <td>کلائپیئس کا اگلا حصہ</td>
+</tr>
+<tr>
+    <td>Hypopharynx</td>
+    <td>اندرونی زبان نما حصہ</td>
+</tr>
+<tr>
+    <td>Epipharynx</td>
+    <td>منہ کی اوپری اندرونی تہہ</td>
+</tr>
+<tr>
+    <td>Cardo</td>
+    <td>میکسیلا کی جڑ</td>
+</tr>
+<tr>
+    <td>Stipes</td>
+    <td>میکسیلا کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Galea</td>
+    <td>میکسیلا کا بیرونی حصہ</td>
+</tr>
+<tr>
+    <td>Lacinia</td>
+    <td>میکسیلا کا اندرونی حصہ</td>
+</tr>
+<tr>
+    <td>Mentum</td>
+    <td>نچلے ہونٹ کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Submentum</td>
+    <td>نچلے ہونٹ کی بنیاد</td>
+</tr>
+<tr>
+    <td>Prementum</td>
+    <td>نچلے ہونٹ کا اگلا حصہ</td>
+</tr>
+<tr>
+    <td>Glossa</td>
+    <td>زبان نما حصہ</td>
+</tr>
+<tr>
+    <td>Paraglossa</td>
+    <td>زبان کے اطراف کا حصہ</td>
+</tr>
+<tr>
+    <td>Pronotal Shield</td>
+    <td>سینے کی حفاظتی ڈھال</td>
+</tr>
+<tr>
+    <td>Scutum</td>
+    <td>درمیانی پشت کا حصہ</td>
+</tr>
+<tr>
+    <td>Scutellum</td>
+    <td>چھوٹی پشت کی تختی</td>
+</tr>
+<tr>
+    <td>Postscutellum</td>
+    <td>پشت کی پچھلی تختی</td>
+</tr>
+<tr>
+    <td>Pleuron</td>
+    <td>سینے کا کناری حصہ</td>
+</tr>
+<tr>
+    <td>Sternum</td>
+    <td>سینے کا نچلا حصہ</td>
+</tr>
+<tr>
+    <td>Pleural Suture</td>
+    <td>کناری جوڑ</td>
+</tr>
+<tr>
+    <td>Subcosta</td>
+    <td>پر کی پہلی رگ</td>
+</tr>
+<tr>
+    <td>Radius</td>
+    <td>پر کی شعاعی رگ</td>
+</tr>
+<tr>
+    <td>Media Vein</td>
+    <td>درمیانی پر کی رگ</td>
+</tr>
+<tr>
+    <td>Cubitus</td>
+    <td>پر کی کیوبیٹس رگ</td>
+</tr>
+<tr>
+    <td>Anal Vein</td>
+    <td>پر کی عقبی رگ</td>
+</tr>
+<tr>
+    <td>Costa</td>
+    <td>پر کا اگلا کنارہ</td>
+</tr>
+<tr>
+    <td>Pterostigma</td>
+    <td>پر کا رنگین دھبہ</td>
+</tr>
+<tr>
+    <td>Hamuli</td>
+    <td>پر جوڑنے والے ننھے کانٹے</td>
+</tr>
+<tr>
+    <td>Unguis</td>
+    <td>پنجے کا نوکیلا ناخن</td>
+</tr>
+<tr>
+    <td>Pulvillus</td>
+    <td>چپکنے والی گدی</td>
+</tr>
+<tr>
+    <td>Empodium</td>
+    <td>پنجے کے درمیان عضو</td>
+</tr>
+<tr>
+    <td>Trochantin</td>
+    <td>ٹانگ کا چھوٹا جوڑ</td>
+</tr>
+<tr>
+    <td>Basitarsus</td>
+    <td>پاؤں کا پہلا حصہ</td>
+</tr>
+<tr>
+    <td>Tarsomere</td>
+    <td>پاؤں کا حلقہ</td>
+</tr>
+<tr>
+    <td>Abdominal Segment</td>
+    <td>پیٹ کا حلقہ</td>
+</tr>
+<tr>
+    <td>Tergite</td>
+    <td>پیٹ کی اوپری تختی</td>
+</tr>
+<tr>
+    <td>Sternite</td>
+    <td>پیٹ کی نچلی تختی</td>
+</tr>
+<tr>
+    <td>Pleurite</td>
+    <td>پیٹ کی کناری تختی</td>
+</tr>
+<tr>
+    <td>Genital Capsule</td>
+    <td>تولیدی غلاف</td>
+</tr>
+<tr>
+    <td>Aedeagus</td>
+    <td>نر کا تولیدی عضو</td>
+</tr>
+<tr>
+    <td>Spermatheca</td>
+    <td>نطفہ ذخیرہ کرنے کی تھیلی</td>
+</tr>
+<tr>
+    <td>Trachea</td>
+    <td>سانس کی نالی</td>
+</tr>
+<tr>
+    <td>Tracheole</td>
+    <td>باریک سانس کی نالی</td>
+</tr>
+<tr>
+    <td>Fat Body</td>
+    <td>چربی والا بافت</td>
+</tr>
+<tr>
+    <td>Dorsal Vessel</td>
+    <td>پشت کی خون کی نالی</td>
+</tr>
+       <tr>
+    <td>Heart</td>
+    <td>دل</td>
+</tr>
+<tr>
+    <td>Aorta</td>
+    <td>شہ رگ</td>
+</tr>
+<tr>
+    <td>Hemolymph</td>
+    <td>کیڑوں کا جسمانی مائع</td>
+</tr>
+<tr>
+    <td>Hemocoel</td>
+    <td>جسمانی گہا</td>
+</tr>
+<tr>
+    <td>Brain</td>
+    <td>دماغ</td>
+</tr>
+<tr>
+    <td>Subesophageal Ganglion</td>
+    <td>حلق کے نیچے اعصابی گرہ</td>
+</tr>
+<tr>
+    <td>Ventral Nerve Cord</td>
+    <td>زیریں اعصابی رسی</td>
+</tr>
+<tr>
+    <td>Ganglion</td>
+    <td>اعصابی گرہ</td>
+</tr>
+<tr>
+    <td>Sensory Hair</td>
+    <td>حسی بال</td>
+</tr>
+<tr>
+    <td>Johnston's Organ</td>
+    <td>جانسٹن کا حسی عضو</td>
+</tr>
+<tr>
+    <td>Tympanum</td>
+    <td>سماعتی جھلی</td>
+</tr>
+<tr>
+    <td>Chordotonal Organ</td>
+    <td>ارتعاش محسوس کرنے والا عضو</td>
+</tr>
+<tr>
+    <td>Cercal Organ</td>
+    <td>دمی حسی عضو</td>
+</tr>
+<tr>
+    <td>Crop</td>
+    <td>خوراک ذخیرہ کرنے کی تھیلی</td>
+</tr>
+<tr>
+    <td>Proventriculus</td>
+    <td>پیش معدہ</td>
+</tr>
+<tr>
+    <td>Midgut</td>
+    <td>درمیانی آنت</td>
+</tr>
+<tr>
+    <td>Hindgut</td>
+    <td>پچھلی آنت</td>
+</tr>
+<tr>
+    <td>Foregut</td>
+    <td>اگلی آنت</td>
+</tr>
+<tr>
+    <td>Rectum</td>
+    <td>مقعدی حصہ</td>
+</tr>
+<tr>
+    <td>Anus</td>
+    <td>مقعد</td>
+</tr>
+<tr>
+    <td>Malpighian Tubules</td>
+    <td>اخراجی نالیاں</td>
+</tr>
+<tr>
+    <td>Salivary Gland</td>
+    <td>لعابی غدود</td>
+</tr>
+<tr>
+    <td>Salivary Duct</td>
+    <td>لعابی نالی</td>
+</tr>
+<tr>
+    <td>Crop Valve</td>
+    <td>خوراک کی تھیلی کا والو</td>
+</tr>
+<tr>
+    <td>Peritrophic Membrane</td>
+    <td>حفاظتی ہاضمی جھلی</td>
+</tr>
+<tr>
+    <td>Ovary</td>
+    <td>بیضہ دانی</td>
+</tr>
+<tr>
+    <td>Testis</td>
+    <td>خصیہ</td>
+</tr>
+<tr>
+    <td>Oviduct</td>
+    <td>بیضہ نالی</td>
+</tr>
+<tr>
+    <td>Vas Deferens</td>
+    <td>نطفہ نالی</td>
+</tr>
+<tr>
+    <td>Accessory Gland</td>
+    <td>معاون غدود</td>
+</tr>
+<tr>
+    <td>Bursa Copulatrix</td>
+    <td>تولیدی تھیلی</td>
+</tr>
+<tr>
+    <td>Spermatophore</td>
+    <td>نطفے کا غلاف</td>
+</tr>
+<tr>
+    <td>Egg</td>
+    <td>انڈا</td>
+</tr>
+<tr>
+    <td>Egg Case</td>
+    <td>انڈوں کا خول</td>
+</tr>
+<tr>
+    <td>Larva</td>
+    <td>سنڈی</td>
+</tr>
+<tr>
+    <td>Pupa</td>
+    <td>شفیرہ</td>
+</tr>
+<tr>
+    <td>Cocoon</td>
+    <td>کویا</td>
+</tr>
+<tr>
+    <td>Puparium</td>
+    <td>شفیرے کا خول</td>
+</tr>
+<tr>
+    <td>Instar</td>
+    <td>بڑھوتری کا مرحلہ</td>
+</tr>
+<tr>
+    <td>Cuticle</td>
+    <td>بیرونی جلد</td>
+</tr>
+<tr>
+    <td>Epicuticle</td>
+    <td>جلد کی بیرونی تہہ</td>
+</tr>
+<tr>
+    <td>Exocuticle</td>
+    <td>جلد کی درمیانی سخت تہہ</td>
+</tr>
+<tr>
+    <td>Endocuticle</td>
+    <td>جلد کی اندرونی تہہ</td>
+</tr>
+<tr>
+    <td>Epidermis</td>
+    <td>اندرونی جلد</td>
+</tr>
+<tr>
+    <td>Molting Line</td>
+    <td>کھال بدلنے کی لکیر</td>
+</tr>
+<tr>
+    <td>Ecdysial Suture</td>
+    <td>کھال پھٹنے کی درز</td>
+</tr>
+<tr>
+    <td>Wax Layer</td>
+    <td>مومی تہہ</td>
+</tr>
+<tr>
+    <td>Sensillum</td>
+    <td>حسی عضو</td>
+</tr>
+<tr>
+    <td>Mechanoreceptor</td>
+    <td>حرکت محسوس کرنے والا عضو</td>
+</tr>
+<tr>
+    <td>Chemoreceptor</td>
+    <td>کیمیائی حس کا عضو</td>
+</tr>
+       <tr>
+    <td>Campaniform Sensillum</td>
+    <td>گھنٹی نما حسی عضو</td>
+</tr>
+<tr>
+    <td>Trichoid Sensillum</td>
+    <td>بال نما حسی عضو</td>
+</tr>
+<tr>
+    <td>Basiconic Sensillum</td>
+    <td>مخروطی حسی عضو</td>
+</tr>
+<tr>
+    <td>Coeloconic Sensillum</td>
+    <td>گڑھے نما حسی عضو</td>
+</tr>
+<tr>
+    <td>Placoid Sensillum</td>
+    <td>چپٹی حسی پلیٹ</td>
+</tr>
+<tr>
+    <td>Arista</td>
+    <td>مونچھ کا باریک سرا</td>
+</tr>
+<tr>
+    <td>Funiculus</td>
+    <td>مونچھ کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Pedicellar Button</td>
+    <td>مونچھ کا حسی بٹن</td>
+</tr>
+<tr>
+    <td>Frontal Suture</td>
+    <td>پیشانی کی درز</td>
+</tr>
+<tr>
+    <td>Epicranial Suture</td>
+    <td>سر کی اوپری درز</td>
+</tr>
+<tr>
+    <td>Gular Plate</td>
+    <td>گلے کی تختی</td>
+</tr>
+<tr>
+    <td>Tentorium</td>
+    <td>سر کا اندرونی ڈھانچہ</td>
+</tr>
+<tr>
+    <td>Tentorium Arm</td>
+    <td>ٹینٹوریم کی شاخ</td>
+</tr>
+<tr>
+    <td>Cervix</td>
+    <td>گردنی حصہ</td>
+</tr>
+<tr>
+    <td>Cervical Sclerite</td>
+    <td>گردن کی سخت تختی</td>
+</tr>
+<tr>
+    <td>Patella</td>
+    <td>ٹانگ کا درمیانی جوڑ</td>
+</tr>
+<tr>
+    <td>Claw Pad</td>
+    <td>پنجے کی نرم گدی</td>
+</tr>
+<tr>
+    <td>Empodial Bristle</td>
+    <td>درمیانی باریک ریشہ</td>
+</tr>
+<tr>
+    <td>Wing Base</td>
+    <td>پر کی جڑ</td>
+</tr>
+<tr>
+    <td>Axillary Sclerite</td>
+    <td>پر کی بنیاد کی تختی</td>
+</tr>
+<tr>
+    <td>Humeral Plate</td>
+    <td>کندھے کی پلیٹ</td>
+</tr>
+<tr>
+    <td>Alula</td>
+    <td>چھوٹا عقبی پر</td>
+</tr>
+<tr>
+    <td>Calypter</td>
+    <td>پر کی حفاظتی جھلی</td>
+</tr>
+<tr>
+    <td>Costa Vein</td>
+    <td>اگلی پر کی رگ</td>
+</tr>
+<tr>
+    <td>Subcosta Vein</td>
+    <td>ذیلی اگلی رگ</td>
+</tr>
+<tr>
+    <td>Radial Sector</td>
+    <td>شعاعی شاخ</td>
+</tr>
+<tr>
+    <td>Median Cell</td>
+    <td>درمیانی خانہ</td>
+</tr>
+<tr>
+    <td>Discal Cell</td>
+    <td>مرکزی خانہ</td>
+</tr>
+<tr>
+    <td>Anal Cell</td>
+    <td>عقبی خانہ</td>
+</tr>
+<tr>
+    <td>Wing Apex</td>
+    <td>پر کا سرا</td>
+</tr>
+<tr>
+    <td>Wing Membrane</td>
+    <td>پر کی جھلی</td>
+</tr>
+<tr>
+    <td>Wing Fringe</td>
+    <td>پر کا باریک کنارہ</td>
+</tr>
+<tr>
+    <td>Abdominal Tip</td>
+    <td>پیٹ کا آخری سرا</td>
+</tr>
+<tr>
+    <td>Anal Cerci</td>
+    <td>مقعدی حسی اعضا</td>
+</tr>
+<tr>
+    <td>Genital Plate</td>
+    <td>تولیدی تختی</td>
+</tr>
+<tr>
+    <td>Subgenital Plate</td>
+    <td>تولیدی نچلی تختی</td>
+</tr>
+<tr>
+    <td>Supraanal Plate</td>
+    <td>مقعد کے اوپر کی تختی</td>
+</tr>
+<tr>
+    <td>Paraproct</td>
+    <td>مقعد کے اطراف کا حصہ</td>
+</tr>
+<tr>
+    <td>Epiproct</td>
+    <td>مقعد کے اوپر کا حصہ</td>
+</tr>
+<tr>
+    <td>Cercal Base</td>
+    <td>دمی عضو کی جڑ</td>
+</tr>
+<tr>
+    <td>Muscle Fiber</td>
+    <td>پٹھے کا ریشہ</td>
+</tr>
+<tr>
+    <td>Tendon</td>
+    <td>کنڈرا</td>
+</tr>
+<tr>
+    <td>Apodeme</td>
+    <td>اندرونی سخت ابھار</td>
+</tr>
+<tr>
+    <td>Fat Cell</td>
+    <td>چربی کا خلیہ</td>
+</tr>
+<tr>
+    <td>Hemocyte</td>
+    <td>جسمانی مائع کا خلیہ</td>
+</tr>
+<tr>
+    <td>Pericardial Cell</td>
+    <td>دل کے گرد خلیہ</td>
+</tr>
+<tr>
+    <td>Nephrocyte</td>
+    <td>اخراجی خلیہ</td>
+</tr>
+<tr>
+    <td>Corpora Allata</td>
+    <td>ہارمون بنانے والا غدود</td>
+</tr>
+<tr>
+    <td>Corpora Cardiaca</td>
+    <td>اعصابی غدود</td>
+</tr>
+<tr>
+    <td>Prothoracic Gland</td>
+    <td>سینے کا ہارمون غدود</td>
+</tr>
+     </tbody>
+     </table>
+<body>
+  
+</body>
+</html>
