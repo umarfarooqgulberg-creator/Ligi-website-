@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Body parts of sea animals</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+   <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+     <tbody>
+       <tr>
+    <td>Head</td>
+    <td>سر</td>
+</tr>
+<tr>
+    <td>Eye</td>
+    <td>آنکھ</td>
+</tr>
+<tr>
+    <td>Pupil</td>
+    <td>آنکھ کی پتلی</td>
+</tr>
+<tr>
+    <td>Cornea</td>
+    <td>قرنیہ</td>
+</tr>
+<tr>
+    <td>Iris</td>
+    <td>عنبیہ</td>
+</tr>
+<tr>
+    <td>Mouth</td>
+    <td>منہ</td>
+</tr>
+<tr>
+    <td>Jaw</td>
+    <td>جبڑا</td>
+</tr>
+<tr>
+    <td>Upper Jaw</td>
+    <td>اوپری جبڑا</td>
+</tr>
+<tr>
+    <td>Lower Jaw</td>
+    <td>نچلا جبڑا</td>
+</tr>
+<tr>
+    <td>Teeth</td>
+    <td>دانت</td>
+</tr>
+<tr>
+    <td>Fang</td>
+    <td>نوکیلا دانت</td>
+</tr>
+<tr>
+    <td>Beak</td>
+    <td>چونچ</td>
+</tr>
+<tr>
+    <td>Rostrum</td>
+    <td>لمبی چونچ نما ناک</td>
+</tr>
+<tr>
+    <td>Snout</td>
+    <td>تھوتھنی</td>
+</tr>
+<tr>
+    <td>Nostril</td>
+    <td>نتھنا</td>
+</tr>
+<tr>
+    <td>Blowhole</td>
+    <td>سانس کا سوراخ</td>
+</tr>
+<tr>
+    <td>Gill</td>
+    <td>گلپھڑا</td>
+</tr>
+<tr>
+    <td>Gill Slit</td>
+    <td>گلپھڑے کی دراڑ</td>
+</tr>
+<tr>
+    <td>Gill Cover</td>
+    <td>گلپھڑے کا ڈھکن</td>
+</tr>
+<tr>
+    <td>Operculum</td>
+    <td>گلپھڑے کا حفاظتی ڈھکن</td>
+</tr>
+<tr>
+    <td>Tongue</td>
+    <td>زبان</td>
+</tr>
+<tr>
+    <td>Body</td>
+    <td>جسم</td>
+</tr>
+<tr>
+    <td>Back</td>
+    <td>پیٹھ</td>
+</tr>
+<tr>
+    <td>Belly</td>
+    <td>پیٹ</td>
+</tr>
+<tr>
+    <td>Skin</td>
+    <td>جلد</td>
+</tr>
+<tr>
+    <td>Scales</td>
+    <td>چھلکے</td>
+</tr>
+<tr>
+    <td>Blubber</td>
+    <td>موٹی چربی کی تہہ</td>
+</tr>
+<tr>
+    <td>Fin</td>
+    <td>پنکھ</td>
+</tr>
+<tr>
+    <td>Dorsal Fin</td>
+    <td>اوپری پنکھ</td>
+</tr>
+<tr>
+    <td>Pectoral Fin</td>
+    <td>سینے کا پنکھ</td>
+</tr>
+<tr>
+    <td>Pelvic Fin</td>
+    <td>پیٹ کا پنکھ</td>
+</tr>
+<tr>
+    <td>Anal Fin</td>
+    <td>مقعدی پنکھ</td>
+</tr>
+<tr>
+    <td>Caudal Fin</td>
+    <td>دمی پنکھ</td>
+</tr>
+<tr>
+    <td>Tail</td>
+    <td>دم</td>
+</tr>
+<tr>
+    <td>Fluke</td>
+    <td>وہیل کی دم</td>
+</tr>
+<tr>
+    <td>Flipper</td>
+    <td>تیرنے والا بازو</td>
+</tr>
+<tr>
+    <td>Lateral Line</td>
+    <td>حسی لکیر</td>
+</tr>
+<tr>
+    <td>Spine</td>
+    <td>ریڑھ کی ہڈی</td>
+</tr>
+<tr>
+    <td>Vertebra</td>
+    <td>مہرہ</td>
+</tr>
+<tr>
+    <td>Heart</td>
+    <td>دل</td>
+</tr>
+<tr>
+    <td>Lung</td>
+    <td>پھیپھڑا</td>
+</tr>
+<tr>
+    <td>Swim Bladder</td>
+    <td>تیراکی کی تھیلی</td>
+</tr>
+<tr>
+    <td>Liver</td>
+    <td>جگر</td>
+</tr>
+<tr>
+    <td>Stomach</td>
+    <td>معدہ</td>
+</tr>
+<tr>
+    <td>Intestine</td>
+    <td>آنت</td>
+</tr>
+<tr>
+    <td>Kidney</td>
+    <td>گردہ</td>
+</tr>
+<tr>
+    <td>Brain</td>
+    <td>دماغ</td>
+</tr>
+<tr>
+    <td>Nerve</td>
+    <td>عصب</td>
+</tr>
+<tr>
+    <td>Muscle</td>
+    <td>پٹھا</td>
+</tr>
+<tr>
+    <td>Blood Vessel</td>
+    <td>خون کی نالی</td>
+</tr>
+       <tr>
+    <td>Eye Lens</td>
+    <td>آنکھ کا عدسہ</td>
+</tr>
+<tr>
+    <td>Retina</td>
+    <td>ریٹینا</td>
+</tr>
+<tr>
+    <td>Optic Nerve</td>
+    <td>بصری عصب</td>
+</tr>
+<tr>
+    <td>Skull</td>
+    <td>کھوپڑی</td>
+</tr>
+<tr>
+    <td>Cartilage</td>
+    <td>غضروف</td>
+</tr>
+<tr>
+    <td>Rib</td>
+    <td>پسلی</td>
+</tr>
+<tr>
+    <td>Fin Ray</td>
+    <td>پنکھ کی شعاع</td>
+</tr>
+<tr>
+    <td>Fin Spine</td>
+    <td>پنکھ کا کانٹا</td>
+</tr>
+<tr>
+    <td>Tail Peduncle</td>
+    <td>دم سے پہلے کا تنگ حصہ</td>
+</tr>
+<tr>
+    <td>Tail Lobe</td>
+    <td>دم کا حصہ</td>
+</tr>
+<tr>
+    <td>Dorsal Ridge</td>
+    <td>پشت کی ابھری لکیر</td>
+</tr>
+<tr>
+    <td>Keel</td>
+    <td>ابھرا کنارہ</td>
+</tr>
+<tr>
+    <td>Dermal Denticles</td>
+    <td>جلدی دانت نما ساخت</td>
+</tr>
+<tr>
+    <td>Spiracle</td>
+    <td>سانس کا معاون سوراخ</td>
+</tr>
+<tr>
+    <td>Ampullae of Lorenzini</td>
+    <td>برقی حس والے اعضا</td>
+</tr>
+<tr>
+    <td>Gill Arch</td>
+    <td>گلپھڑے کی ہڈی</td>
+</tr>
+<tr>
+    <td>Gill Raker</td>
+    <td>گلپھڑے کا فلٹر حصہ</td>
+</tr>
+<tr>
+    <td>Gill Filament</td>
+    <td>گلپھڑے کا باریک ریشہ</td>
+</tr>
+<tr>
+    <td>Mantle</td>
+    <td>جسم کا بیرونی غلاف</td>
+</tr>
+<tr>
+    <td>Tentacle</td>
+    <td>لمبا بازو</td>
+</tr>
+<tr>
+    <td>Sucker</td>
+    <td>چوسنے والا پیالہ</td>
+</tr>
+<tr>
+    <td>Siphon</td>
+    <td>پانی خارج کرنے والی نالی</td>
+</tr>
+<tr>
+    <td>Ink Sac</td>
+    <td>سیاہی کی تھیلی</td>
+</tr>
+<tr>
+    <td>Radula</td>
+    <td>دانتوں والی زبان</td>
+</tr>
+<tr>
+    <td>Shell</td>
+    <td>خول</td>
+</tr>
+<tr>
+    <td>Carapace</td>
+    <td>سخت اوپری خول</td>
+</tr>
+<tr>
+    <td>Plastron</td>
+    <td>نچلا خول</td>
+</tr>
+<tr>
+    <td>Scute</td>
+    <td>سخت حفاظتی تختی</td>
+</tr>
+<tr>
+    <td>Tube Foot</td>
+    <td>نلکی نما پاؤں</td>
+</tr>
+<tr>
+    <td>Madreporite</td>
+    <td>پانی داخل کرنے والا سوراخ</td>
+</tr>
+<tr>
+    <td>Ambulacral Groove</td>
+    <td>ٹیوب فٹ کی نالی</td>
+</tr>
+<tr>
+    <td>Spine</td>
+    <td>کانٹا</td>
+</tr>
+<tr>
+    <td>Pedicellaria</td>
+    <td>ننھا چمٹا نما عضو</td>
+</tr>
+<tr>
+    <td>Papula</td>
+    <td>جلدی ابھار</td>
+</tr>
+<tr>
+    <td>Oral Surface</td>
+    <td>منہ والی سطح</td>
+</tr>
+<tr>
+    <td>Aboral Surface</td>
+    <td>منہ کے مخالف سطح</td>
+</tr>
+<tr>
+    <td>Byssal Threads</td>
+    <td>چپکنے والے ریشے</td>
+</tr>
+<tr>
+    <td>Adductor Muscle</td>
+    <td>خول بند کرنے والا پٹھا</td>
+</tr>
+<tr>
+    <td>Pallial Line</td>
+    <td>خول کے اندرونی نشان</td>
+</tr>
+<tr>
+    <td>Pallial Sinus</td>
+    <td>خول کی اندرونی خمیدہ جگہ</td>
+</tr>
+<tr>
+    <td>Umbo</td>
+    <td>خول کا ابھرا حصہ</td>
+</tr>
+<tr>
+    <td>Hinge</td>
+    <td>خول کا جوڑ</td>
+</tr>
+<tr>
+    <td>Ligament</td>
+    <td>رباط</td>
+</tr>
+<tr>
+    <td>Periostracum</td>
+    <td>خول کی بیرونی تہہ</td>
+</tr>
+<tr>
+    <td>Nacre</td>
+    <td>موتی کی تہہ</td>
+</tr>
+<tr>
+    <td>Pearl Sac</td>
+    <td>موتی بنانے والی تھیلی</td>
+</tr>
+<tr>
+    <td>Foot</td>
+    <td>پاؤں</td>
+</tr>
+<tr>
+    <td>Visceral Mass</td>
+    <td>اندرونی اعضا کا حصہ</td>
+</tr>
+<tr>
+    <td>Labial Palp</td>
+    <td>منہ کے قریب حسی عضو</td>
+</tr>
+<tr>
+    <td>Excurrent Siphon</td>
+    <td>پانی خارج کرنے والی نالی</td>
+</tr>
+       <tr>
+    <td>Cephalothorax</td>
+    <td>سر اور سینہ کا ملا ہوا حصہ</td>
+</tr>
+<tr>
+    <td>Abdomen</td>
+    <td>پیٹ</td>
+</tr>
+<tr>
+    <td>Thorax</td>
+    <td>سینہ</td>
+</tr>
+<tr>
+    <td>Walking Leg</td>
+    <td>چلنے والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Swimming Leg</td>
+    <td>تیرنے والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Cheliped</td>
+    <td>چنگل والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Claw</td>
+    <td>چنگل</td>
+</tr>
+<tr>
+    <td>Pincer</td>
+    <td>چمٹا نما پنجہ</td>
+</tr>
+<tr>
+    <td>Dactyl</td>
+    <td>پنجے کا آخری حصہ</td>
+</tr>
+<tr>
+    <td>Propodus</td>
+    <td>پنجے کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Carpus</td>
+    <td>کلائی نما حصہ</td>
+</tr>
+<tr>
+    <td>Merus</td>
+    <td>ٹانگ کا درمیانی جوڑ</td>
+</tr>
+<tr>
+    <td>Ischium</td>
+    <td>ٹانگ کا ابتدائی جوڑ</td>
+</tr>
+<tr>
+    <td>Coxa</td>
+    <td>ٹانگ کی جڑ</td>
+</tr>
+<tr>
+    <td>Pleopod</td>
+    <td>پیٹ کی تیرنے والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Uropod</td>
+    <td>دم کا کناری حصہ</td>
+</tr>
+<tr>
+    <td>Telson</td>
+    <td>دم کا آخری حصہ</td>
+</tr>
+<tr>
+    <td>Eye Stalk</td>
+    <td>آنکھ کی ڈنڈی</td>
+</tr>
+<tr>
+    <td>Antenna</td>
+    <td>لمبی حسی مونچھ</td>
+</tr>
+<tr>
+    <td>Antennule</td>
+    <td>چھوٹی حسی مونچھ</td>
+</tr>
+<tr>
+    <td>Mandible</td>
+    <td>چبانے والا جبڑا</td>
+</tr>
+<tr>
+    <td>Maxilla</td>
+    <td>بالائی جبڑا</td>
+</tr>
+<tr>
+    <td>Maxilliped</td>
+    <td>خوراک پکڑنے والا عضو</td>
+</tr>
+<tr>
+    <td>Ramus</td>
+    <td>شاخ نما حصہ</td>
+</tr>
+<tr>
+    <td>Pleon</td>
+    <td>پیچھے کا جسمانی حصہ</td>
+</tr>
+<tr>
+    <td>Rostral Spine</td>
+    <td>ناک کا نوکیلا کانٹا</td>
+</tr>
+<tr>
+    <td>Branchiostegite</td>
+    <td>گلپھڑوں کا حفاظتی خول</td>
+</tr>
+<tr>
+    <td>Epipod</td>
+    <td>ٹانگ کا اضافی حصہ</td>
+</tr>
+<tr>
+    <td>Endopod</td>
+    <td>اندرونی شاخ</td>
+</tr>
+<tr>
+    <td>Exopod</td>
+    <td>بیرونی شاخ</td>
+</tr>
+<tr>
+    <td>Setae</td>
+    <td>باریک حسی بال</td>
+</tr>
+<tr>
+    <td>Setule</td>
+    <td>انتہائی باریک بال</td>
+</tr>
+<tr>
+    <td>Oral Arm</td>
+    <td>منہ کے قریب بازو</td>
+</tr>
+<tr>
+    <td>Bell</td>
+    <td>گھنٹی نما جسم</td>
+</tr>
+<tr>
+    <td>Velum</td>
+    <td>اندرونی جھلی</td>
+</tr>
+<tr>
+    <td>Gonad</td>
+    <td>تولیدی غدود</td>
+</tr>
+<tr>
+    <td>Mesoglea</td>
+    <td>جیلی نما درمیانی تہہ</td>
+</tr>
+<tr>
+    <td>Manubrium</td>
+    <td>منہ کا مرکزی حصہ</td>
+</tr>
+<tr>
+    <td>Gastric Pouch</td>
+    <td>ہاضمے کی تھیلی</td>
+</tr>
+<tr>
+    <td>Radial Canal</td>
+    <td>شعاعی نالی</td>
+</tr>
+<tr>
+    <td>Ring Canal</td>
+    <td>حلقہ نما نالی</td>
+</tr>
+<tr>
+    <td>Oral Disc</td>
+    <td>منہ کی گول سطح</td>
+</tr>
+<tr>
+    <td>Basal Disc</td>
+    <td>بنیادی چپکنے والی سطح</td>
+</tr>
+<tr>
+    <td>Column</td>
+    <td>ستونی جسم</td>
+</tr>
+<tr>
+    <td>Pedal Disc</td>
+    <td>پاؤں کی گول سطح</td>
+</tr>
+<tr>
+    <td>Actinopharynx</td>
+    <td>منہ سے اندر جانے والی نالی</td>
+</tr>
+<tr>
+    <td>Mesentery</td>
+    <td>اندرونی پردہ</td>
+</tr>
+<tr>
+    <td>Cnidocyte</td>
+    <td>ڈنک مارنے والا خلیہ</td>
+</tr>
+<tr>
+    <td>Nematocyst</td>
+    <td>زہریلا ڈنک والا کیپسول</td>
+</tr>
+<tr>
+    <td>Basal Plate</td>
+    <td>بنیادی تختی</td>
+</tr>
+       <tr>
+    <td>Polyp</td>
+    <td>پولیپ</td>
+</tr>
+<tr>
+    <td>Corallite</td>
+    <td>مرجان کا خول</td>
+</tr>
+<tr>
+    <td>Coenosarc</td>
+    <td>مرجان کا مشترکہ بافت</td>
+</tr>
+<tr>
+    <td>Coenosteum</td>
+    <td>مرجان کا سخت ڈھانچہ</td>
+</tr>
+<tr>
+    <td>Septa</td>
+    <td>اندرونی دیواریں</td>
+</tr>
+<tr>
+    <td>Septal Teeth</td>
+    <td>اندرونی دیواروں کے دانت نما ابھار</td>
+</tr>
+<tr>
+    <td>Columella</td>
+    <td>مرکزی ستون</td>
+</tr>
+<tr>
+    <td>Theca</td>
+    <td>بیرونی دیوار</td>
+</tr>
+<tr>
+    <td>Coelenteron</td>
+    <td>ہاضمے کی مرکزی گہا</td>
+</tr>
+<tr>
+    <td>Oral Cone</td>
+    <td>منہ کا مخروطی حصہ</td>
+</tr>
+<tr>
+    <td>Hydranth</td>
+    <td>خوراک لینے والا حصہ</td>
+</tr>
+<tr>
+    <td>Hydrorhiza</td>
+    <td>جڑ نما حصہ</td>
+</tr>
+<tr>
+    <td>Hydrocaulus</td>
+    <td>تنا نما حصہ</td>
+</tr>
+<tr>
+    <td>Perisarc</td>
+    <td>بیرونی حفاظتی تہہ</td>
+</tr>
+<tr>
+    <td>Gastrozooid</td>
+    <td>خوراک حاصل کرنے والا پولیپ</td>
+</tr>
+<tr>
+    <td>Dactylozooid</td>
+    <td>دفاعی پولیپ</td>
+</tr>
+<tr>
+    <td>Gonozooid</td>
+    <td>تولیدی پولیپ</td>
+</tr>
+<tr>
+    <td>Pneumatophore</td>
+    <td>ہوا سے بھرا غبارہ نما حصہ</td>
+</tr>
+<tr>
+    <td>Nectophore</td>
+    <td>تیرنے والا حصہ</td>
+</tr>
+<tr>
+    <td>Bract</td>
+    <td>حفاظتی پتہ نما حصہ</td>
+</tr>
+<tr>
+    <td>Zooid</td>
+    <td>نوآبادی کا انفرادی حصہ</td>
+</tr>
+<tr>
+    <td>Solenia</td>
+    <td>باریک اندرونی نالیاں</td>
+</tr>
+<tr>
+    <td>Sclerite</td>
+    <td>ننھا سخت ڈھانچہ</td>
+</tr>
+<tr>
+    <td>Axis</td>
+    <td>مرکزی محور</td>
+</tr>
+<tr>
+    <td>Holdfast</td>
+    <td>چپکنے والی بنیاد</td>
+</tr>
+<tr>
+    <td>Stipe</td>
+    <td>ڈنڈی</td>
+</tr>
+<tr>
+    <td>Blade</td>
+    <td>پتہ نما حصہ</td>
+</tr>
+<tr>
+    <td>Float</td>
+    <td>تیرنے والا غبارہ</td>
+</tr>
+<tr>
+    <td>Air Bladder</td>
+    <td>ہوا کی تھیلی</td>
+</tr>
+<tr>
+    <td>Frond</td>
+    <td>پتوں جیسا حصہ</td>
+</tr>
+<tr>
+    <td>Holdfast Disc</td>
+    <td>بنیادی چپکنے والی پلیٹ</td>
+</tr>
+<tr>
+    <td>Rhizoid</td>
+    <td>جڑ نما ریشہ</td>
+</tr>
+<tr>
+    <td>Stolon</td>
+    <td>پھیلنے والی شاخ</td>
+</tr>
+<tr>
+    <td>Disc Pore</td>
+    <td>مرکزی سوراخ</td>
+</tr>
+<tr>
+    <td>Apical Plate</td>
+    <td>اوپری تختی</td>
+</tr>
+<tr>
+    <td>Oral Hood</td>
+    <td>منہ کا حفاظتی حصہ</td>
+</tr>
+<tr>
+    <td>Subumbrella</td>
+    <td>گھنٹی کا اندرونی حصہ</td>
+</tr>
+<tr>
+    <td>Exumbrella</td>
+    <td>گھنٹی کا بیرونی حصہ</td>
+</tr>
+<tr>
+    <td>Sensory Club</td>
+    <td>حسی عضو</td>
+</tr>
+<tr>
+    <td>Statocyst</td>
+    <td>توازن برقرار رکھنے والا عضو</td>
+</tr>
+<tr>
+    <td>Rhopalium</td>
+    <td>حسی مرکز</td>
+</tr>
+<tr>
+    <td>Velar Lappet</td>
+    <td>جھلی نما کنارہ</td>
+</tr>
+<tr>
+    <td>Subgenital Pit</td>
+    <td>تولیدی گڑھا</td>
+</tr>
+<tr>
+    <td>Buccal Funnel</td>
+    <td>منہ کی قیفی نالی</td>
+</tr>
+<tr>
+    <td>Oral Groove</td>
+    <td>منہ کی نالی</td>
+</tr>
+<tr>
+    <td>Apical Organ</td>
+    <td>اوپری حسی عضو</td>
+</tr>
+<tr>
+    <td>Comb Plate</td>
+    <td>کنگھی نما پلیٹ</td>
+</tr>
+<tr>
+    <td>Ctene Row</td>
+    <td>کنگھی نما قطار</td>
+</tr>
+<tr>
+    <td>Colloblast</td>
+    <td>چپکنے والا خلیہ</td>
+</tr>
+<tr>
+    <td>Aboral Pole</td>
+    <td>منہ کے مخالف سرا</td>
+</tr>
+     </tbody>
+     </table>
+</body>
+</html>
