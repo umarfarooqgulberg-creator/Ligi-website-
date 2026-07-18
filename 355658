@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Friuts Names</title>
+   <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li class="none"><a href="index.html">🏠 Home</a></li>
+    <li class="none"><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li class="none"><a href="Blog.html">📚 Blog</a></li>
+    <li class="none"><a href="About.html">ℹ️ About Us</a></li>
+    <li class="none"><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+  <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+  
+  
+ <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Apple</td>
+    <td>سیب</td>
+</tr>
+<tr>
+    <td>Mango</td>
+    <td>آم</td>
+</tr>
+<tr>
+    <td>Banana</td>
+    <td>کیلا</td>
+</tr>
+<tr>
+    <td>Orange</td>
+    <td>سنگترہ</td>
+</tr>
+<tr>
+    <td>Grapes</td>
+    <td>انگور</td>
+</tr>
+<tr>
+    <td>Pomegranate</td>
+    <td>انار</td>
+</tr>
+<tr>
+    <td>Guava</td>
+    <td>امرود</td>
+</tr>
+<tr>
+    <td>Papaya</td>
+    <td>پپیتا</td>
+</tr>
+<tr>
+    <td>Pineapple</td>
+    <td>انناس</td>
+</tr>
+<tr>
+    <td>Watermelon</td>
+    <td>تربوز</td>
+</tr>
+<tr>
+    <td>Muskmelon</td>
+    <td>خربوزہ</td>
+</tr>
+<tr>
+    <td>Strawberry</td>
+    <td>اسٹرابیری</td>
+</tr>
+<tr>
+    <td>Blueberry</td>
+    <td>بلیو بیری</td>
+</tr>
+<tr>
+    <td>Blackberry</td>
+    <td>بلیک بیری</td>
+</tr>
+<tr>
+    <td>Raspberry</td>
+    <td>راسبیری</td>
+</tr>
+<tr>
+    <td>Cherry</td>
+    <td>چیری</td>
+</tr>
+<tr>
+    <td>Peach</td>
+    <td>آڑو</td>
+</tr>
+<tr>
+    <td>Apricot</td>
+    <td>خوبانی</td>
+</tr>
+<tr>
+    <td>Plum</td>
+    <td>آلو بخارا</td>
+</tr>
+<tr>
+    <td>Pear</td>
+    <td>ناشپاتی</td>
+</tr>
+<tr>
+    <td>Lychee</td>
+    <td>لیچی</td>
+</tr>
+<tr>
+    <td>Kiwi</td>
+    <td>کیوی</td>
+</tr>
+<tr>
+    <td>Dragon Fruit</td>
+    <td>ڈریگن فروٹ</td>
+</tr>
+<tr>
+    <td>Passion Fruit</td>
+    <td>پیشن فروٹ</td>
+</tr>
+<tr>
+    <td>Avocado</td>
+    <td>ایووکاڈو</td>
+</tr>
+<tr>
+    <td>Coconut</td>
+    <td>ناریل</td>
+</tr>
+<tr>
+    <td>Lemon</td>
+    <td>لیموں</td>
+</tr>
+<tr>
+    <td>Lime</td>
+    <td>کاغذی لیموں</td>
+</tr>
+<tr>
+    <td>Sweet Lime</td>
+    <td>موسمی</td>
+</tr>
+<tr>
+    <td>Grapefruit</td>
+    <td>گریپ فروٹ</td>
+</tr>
+<tr>
+    <td>Mandarin</td>
+    <td>کینو</td>
+</tr>
+<tr>
+    <td>Tangerine</td>
+    <td>ٹینجرین</td>
+</tr>
+<tr>
+    <td>Pomelo</td>
+    <td>چکوترا</td>
+</tr>
+<tr>
+    <td>Fig</td>
+    <td>انجیر</td>
+</tr>
+<tr>
+    <td>Date</td>
+    <td>کھجور</td>
+</tr>
+<tr>
+    <td>Persimmon</td>
+    <td>جاپانی پھل</td>
+</tr>
+<tr>
+    <td>Mulberry</td>
+    <td>شہتوت</td>
+</tr>
+<tr>
+    <td>Jamun</td>
+    <td>جامن</td>
+</tr>
+<tr>
+    <td>Star Fruit</td>
+    <td>کمرخ</td>
+</tr>
+<tr>
+    <td>Custard Apple</td>
+    <td>شریفہ</td>
+</tr>
+<tr>
+    <td>Sapodilla</td>
+    <td>چیکو</td>
+</tr>
+<tr>
+    <td>Jujube</td>
+    <td>بیر</td>
+</tr>
+<tr>
+    <td>Gooseberry</td>
+    <td>آملہ</td>
+</tr>
+<tr>
+    <td>Loquat</td>
+    <td>لوکاٹ</td>
+</tr>
+<tr>
+    <td>Quince</td>
+    <td>بہی</td>
+</tr>
+<tr>
+    <td>Olive</td>
+    <td>زیتون</td>
+</tr>
+<tr>
+    <td>Cranberry</td>
+    <td>کرین بیری</td>
+</tr>
+<tr>
+    <td>Currant</td>
+    <td>کرنٹ</td>
+</tr>
+<tr>
+    <td>Elderberry</td>
+    <td>ایلڈر بیری</td>
+</tr>
+<tr>
+    <td>Boysenberry</td>
+    <td>بوائزن بیری</td>
+</tr>
+        <tr>
+    <td>Acai Berry</td>
+    <td>اکائی بیری</td>
+</tr>
+<tr>
+    <td>Ackee</td>
+    <td>اکی</td>
+</tr>
+<tr>
+    <td>Atemoya</td>
+    <td>ایٹیمویا</td>
+</tr>
+<tr>
+    <td>Bael</td>
+    <td>بیل</td>
+</tr>
+<tr>
+    <td>Barbados Cherry</td>
+    <td>بارباڈوس چیری</td>
+</tr>
+<tr>
+    <td>Bilberry</td>
+    <td>بل بیری</td>
+</tr>
+<tr>
+    <td>Breadfruit</td>
+    <td>بریڈ فروٹ</td>
+</tr>
+<tr>
+    <td>Buddha's Hand</td>
+    <td>بدھا ہینڈ لیموں</td>
+</tr>
+<tr>
+    <td>Cactus Pear</td>
+    <td>کیکٹس ناشپاتی</td>
+</tr>
+<tr>
+    <td>Canistel</td>
+    <td>کینسٹل</td>
+</tr>
+<tr>
+    <td>Carambola</td>
+    <td>کارامبولا</td>
+</tr>
+<tr>
+    <td>Cempedak</td>
+    <td>چیمپیڈک</td>
+</tr>
+<tr>
+    <td>Cherimoya</td>
+    <td>چیریمویا</td>
+</tr>
+<tr>
+    <td>Cloudberry</td>
+    <td>کلاؤڈ بیری</td>
+</tr>
+<tr>
+    <td>Cupuacu</td>
+    <td>کپواسو</td>
+</tr>
+<tr>
+    <td>Damson</td>
+    <td>ڈیمسن</td>
+</tr>
+<tr>
+    <td>Desert Lime</td>
+    <td>صحرائی لیموں</td>
+</tr>
+<tr>
+    <td>Dewberry</td>
+    <td>ڈیو بیری</td>
+</tr>
+<tr>
+    <td>Durian</td>
+    <td>ڈوریان</td>
+</tr>
+<tr>
+    <td>Feijoa</td>
+    <td>فیجوا</td>
+</tr>
+<tr>
+    <td>Finger Lime</td>
+    <td>فنگر لائم</td>
+</tr>
+<tr>
+    <td>Genip</td>
+    <td>جینیپ</td>
+</tr>
+<tr>
+    <td>Golden Berry</td>
+    <td>گولڈن بیری</td>
+</tr>
+<tr>
+    <td>Governor's Plum</td>
+    <td>گورنر پلم</td>
+</tr>
+<tr>
+    <td>Hala Fruit</td>
+    <td>ہالا فروٹ</td>
+</tr>
+<tr>
+    <td>Hawthorn Berry</td>
+    <td>ہاتھورن بیری</td>
+</tr>
+<tr>
+    <td>Honeyberry</td>
+    <td>ہنی بیری</td>
+</tr>
+<tr>
+    <td>Horned Melon</td>
+    <td>سینگ والا خربوزہ</td>
+</tr>
+<tr>
+    <td>Huckleberry</td>
+    <td>ہکل بیری</td>
+</tr>
+<tr>
+    <td>Illawarra Plum</td>
+    <td>ایلاوارا پلم</td>
+</tr>
+<tr>
+    <td>Indian Fig</td>
+    <td>انڈین فگ</td>
+</tr>
+<tr>
+    <td>Jabuticaba</td>
+    <td>جابوٹیکابا</td>
+</tr>
+<tr>
+    <td>Jackfruit</td>
+    <td>کٹہل</td>
+</tr>
+<tr>
+    <td>Java Apple</td>
+    <td>جاوا ایپل</td>
+</tr>
+<tr>
+    <td>Kaffir Lime</td>
+    <td>کافر لائم</td>
+</tr>
+<tr>
+    <td>Kepel</td>
+    <td>کیپل</td>
+</tr>
+<tr>
+    <td>Langsat</td>
+    <td>لانگسات</td>
+</tr>
+<tr>
+    <td>Longan</td>
+    <td>لونگن</td>
+</tr>
+<tr>
+    <td>Lucuma</td>
+    <td>لوکوما</td>
+</tr>
+<tr>
+    <td>Mammee Apple</td>
+    <td>مامی ایپل</td>
+</tr>
+<tr>
+    <td>Mangosteen</td>
+    <td>مینگوسٹین</td>
+</tr>
+<tr>
+    <td>Marionberry</td>
+    <td>ماریون بیری</td>
+</tr>
+<tr>
+    <td>Medlar</td>
+    <td>میڈلر</td>
+</tr>
+<tr>
+    <td>Miracle Fruit</td>
+    <td>معجزاتی پھل</td>
+</tr>
+<tr>
+    <td>Monstera Fruit</td>
+    <td>مونسٹیرا فروٹ</td>
+</tr>
+<tr>
+    <td>Naranjilla</td>
+    <td>نارانجیلا</td>
+</tr>
+<tr>
+    <td>Pepino Melon</td>
+    <td>پیپینو میلن</td>
+</tr>
+<tr>
+    <td>Physalis</td>
+    <td>فیزالس</td>
+</tr>
+<tr>
+    <td>Pitanga</td>
+    <td>پٹانگا</td>
+</tr>
+<tr>
+    <td>Plantain</td>
+    <td>پلانٹین کیلا</td>
+</tr>
+        <tr>
+    <td>Pommette</td>
+    <td>پومیٹ</td>
+</tr>
+<tr>
+    <td>Rambutan</td>
+    <td>رامبوٹن</td>
+</tr>
+<tr>
+    <td>Red Banana</td>
+    <td>سرخ کیلا</td>
+</tr>
+<tr>
+    <td>Redcurrant</td>
+    <td>سرخ کرنٹ</td>
+</tr>
+<tr>
+    <td>Rose Apple</td>
+    <td>روز ایپل</td>
+</tr>
+<tr>
+    <td>Rose Hip</td>
+    <td>گلابی پھل</td>
+</tr>
+<tr>
+    <td>Salak</td>
+    <td>سالک</td>
+</tr>
+<tr>
+    <td>Salmonberry</td>
+    <td>سالمن بیری</td>
+</tr>
+<tr>
+    <td>Santol</td>
+    <td>سینٹول</td>
+</tr>
+<tr>
+    <td>Soursop</td>
+    <td>سورسوپ</td>
+</tr>
+<tr>
+    <td>Spanish Lime</td>
+    <td>ہسپانوی لائم</td>
+</tr>
+<tr>
+    <td>Sugar Apple</td>
+    <td>شوگر ایپل</td>
+</tr>
+<tr>
+    <td>Surinam Cherry</td>
+    <td>سورینام چیری</td>
+</tr>
+<tr>
+    <td>Tamarillo</td>
+    <td>ٹامریلو</td>
+</tr>
+<tr>
+    <td>Tamarind</td>
+    <td>املی</td>
+</tr>
+<tr>
+    <td>White Sapote</td>
+    <td>وائٹ ساپوٹے</td>
+</tr>
+<tr>
+    <td>Wax Apple</td>
+    <td>ویکس ایپل</td>
+</tr>
+<tr>
+    <td>Yuzu</td>
+    <td>یوزو</td>
+</tr>
+<tr>
+    <td>Youngberry</td>
+    <td>ینگ بیری</td>
+</tr>
+<tr>
+    <td>Ziziphus Fruit</td>
+    <td>زیزیفس پھل</td>
+</tr>
+<tr>
+    <td>Araza</td>
+    <td>آرازا</td>
+</tr>
+<tr>
+    <td>Babaco</td>
+    <td>باباکو</td>
+</tr>
+<tr>
+    <td>Bignay</td>
+    <td>بگنے</td>
+</tr>
+<tr>
+    <td>Black Sapote</td>
+    <td>بلیک ساپوٹے</td>
+</tr>
+<tr>
+    <td>Caimito</td>
+    <td>کائیمیٹو</td>
+</tr>
+<tr>
+    <td>Calamansi</td>
+    <td>کالامنسی</td>
+</tr>
+<tr>
+    <td>Coco Plum</td>
+    <td>کوکو پلم</td>
+</tr>
+<tr>
+    <td>Desert Quandong</td>
+    <td>ڈیزرٹ کوانڈونگ</td>
+</tr>
+<tr>
+    <td>Emu Apple</td>
+    <td>ایمو ایپل</td>
+</tr>
+<tr>
+    <td>Gac Fruit</td>
+    <td>گاک فروٹ</td>
+</tr>
+<tr>
+    <td>Grumichama</td>
+    <td>گرومیچاما</td>
+</tr>
+<tr>
+    <td>Imbe</td>
+    <td>امبے</td>
+</tr>
+<tr>
+    <td>Kei Apple</td>
+    <td>کے ایپل</td>
+</tr>
+<tr>
+    <td>Korlan</td>
+    <td>کورلان</td>
+</tr>
+<tr>
+    <td>Lilly Pilly</td>
+    <td>للی پِلی</td>
+</tr>
+<tr>
+    <td>Mabolo</td>
+    <td>مابولو</td>
+</tr>
+<tr>
+    <td>Mamoncillo</td>
+    <td>میمونسیلو</td>
+</tr>
+<tr>
+    <td>Mangaba</td>
+    <td>مانگابا</td>
+</tr>
+<tr>
+    <td>Mountain Pepper Berry</td>
+    <td>ماؤنٹین پیپر بیری</td>
+</tr>
+<tr>
+    <td>Mundu</td>
+    <td>منڈو</td>
+</tr>
+<tr>
+    <td>Nance</td>
+    <td>نانسے</td>
+</tr>
+<tr>
+    <td>Pequi</td>
+    <td>پیکی</td>
+</tr>
+<tr>
+    <td>Pulasan</td>
+    <td>پولاسان</td>
+</tr>
+<tr>
+    <td>Quandong</td>
+    <td>کوانڈونگ</td>
+</tr>
+<tr>
+    <td>Safou</td>
+    <td>سافو</td>
+</tr>
+<tr>
+    <td>Sea Buckthorn</td>
+    <td>سی بک تھورن</td>
+</tr>
+<tr>
+    <td>Serviceberry</td>
+    <td>سروس بیری</td>
+</tr>
+<tr>
+    <td>Tayberry</td>
+    <td>ٹے بیری</td>
+</tr>
+<tr>
+    <td>Velvet Apple</td>
+    <td>ویلویٹ ایپل</td>
+</tr>
+<tr>
+    <td>White Mulberry</td>
+    <td>سفید شہتوت</td>
+</tr>
+        <tr>
+    <td>Ambarella</td>
+    <td>امبریلا</td>
+</tr>
+<tr>
+    <td>African Cucumber</td>
+    <td>افریقی کھیرا پھل</td>
+</tr>
+<tr>
+    <td>Beach Plum</td>
+    <td>بیچ پلم</td>
+</tr>
+<tr>
+    <td>Biriba</td>
+    <td>بیریبا</td>
+</tr>
+<tr>
+    <td>Brush Cherry</td>
+    <td>برش چیری</td>
+</tr>
+<tr>
+    <td>Burdekin Plum</td>
+    <td>برڈیکن پلم</td>
+</tr>
+<tr>
+    <td>Camu Camu</td>
+    <td>کامو کامو</td>
+</tr>
+<tr>
+    <td>Cape Gooseberry</td>
+    <td>کیپ گوزبیری</td>
+</tr>
+<tr>
+    <td>Chocolate Pudding Fruit</td>
+    <td>چاکلیٹ پڈنگ فروٹ</td>
+</tr>
+<tr>
+    <td>Crowberry</td>
+    <td>کرو بیری</td>
+</tr>
+<tr>
+    <td>Davidson's Plum</td>
+    <td>ڈیوڈسن پلم</td>
+</tr>
+<tr>
+    <td>Desert Banana</td>
+    <td>صحرائی کیلا</td>
+</tr>
+<tr>
+    <td>Duku</td>
+    <td>ڈوکو</td>
+</tr>
+<tr>
+    <td>Elephant Apple</td>
+    <td>ہاتھی سیب</td>
+</tr>
+<tr>
+    <td>Grewia Fruit</td>
+    <td>گریویا پھل</td>
+</tr>
+<tr>
+    <td>Ice Cream Bean</td>
+    <td>آئس کریم بین</td>
+</tr>
+<tr>
+    <td>Indian Almond</td>
+    <td>انڈین بادام پھل</td>
+</tr>
+<tr>
+    <td>Jelly Palm Fruit</td>
+    <td>جیلی پام فروٹ</td>
+</tr>
+<tr>
+    <td>Kakadu Plum</td>
+    <td>کاکاڈو پلم</td>
+</tr>
+<tr>
+    <td>Kiwano</td>
+    <td>کیوانو</td>
+</tr>
+<tr>
+    <td>Langsat Duku</td>
+    <td>لانگسات ڈوکو</td>
+</tr>
+<tr>
+    <td>Malay Apple</td>
+    <td>ملائی ایپل</td>
+</tr>
+<tr>
+    <td>Mammee</td>
+    <td>مامی</td>
+</tr>
+<tr>
+    <td>Monkey Orange</td>
+    <td>بندر سنگترہ</td>
+</tr>
+<tr>
+    <td>Mountain Soursop</td>
+    <td>پہاڑی سورسوپ</td>
+</tr>
+<tr>
+    <td>Natal Plum</td>
+    <td>نیٹل پلم</td>
+</tr>
+<tr>
+    <td>Oil Palm Fruit</td>
+    <td>آئل پام پھل</td>
+</tr>
+<tr>
+    <td>Otaheite Apple</td>
+    <td>اوٹاہائٹی ایپل</td>
+</tr>
+<tr>
+    <td>Pawpaw</td>
+    <td>امریکی پپیتا</td>
+</tr>
+<tr>
+    <td>Pepper Fruit</td>
+    <td>پیپر فروٹ</td>
+</tr>
+<tr>
+    <td>Pigeon Plum</td>
+    <td>کبوتر پلم</td>
+</tr>
+<tr>
+    <td>Pitomba</td>
+    <td>پٹومبا</td>
+</tr>
+<tr>
+    <td>Rollinia</td>
+    <td>رولینیا</td>
+</tr>
+<tr>
+    <td>Sea Grape</td>
+    <td>سمندری انگور</td>
+</tr>
+<tr>
+    <td>Silverberry</td>
+    <td>سلور بیری</td>
+</tr>
+<tr>
+    <td>Soncoya</td>
+    <td>سونکویا</td>
+</tr>
+<tr>
+    <td>Strawberry Guava</td>
+    <td>اسٹرابیری امرود</td>
+</tr>
+<tr>
+    <td>Sugar Palm Fruit</td>
+    <td>شوگر پام فروٹ</td>
+</tr>
+<tr>
+    <td>Terp Fruit</td>
+    <td>ٹرپ فروٹ</td>
+</tr>
+<tr>
+    <td>Velvet Tamarind</td>
+    <td>ویلویٹ املی</td>
+</tr>
+<tr>
+    <td>Voavanga</td>
+    <td>وواوانگا</td>
+</tr>
+<tr>
+    <td>White Currant</td>
+    <td>سفید کرنٹ</td>
+</tr>
+<tr>
+    <td>Wild Lime</td>
+    <td>جنگلی لائم</td>
+</tr>
+<tr>
+    <td>Wild Mango</td>
+    <td>جنگلی آم</td>
+</tr>
+<tr>
+    <td>Wild Orange</td>
+    <td>جنگلی سنگترہ</td>
+</tr>
+<tr>
+    <td>Wineberry</td>
+    <td>وائن بیری</td>
+</tr>
+<tr>
+    <td>Yellow Passion Fruit</td>
+    <td>زرد پیشن فروٹ</td>
+</tr>
+<tr>
+    <td>Yellow Sapote</td>
+    <td>پیلا ساپوٹے</td>
+</tr>
+<tr>
+    <td>Zhe Fruit</td>
+    <td>ژے فروٹ</td>
+</tr>
+<tr>
+    <td>Governor's Cherry</td>
+    <td>گورنر چیری</td>
+</tr>
+      </tbody>
+      </table> 
+</body>
+</html>
