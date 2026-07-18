@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Body parts of animals</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+  
+  
+  <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Head</td>
+    <td>سر</td>
+</tr>
+<tr>
+    <td>Forehead</td>
+    <td>پیشانی</td>
+</tr>
+<tr>
+    <td>Eye</td>
+    <td>آنکھ</td>
+</tr>
+<tr>
+    <td>Eyelid</td>
+    <td>پلک</td>
+</tr>
+<tr>
+    <td>Pupil</td>
+    <td>آنکھ کی پتلی</td>
+</tr>
+<tr>
+    <td>Ear</td>
+    <td>کان</td>
+</tr>
+<tr>
+    <td>Ear Flap</td>
+    <td>کان کا پردہ</td>
+</tr>
+<tr>
+    <td>Horn</td>
+    <td>سینگ</td>
+</tr>
+<tr>
+    <td>Antler</td>
+    <td>شاخ دار سینگ</td>
+</tr>
+<tr>
+    <td>Tusk</td>
+    <td>ہاتھی دانت</td>
+</tr>
+<tr>
+    <td>Trunk</td>
+    <td>سونڈ</td>
+</tr>
+<tr>
+    <td>Snout</td>
+    <td>تھوتھنی</td>
+</tr>
+<tr>
+    <td>Muzzle</td>
+    <td>منہ کا اگلا حصہ</td>
+</tr>
+<tr>
+    <td>Nostril</td>
+    <td>نتھنا</td>
+</tr>
+<tr>
+    <td>Beak</td>
+    <td>چونچ</td>
+</tr>
+<tr>
+    <td>Jaw</td>
+    <td>جبڑا</td>
+</tr>
+<tr>
+    <td>Teeth</td>
+    <td>دانت</td>
+</tr>
+<tr>
+    <td>Fang</td>
+    <td>نوکیلا دانت</td>
+</tr>
+<tr>
+    <td>Tongue</td>
+    <td>زبان</td>
+</tr>
+<tr>
+    <td>Whiskers</td>
+    <td>مونچھیں</td>
+</tr>
+<tr>
+    <td>Neck</td>
+    <td>گردن</td>
+</tr>
+<tr>
+    <td>Mane</td>
+    <td>ایال</td>
+</tr>
+<tr>
+    <td>Shoulder</td>
+    <td>کندھا</td>
+</tr>
+<tr>
+    <td>Chest</td>
+    <td>سینہ</td>
+</tr>
+<tr>
+    <td>Back</td>
+    <td>پیٹھ</td>
+</tr>
+<tr>
+    <td>Spine</td>
+    <td>ریڑھ کی ہڈی</td>
+</tr>
+<tr>
+    <td>Ribs</td>
+    <td>پسلیاں</td>
+</tr>
+<tr>
+    <td>Belly</td>
+    <td>پیٹ</td>
+</tr>
+<tr>
+    <td>Waist</td>
+    <td>کمر</td>
+</tr>
+<tr>
+    <td>Hip</td>
+    <td>کولہا</td>
+</tr>
+<tr>
+    <td>Leg</td>
+    <td>ٹانگ</td>
+</tr>
+<tr>
+    <td>Foreleg</td>
+    <td>اگلی ٹانگ</td>
+</tr>
+<tr>
+    <td>Hind Leg</td>
+    <td>پچھلی ٹانگ</td>
+</tr>
+<tr>
+    <td>Knee</td>
+    <td>گھٹنا</td>
+</tr>
+<tr>
+    <td>Ankle</td>
+    <td>ٹخنہ</td>
+</tr>
+<tr>
+    <td>Paw</td>
+    <td>پنجہ</td>
+</tr>
+<tr>
+    <td>Claw</td>
+    <td>پنجے کا ناخن</td>
+</tr>
+<tr>
+    <td>Hoof</td>
+    <td>کھر</td>
+</tr>
+<tr>
+    <td>Toe</td>
+    <td>انگلی</td>
+</tr>
+<tr>
+    <td>Nail</td>
+    <td>ناخن</td>
+</tr>
+<tr>
+    <td>Tail</td>
+    <td>دم</td>
+</tr>
+<tr>
+    <td>Tail Tip</td>
+    <td>دم کا سرا</td>
+</tr>
+<tr>
+    <td>Fur</td>
+    <td>روئیں</td>
+</tr>
+<tr>
+    <td>Hair</td>
+    <td>بال</td>
+</tr>
+<tr>
+    <td>Coat</td>
+    <td>کھال کے بال</td>
+</tr>
+<tr>
+    <td>Skin</td>
+    <td>جلد</td>
+</tr>
+<tr>
+    <td>Hide</td>
+    <td>موٹی کھال</td>
+</tr>
+<tr>
+    <td>Scales</td>
+    <td>چھلکے</td>
+</tr>
+<tr>
+    <td>Feathers</td>
+    <td>پر</td>
+</tr>
+<tr>
+    <td>Wing</td>
+    <td>پر (اڑنے والا عضو)</td>
+</tr>
+        <tr>
+    <td>Fin</td>
+    <td>پنکھ (مچھلی کا)</td>
+</tr>
+<tr>
+    <td>Dorsal Fin</td>
+    <td>اوپری پنکھ</td>
+</tr>
+<tr>
+    <td>Pectoral Fin</td>
+    <td>سینے کا پنکھ</td>
+</tr>
+<tr>
+    <td>Pelvic Fin</td>
+    <td>پیٹ کا پنکھ</td>
+</tr>
+<tr>
+    <td>Anal Fin</td>
+    <td>مقعدی پنکھ</td>
+</tr>
+<tr>
+    <td>Caudal Fin</td>
+    <td>دمی پنکھ</td>
+</tr>
+<tr>
+    <td>Gill</td>
+    <td>گلپھڑا</td>
+</tr>
+<tr>
+    <td>Gill Cover</td>
+    <td>گلپھڑے کا ڈھکن</td>
+</tr>
+<tr>
+    <td>Lateral Line</td>
+    <td>حسی لکیر</td>
+</tr>
+<tr>
+    <td>Carapace</td>
+    <td>سخت اوپری خول</td>
+</tr>
+<tr>
+    <td>Shell</td>
+    <td>خول</td>
+</tr>
+<tr>
+    <td>Plastron</td>
+    <td>نچلا خول</td>
+</tr>
+<tr>
+    <td>Flipper</td>
+    <td>تیرنے والا بازو</td>
+</tr>
+<tr>
+    <td>Webbed Foot</td>
+    <td>جھلی دار پاؤں</td>
+</tr>
+<tr>
+    <td>Pad</td>
+    <td>پنجے کی نرم گدی</td>
+</tr>
+<tr>
+    <td>Dewclaw</td>
+    <td>اضافی پنجے کا ناخن</td>
+</tr>
+<tr>
+    <td>Hock</td>
+    <td>پچھلی ٹانگ کا جوڑ</td>
+</tr>
+<tr>
+    <td>Fetlock</td>
+    <td>کھر کے اوپر کا جوڑ</td>
+</tr>
+<tr>
+    <td>Cannon Bone</td>
+    <td>پنڈلی کی لمبی ہڈی</td>
+</tr>
+<tr>
+    <td>Withers</td>
+    <td>کندھوں کا ابھار</td>
+</tr>
+<tr>
+    <td>Croup</td>
+    <td>پچھلا دھڑ</td>
+</tr>
+<tr>
+    <td>Loin</td>
+    <td>کمر کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Brisket</td>
+    <td>سینے کا نچلا حصہ</td>
+</tr>
+<tr>
+    <td>Udder</td>
+    <td>تھن</td>
+</tr>
+<tr>
+    <td>Teat</td>
+    <td>دودھ کی تھن</td>
+</tr>
+<tr>
+    <td>Navel</td>
+    <td>ناف</td>
+</tr>
+<tr>
+    <td>Vent</td>
+    <td>اخراجی سوراخ</td>
+</tr>
+<tr>
+    <td>Cloaca</td>
+    <td>مشترکہ اخراجی سوراخ</td>
+</tr>
+<tr>
+    <td>Crest</td>
+    <td>کلغی</td>
+</tr>
+<tr>
+    <td>Comb</td>
+    <td>کلغی (مرغ)</td>
+</tr>
+<tr>
+    <td>Wattle</td>
+    <td>ٹھوڑی کے نیچے لٹکا گوشت</td>
+</tr>
+<tr>
+    <td>Crop</td>
+    <td>دانہ ذخیرہ کرنے کی تھیلی</td>
+</tr>
+<tr>
+    <td>Spur</td>
+    <td>پچھلا نوکیلا پنجہ</td>
+</tr>
+<tr>
+    <td>Talon</td>
+    <td>شکاری پنجہ</td>
+</tr>
+<tr>
+    <td>Iris</td>
+    <td>عنبیہ</td>
+</tr>
+<tr>
+    <td>Cornea</td>
+    <td>قرنیہ</td>
+</tr>
+<tr>
+    <td>Eyebrow Ridge</td>
+    <td>آنکھ کے اوپر ابھار</td>
+</tr>
+<tr>
+    <td>Lip</td>
+    <td>ہونٹ</td>
+</tr>
+<tr>
+    <td>Chin</td>
+    <td>ٹھوڑی</td>
+</tr>
+<tr>
+    <td>Cheek</td>
+    <td>گال</td>
+</tr>
+<tr>
+    <td>Bridge of Nose</td>
+    <td>ناک کی ہڈی</td>
+</tr>
+<tr>
+    <td>Tail Base</td>
+    <td>دم کی جڑ</td>
+</tr>
+<tr>
+    <td>Tail Hair</td>
+    <td>دم کے بال</td>
+</tr>
+<tr>
+    <td>Undercoat</td>
+    <td>اندرونی روئیں</td>
+</tr>
+<tr>
+    <td>Guard Hair</td>
+    <td>بیرونی حفاظتی بال</td>
+</tr>
+<tr>
+    <td>Blubber</td>
+    <td>موٹی چربی کی تہہ</td>
+</tr>
+<tr>
+    <td>Dorsal Ridge</td>
+    <td>پشت کی ابھری لکیر</td>
+</tr>
+<tr>
+    <td>Barbel</td>
+    <td>مونچھ نما ریشہ</td>
+</tr>
+<tr>
+    <td>Operculum</td>
+    <td>گلپھڑے کا ڈھکن</td>
+</tr>
+<tr>
+    <td>Caudal Peduncle</td>
+    <td>دم سے پہلے کا تنگ حصہ</td>
+</tr>
+        <tr>
+    <td>Mouth</td>
+    <td>منہ</td>
+</tr>
+<tr>
+    <td>Upper Jaw</td>
+    <td>اوپری جبڑا</td>
+</tr>
+<tr>
+    <td>Lower Jaw</td>
+    <td>نچلا جبڑا</td>
+</tr>
+<tr>
+    <td>Gum</td>
+    <td>مسوڑھا</td>
+</tr>
+<tr>
+    <td>Canine Tooth</td>
+    <td>نوکیلا دانت</td>
+</tr>
+<tr>
+    <td>Incisor</td>
+    <td>اگلا دانت</td>
+</tr>
+<tr>
+    <td>Molar</td>
+    <td>داڑھ</td>
+</tr>
+<tr>
+    <td>Premolar</td>
+    <td>چھوٹی داڑھ</td>
+</tr>
+<tr>
+    <td>Palate</td>
+    <td>تالو</td>
+</tr>
+<tr>
+    <td>Throat</td>
+    <td>حلق</td>
+</tr>
+<tr>
+    <td>Nape</td>
+    <td>گردن کا پچھلا حصہ</td>
+</tr>
+<tr>
+    <td>Shoulder Blade</td>
+    <td>کندھے کی ہڈی</td>
+</tr>
+<tr>
+    <td>Elbow</td>
+    <td>کہنی</td>
+</tr>
+<tr>
+    <td>Forearm</td>
+    <td>بازو کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Wrist</td>
+    <td>کلائی</td>
+</tr>
+<tr>
+    <td>Heel</td>
+    <td>ایڑی</td>
+</tr>
+<tr>
+    <td>Thigh</td>
+    <td>ران</td>
+</tr>
+<tr>
+    <td>Shin</td>
+    <td>پنڈلی</td>
+</tr>
+<tr>
+    <td>Hamstring</td>
+    <td>ران کے پچھلے پٹھے</td>
+</tr>
+<tr>
+    <td>Achilles Tendon</td>
+    <td>ایکیلیز کنڈرا</td>
+</tr>
+<tr>
+    <td>Toe Pad</td>
+    <td>انگلی کی نرم گدی</td>
+</tr>
+<tr>
+    <td>Dewlap</td>
+    <td>گردن کے نیچے لٹکی کھال</td>
+</tr>
+<tr>
+    <td>Scute</td>
+    <td>سخت حفاظتی تختی</td>
+</tr>
+<tr>
+    <td>Scale Row</td>
+    <td>چھلکوں کی قطار</td>
+</tr>
+<tr>
+    <td>Dorsal Ridge Spine</td>
+    <td>پشت کی نوکیلی ابھار</td>
+</tr>
+<tr>
+    <td>Rostrum</td>
+    <td>لمبی چونچ نما ناک</td>
+</tr>
+<tr>
+    <td>Melon</td>
+    <td>ڈولفن کے سر کا گول حصہ</td>
+</tr>
+<tr>
+    <td>Blowhole</td>
+    <td>سانس کا سوراخ</td>
+</tr>
+<tr>
+    <td>Fluke</td>
+    <td>وہیل کی دم</td>
+</tr>
+<tr>
+    <td>Dorsal Surface</td>
+    <td>اوپری سطح</td>
+</tr>
+<tr>
+    <td>Ventral Surface</td>
+    <td>زیریں سطح</td>
+</tr>
+<tr>
+    <td>Tentacle</td>
+    <td>لمبا بازو</td>
+</tr>
+<tr>
+    <td>Sucker</td>
+    <td>چوسنے والا پیالہ</td>
+</tr>
+<tr>
+    <td>Mantle</td>
+    <td>جسم کا بیرونی غلاف</td>
+</tr>
+<tr>
+    <td>Siphon</td>
+    <td>پانی خارج کرنے والی نالی</td>
+</tr>
+<tr>
+    <td>Ink Sac</td>
+    <td>سیاہی کی تھیلی</td>
+</tr>
+<tr>
+    <td>Radula</td>
+    <td>دانتوں والی زبان</td>
+</tr>
+<tr>
+    <td>Proboscis</td>
+    <td>لمبی سونڈ نما عضو</td>
+</tr>
+<tr>
+    <td>Antenna</td>
+    <td>حسی مونچھ</td>
+</tr>
+<tr>
+    <td>Antennule</td>
+    <td>چھوٹی حسی مونچھ</td>
+</tr>
+<tr>
+    <td>Eye Stalk</td>
+    <td>آنکھ کی ڈنڈی</td>
+</tr>
+<tr>
+    <td>Mandible</td>
+    <td>چبانے والا جبڑا</td>
+</tr>
+<tr>
+    <td>Maxilla</td>
+    <td>بالائی جبڑا</td>
+</tr>
+<tr>
+    <td>Maxilliped</td>
+    <td>خوراک پکڑنے والا عضو</td>
+</tr>
+<tr>
+    <td>Walking Leg</td>
+    <td>چلنے والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Swimming Leg</td>
+    <td>تیرنے والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Pleopod</td>
+    <td>پیٹ کی تیرنے والی ٹانگ</td>
+</tr>
+<tr>
+    <td>Uropod</td>
+    <td>دم کا کناری حصہ</td>
+</tr>
+<tr>
+    <td>Telson</td>
+    <td>دم کا آخری حصہ</td>
+</tr>
+<tr>
+    <td>Exoskeleton</td>
+    <td>بیرونی سخت ڈھانچہ</td>
+</tr>
+        <tr>
+    <td>Crown</td>
+    <td>سر کا اوپری حصہ</td>
+</tr>
+<tr>
+    <td>Poll</td>
+    <td>سر کا پچھلا اوپری حصہ</td>
+</tr>
+<tr>
+    <td>Brow</td>
+    <td>ابرو کا حصہ</td>
+</tr>
+<tr>
+    <td>Face</td>
+    <td>چہرہ</td>
+</tr>
+<tr>
+    <td>Bridge</td>
+    <td>ناک کا درمیانی حصہ</td>
+</tr>
+<tr>
+    <td>Nasal Bridge</td>
+    <td>ناک کی ہڈی</td>
+</tr>
+<tr>
+    <td>Septum</td>
+    <td>نتھنوں کے درمیان پردہ</td>
+</tr>
+<tr>
+    <td>Philtrum</td>
+    <td>ناک اور ہونٹ کے درمیان شگاف</td>
+</tr>
+<tr>
+    <td>Upper Lip</td>
+    <td>اوپری ہونٹ</td>
+</tr>
+<tr>
+    <td>Lower Lip</td>
+    <td>نچلا ہونٹ</td>
+</tr>
+<tr>
+    <td>Mouth Corner</td>
+    <td>منہ کا کنارہ</td>
+</tr>
+<tr>
+    <td>Mouth Roof</td>
+    <td>منہ کی چھت</td>
+</tr>
+<tr>
+    <td>Larynx</td>
+    <td>حنجرہ</td>
+</tr>
+<tr>
+    <td>Windpipe</td>
+    <td>سانس کی نالی</td>
+</tr>
+<tr>
+    <td>Esophagus</td>
+    <td>غذائی نالی</td>
+</tr>
+<tr>
+    <td>Shoulder Joint</td>
+    <td>کندھے کا جوڑ</td>
+</tr>
+<tr>
+    <td>Hip Joint</td>
+    <td>کولہے کا جوڑ</td>
+</tr>
+<tr>
+    <td>Tail Bone</td>
+    <td>دم کی ہڈی</td>
+</tr>
+<tr>
+    <td>Tail Fin</td>
+    <td>دم کا پنکھ</td>
+</tr>
+<tr>
+    <td>Tail Fluke</td>
+    <td>وہیل کی دم کا چوڑا حصہ</td>
+</tr>
+<tr>
+    <td>Fin Ray</td>
+    <td>پنکھ کی شعاع</td>
+</tr>
+<tr>
+    <td>Fin Spine</td>
+    <td>پنکھ کا کانٹا</td>
+</tr>
+<tr>
+    <td>Dorsal Spine</td>
+    <td>پشت کا کانٹا</td>
+</tr>
+<tr>
+    <td>Caudal Keel</td>
+    <td>دم کا ابھرا کنارہ</td>
+</tr>
+<tr>
+    <td>Lateral Scute</td>
+    <td>کناری حفاظتی تختی</td>
+</tr>
+<tr>
+    <td>Wing Claw</td>
+    <td>پر کا پنجہ</td>
+</tr>
+<tr>
+    <td>Flight Feather</td>
+    <td>اڑنے والا پر</td>
+</tr>
+<tr>
+    <td>Contour Feather</td>
+    <td>بیرونی پر</td>
+</tr>
+<tr>
+    <td>Down Feather</td>
+    <td>نرم روئیں دار پر</td>
+</tr>
+<tr>
+    <td>Tail Feather</td>
+    <td>دم کا پر</td>
+</tr>
+<tr>
+    <td>Primary Feather</td>
+    <td>بنیادی پر</td>
+</tr>
+<tr>
+    <td>Secondary Feather</td>
+    <td>ثانوی پر</td>
+</tr>
+<tr>
+    <td>Tertiary Feather</td>
+    <td>تیسرا پر</td>
+</tr>
+<tr>
+    <td>Cere</td>
+    <td>چونچ کی جڑ کا نرم حصہ</td>
+</tr>
+<tr>
+    <td>Beak Tip</td>
+    <td>چونچ کا سرا</td>
+</tr>
+<tr>
+    <td>Beak Base</td>
+    <td>چونچ کی جڑ</td>
+</tr>
+<tr>
+    <td>Nictitating Membrane</td>
+    <td>تیسری پلک</td>
+</tr>
+<tr>
+    <td>Eye Ring</td>
+    <td>آنکھ کے گرد حلقہ</td>
+</tr>
+<tr>
+    <td>Facial Disc</td>
+    <td>چہرے کی گول ساخت</td>
+</tr>
+<tr>
+    <td>Crop Sac</td>
+    <td>خوراک ذخیرہ کرنے کی تھیلی</td>
+</tr>
+<tr>
+    <td>Gizzard</td>
+    <td>سنگدانہ</td>
+</tr>
+<tr>
+    <td>Keel Bone</td>
+    <td>سینے کی ابھری ہڈی</td>
+</tr>
+<tr>
+    <td>Brood Patch</td>
+    <td>انڈے سینے والی جگہ</td>
+</tr>
+<tr>
+    <td>Wing Joint</td>
+    <td>پر کا جوڑ</td>
+</tr>
+<tr>
+    <td>Wing Span</td>
+    <td>پروں کا پھیلاؤ</td>
+</tr>
+<tr>
+    <td>Tail Coverts</td>
+    <td>دم کے اوپری پر</td>
+</tr>
+<tr>
+    <td>Underwing</td>
+    <td>پر کا نچلا حصہ</td>
+</tr>
+<tr>
+    <td>Back Feather</td>
+    <td>پیٹھ کے پر</td>
+</tr>
+<tr>
+    <td>Breast Feather</td>
+    <td>سینے کے پر</td>
+</tr>
+<tr>
+    <td>Vent Feather</td>
+    <td>اخراجی حصے کے پر</td>
+</tr>
+      </tbody>
+      </table>
+</body>
+</html>
