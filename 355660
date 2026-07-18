@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Flowers Name</title>
+   <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  
+  
+  
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li class="none"><a href="index.html">🏠 Home</a></li>
+    <li class="none"><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li class="none"><a href="Blog.html">📚 Blog</a></li>
+    <li class="none"><a href="About.html">ℹ️ About Us</a></li>
+    <li class="none"><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+  <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+  
+  
+    <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Rose</td>
+    <td>گلاب</td>
+</tr>
+<tr>
+    <td>Sunflower</td>
+    <td>سورج مکھی</td>
+</tr>
+<tr>
+    <td>Jasmine</td>
+    <td>چنبیلی</td>
+</tr>
+<tr>
+    <td>Lily</td>
+    <td>سوسن</td>
+</tr>
+<tr>
+    <td>Tulip</td>
+    <td>ٹیولپ</td>
+</tr>
+<tr>
+    <td>Lotus</td>
+    <td>کنول</td>
+</tr>
+<tr>
+    <td>Daisy</td>
+    <td>گلِ مینا</td>
+</tr>
+<tr>
+    <td>Marigold</td>
+    <td>گیندا</td>
+</tr>
+<tr>
+    <td>Hibiscus</td>
+    <td>گڑہل</td>
+</tr>
+<tr>
+    <td>Orchid</td>
+    <td>آرکڈ</td>
+</tr>
+<tr>
+    <td>Lavender</td>
+    <td>لیونڈر</td>
+</tr>
+<tr>
+    <td>Carnation</td>
+    <td>کارنیشن</td>
+</tr>
+<tr>
+    <td>Daffodil</td>
+    <td>نرگس</td>
+</tr>
+<tr>
+    <td>Chrysanthemum</td>
+    <td>گلِ داؤدی</td>
+</tr>
+<tr>
+    <td>Peony</td>
+    <td>پیونی</td>
+</tr>
+<tr>
+    <td>Poppy</td>
+    <td>خشخاش کا پھول</td>
+</tr>
+<tr>
+    <td>Iris</td>
+    <td>آئرس</td>
+</tr>
+<tr>
+    <td>Magnolia</td>
+    <td>میگنولیا</td>
+</tr>
+<tr>
+    <td>Camellia</td>
+    <td>کیمیلیا</td>
+</tr>
+<tr>
+    <td>Gardenia</td>
+    <td>گارڈینیا</td>
+</tr>
+<tr>
+    <td>Begonia</td>
+    <td>بیگونیا</td>
+</tr>
+<tr>
+    <td>Petunia</td>
+    <td>پیٹونیا</td>
+</tr>
+<tr>
+    <td>Geranium</td>
+    <td>جیرینیم</td>
+</tr>
+<tr>
+    <td>Zinnia</td>
+    <td>زنیا</td>
+</tr>
+<tr>
+    <td>Aster</td>
+    <td>ایسٹر</td>
+</tr>
+<tr>
+    <td>Azalea</td>
+    <td>ازالیہ</td>
+</tr>
+<tr>
+    <td>Anemone</td>
+    <td>اینیمون</td>
+</tr>
+<tr>
+    <td>Bluebell</td>
+    <td>بلیو بیل</td>
+</tr>
+<tr>
+    <td>Buttercup</td>
+    <td>بٹرکپ</td>
+</tr>
+<tr>
+    <td>Calendula</td>
+    <td>کیلنڈیولا</td>
+</tr>
+<tr>
+    <td>Calla Lily</td>
+    <td>کیلا للی</td>
+</tr>
+<tr>
+    <td>Cosmos</td>
+    <td>کاسموس</td>
+</tr>
+<tr>
+    <td>Crocus</td>
+    <td>کروکس</td>
+</tr>
+<tr>
+    <td>Cyclamen</td>
+    <td>سائیکلیمن</td>
+</tr>
+<tr>
+    <td>Delphinium</td>
+    <td>ڈیلفینیم</td>
+</tr>
+<tr>
+    <td>Dianthus</td>
+    <td>ڈائینتھس</td>
+</tr>
+<tr>
+    <td>Foxglove</td>
+    <td>فاکس گلوو</td>
+</tr>
+<tr>
+    <td>Freesia</td>
+    <td>فریزیا</td>
+</tr>
+<tr>
+    <td>Gladiolus</td>
+    <td>گلائیڈیولس</td>
+</tr>
+<tr>
+    <td>Heather</td>
+    <td>ہیدر</td>
+</tr>
+<tr>
+    <td>Hollyhock</td>
+    <td>ہولی ہاک</td>
+</tr>
+<tr>
+    <td>Hyacinth</td>
+    <td>ہائسنٹھ</td>
+</tr>
+<tr>
+    <td>Hydrangea</td>
+    <td>ہائیڈرینجیا</td>
+</tr>
+<tr>
+    <td>Larkspur</td>
+    <td>لارک اسپر</td>
+</tr>
+<tr>
+    <td>Lupine</td>
+    <td>لوپین</td>
+</tr>
+<tr>
+    <td>Nasturtium</td>
+    <td>نیسٹرشیم</td>
+</tr>
+<tr>
+    <td>Oleander</td>
+    <td>کنیر</td>
+</tr>
+<tr>
+    <td>Pansy</td>
+    <td>پینسی</td>
+</tr>
+<tr>
+    <td>Primrose</td>
+    <td>پرائم روز</td>
+</tr>
+<tr>
+    <td>Ranunculus</td>
+    <td>ریننکولس</td>
+</tr><tr>
+    <td>Rhododendron</td>
+    <td>روڈوڈینڈرون</td>
+</tr>
+<tr>
+    <td>Snapdragon</td>
+    <td>سنیپ ڈریگن</td>
+</tr>
+<tr>
+    <td>Sweet Pea</td>
+    <td>سویٹ پی</td>
+</tr>
+<tr>
+    <td>Verbena</td>
+    <td>وربینا</td>
+</tr>
+<tr>
+    <td>Violet</td>
+    <td>بنفشہ</td>
+</tr>
+<tr>
+    <td>Wisteria</td>
+    <td>وسٹیریا</td>
+</tr>
+<tr>
+    <td>Yarrow</td>
+    <td>یارو</td>
+</tr>
+<tr>
+    <td>Yucca Flower</td>
+    <td>یوکا کا پھول</td>
+</tr>
+<tr>
+    <td>Amaryllis</td>
+    <td>ایمریلس</td>
+</tr>
+<tr>
+    <td>Bachelor's Button</td>
+    <td>بیچلر بٹن</td>
+</tr>
+<tr>
+    <td>Balloon Flower</td>
+    <td>غبارہ پھول</td>
+</tr>
+<tr>
+    <td>Bee Balm</td>
+    <td>بی بالم</td>
+</tr>
+<tr>
+    <td>Bellflower</td>
+    <td>گھنٹی نما پھول</td>
+</tr>
+<tr>
+    <td>Bird of Paradise</td>
+    <td>برڈ آف پیراڈائز</td>
+</tr>
+<tr>
+    <td>Black-Eyed Susan</td>
+    <td>بلیک آئیڈ سوسن</td>
+</tr>
+<tr>
+    <td>Blanket Flower</td>
+    <td>بلینکٹ فلاور</td>
+</tr>
+<tr>
+    <td>Blood Lily</td>
+    <td>بلڈ للی</td>
+</tr>
+<tr>
+    <td>Bottlebrush</td>
+    <td>بوٹل برش</td>
+</tr>
+<tr>
+    <td>Bougainvillea</td>
+    <td>بوگن ویلیا</td>
+</tr>
+<tr>
+    <td>Butterfly Bush</td>
+    <td>بٹر فلائی بش</td>
+</tr>
+<tr>
+    <td>Camas</td>
+    <td>کیماس</td>
+</tr>
+<tr>
+    <td>Candytuft</td>
+    <td>کینڈی ٹفٹ</td>
+</tr>
+<tr>
+    <td>Canna Lily</td>
+    <td>کینا للی</td>
+</tr>
+<tr>
+    <td>Christmas Rose</td>
+    <td>کرسمس روز</td>
+</tr>
+<tr>
+    <td>Clematis</td>
+    <td>کلیمیٹس</td>
+</tr>
+<tr>
+    <td>Coneflower</td>
+    <td>کون فلاور</td>
+</tr>
+<tr>
+    <td>Coreopsis</td>
+    <td>کوریوپسس</td>
+</tr>
+<tr>
+    <td>Cornflower</td>
+    <td>کارن فلاور</td>
+</tr>
+<tr>
+    <td>Dogwood Blossom</td>
+    <td>ڈاگ ووڈ کا پھول</td>
+</tr>
+<tr>
+    <td>Edelweiss</td>
+    <td>ایڈل وائز</td>
+</tr>
+<tr>
+    <td>Evening Primrose</td>
+    <td>ایوننگ پرائم روز</td>
+</tr>
+<tr>
+    <td>Flax Flower</td>
+    <td>سن کا پھول</td>
+</tr>
+<tr>
+    <td>Gaillardia</td>
+    <td>گیلارڈیا</td>
+</tr>
+<tr>
+    <td>Gentian</td>
+    <td>جینشیئن</td>
+</tr>
+<tr>
+    <td>Goldenrod</td>
+    <td>گولڈن راڈ</td>
+</tr>
+<tr>
+    <td>Heliconia</td>
+    <td>ہیلیکونیا</td>
+</tr>
+<tr>
+    <td>Heliotrope</td>
+    <td>ہیلیوٹروپ</td>
+</tr>
+<tr>
+    <td>Indian Paintbrush</td>
+    <td>انڈین پینٹ برش</td>
+</tr>
+<tr>
+    <td>Jacob's Ladder</td>
+    <td>جیکبز لیڈر</td>
+</tr>
+<tr>
+    <td>Kangaroo Paw</td>
+    <td>کینگرو پا</td>
+</tr>
+<tr>
+    <td>Lady's Slipper Orchid</td>
+    <td>لیڈیز سلپر آرکڈ</td>
+</tr>
+<tr>
+    <td>Lantana</td>
+    <td>لنٹانا</td>
+</tr>
+<tr>
+    <td>Love-in-a-Mist</td>
+    <td>لو اِن اے مسٹ</td>
+</tr>
+<tr>
+    <td>Moonflower</td>
+    <td>مون فلاور</td>
+</tr>
+<tr>
+    <td>Morning Glory</td>
+    <td>مارننگ گلوری</td>
+</tr>
+<tr>
+    <td>Nigella</td>
+    <td>نائجیلا</td>
+</tr>
+<tr>
+    <td>Passion Flower</td>
+    <td>پیشن فلاور</td>
+</tr>
+<tr>
+    <td>Queen Anne's Lace</td>
+    <td>کوئین اینز لیس</td>
+</tr>
+<tr>
+    <td>Scabiosa</td>
+    <td>اسکیبیوسا</td>
+</tr>
+<tr>
+    <td>Statice</td>
+    <td>اسٹیٹس</td>
+</tr>
+        <tr>
+    <td>Stock Flower</td>
+    <td>اسٹاک فلاور</td>
+</tr>
+<tr>
+    <td>Tithonia</td>
+    <td>ٹیتھونیا</td>
+</tr>
+<tr>
+    <td>Toad Lily</td>
+    <td>ٹوڈ للی</td>
+</tr>
+<tr>
+    <td>Trillium</td>
+    <td>ٹریلیم</td>
+</tr>
+<tr>
+    <td>Wax Flower</td>
+    <td>ویکس فلاور</td>
+</tr>
+<tr>
+    <td>Windflower</td>
+    <td>ونڈ فلاور</td>
+</tr>
+<tr>
+    <td>Wishbone Flower</td>
+    <td>وش بون فلاور</td>
+</tr>
+<tr>
+    <td>African Daisy</td>
+    <td>افریقی گلِ مینا</td>
+</tr>
+<tr>
+    <td>Alpine Aster</td>
+    <td>الپائن ایسٹر</td>
+</tr>
+<tr>
+    <td>Angelonia</td>
+    <td>انجیلونیا</td>
+</tr>
+<tr>
+    <td>Arnica</td>
+    <td>آرنیکا</td>
+</tr>
+<tr>
+    <td>Bee Orchid</td>
+    <td>مکھی آرکڈ</td>
+</tr>
+<tr>
+    <td>Blue Flax</td>
+    <td>نیلا سن کا پھول</td>
+</tr>
+<tr>
+    <td>Blue Poppy</td>
+    <td>نیلا خشخاش</td>
+</tr>
+<tr>
+    <td>Borage</td>
+    <td>بوراج</td>
+</tr>
+<tr>
+    <td>Cape Daisy</td>
+    <td>کیپ ڈیزی</td>
+</tr>
+<tr>
+    <td>Chinese Lantern</td>
+    <td>چینی لالٹین پھول</td>
+</tr>
+<tr>
+    <td>Chocolate Cosmos</td>
+    <td>چاکلیٹ کاسموس</td>
+</tr>
+<tr>
+    <td>Clarkia</td>
+    <td>کلارکیا</td>
+</tr>
+<tr>
+    <td>Dusty Miller</td>
+    <td>ڈسٹی ملر</td>
+</tr>
+<tr>
+    <td>English Bluebell</td>
+    <td>انگلش بلیو بیل</td>
+</tr>
+<tr>
+    <td>Firewheel</td>
+    <td>فائر وہیل</td>
+</tr>
+<tr>
+    <td>Forget-Me-Not</td>
+    <td>فرگیٹ می ناٹ</td>
+</tr>
+<tr>
+    <td>Fuchsia</td>
+    <td>فوشیا</td>
+</tr>
+<tr>
+    <td>Gazania</td>
+    <td>گازانیا</td>
+</tr>
+<tr>
+    <td>Globe Amaranth</td>
+    <td>گلوب امارناتھ</td>
+</tr>
+<tr>
+    <td>Harebell</td>
+    <td>ہیئر بیل</td>
+</tr>
+<tr>
+    <td>Ice Plant Flower</td>
+    <td>آئس پلانٹ فلاور</td>
+</tr>
+<tr>
+    <td>Johnny Jump Up</td>
+    <td>جانی جمپ اپ</td>
+</tr>
+<tr>
+    <td>Knapweed</td>
+    <td>نیپ ویڈ</td>
+</tr>
+<tr>
+    <td>Leucanthemum</td>
+    <td>لیوکانتھیمم</td>
+</tr>
+<tr>
+    <td>Lisianthus</td>
+    <td>لیزیانتھس</td>
+</tr>
+<tr>
+    <td>Maltese Cross</td>
+    <td>مالٹیز کراس</td>
+</tr>
+<tr>
+    <td>Mexican Sunflower</td>
+    <td>میکسیکن سورج مکھی</td>
+</tr>
+<tr>
+    <td>Monkey Flower</td>
+    <td>بندر پھول</td>
+</tr>
+<tr>
+    <td>Mountain Laurel</td>
+    <td>ماؤنٹین لاریل</td>
+</tr>
+<tr>
+    <td>Oxeye Daisy</td>
+    <td>آکس آئی ڈیزی</td>
+</tr>
+<tr>
+    <td>Paper Daisy</td>
+    <td>پیپر ڈیزی</td>
+</tr>
+<tr>
+    <td>Pincushion Flower</td>
+    <td>پن کشن فلاور</td>
+</tr>
+<tr>
+    <td>Pink Lady's Slipper</td>
+    <td>گلابی لیڈیز سلپر</td>
+</tr>
+<tr>
+    <td>Prairie Clover</td>
+    <td>پریری کلوور</td>
+</tr>
+<tr>
+    <td>Protea</td>
+    <td>پروٹیا</td>
+</tr>
+<tr>
+    <td>Rock Rose</td>
+    <td>راک روز</td>
+</tr>
+<tr>
+    <td>Sea Holly</td>
+    <td>سی ہولی</td>
+</tr>
+<tr>
+    <td>Spider Lily</td>
+    <td>اسپائیڈر للی</td>
+</tr>
+<tr>
+    <td>Torch Lily</td>
+    <td>ٹارچ للی</td>
+</tr>
+<tr>
+    <td>Twinflower</td>
+    <td>ٹوئن فلاور</td>
+</tr>
+<tr>
+    <td>Wallflower</td>
+    <td>وال فلاور</td>
+</tr>
+<tr>
+    <td>Wild Indigo</td>
+    <td>وائلڈ انڈیگو</td>
+</tr>
+<tr>
+    <td>Yellow Archangel</td>
+    <td>ییلو آرک اینجل</td>
+</tr>
+        <tr>
+    <td>African Lily</td>
+    <td>افریقی للی</td>
+</tr>
+<tr>
+    <td>Alstroemeria</td>
+    <td>السٹرومیریا</td>
+</tr>
+<tr>
+    <td>Balsam</td>
+    <td>گلِ مہندی</td>
+</tr>
+<tr>
+    <td>Blue Star</td>
+    <td>نیلا ستارہ پھول</td>
+</tr>
+<tr>
+    <td>Butterfly Weed</td>
+    <td>بٹر فلائی ویڈ</td>
+</tr>
+<tr>
+    <td>Cape Primrose</td>
+    <td>کیپ پرائم روز</td>
+</tr>
+<tr>
+    <td>Cockscomb</td>
+    <td>مرغ کی کلغی</td>
+</tr>
+<tr>
+    <td>Columbine</td>
+    <td>کولمبائن</td>
+</tr>
+<tr>
+    <td>Coral Bells</td>
+    <td>کورل بیلز</td>
+</tr>
+<tr>
+    <td>Crown Imperial</td>
+    <td>کراؤن امپیریل</td>
+</tr>
+<tr>
+    <td>Four O'Clock Flower</td>
+    <td>چار بجے کا پھول</td>
+</tr>
+<tr>
+    <td>Ghost Orchid</td>
+    <td>گھوسٹ آرکڈ</td>
+</tr>
+<tr>
+    <td>Globe Thistle</td>
+    <td>گلوب تھیسل</td>
+</tr>
+<tr>
+    <td>Golden Shower</td>
+    <td>املتاس کا پھول</td>
+</tr>
+<tr>
+    <td>Hellebore</td>
+    <td>ہیلی بور</td>
+</tr>
+<tr>
+    <td>Indian Blanket</td>
+    <td>انڈین بلینکٹ</td>
+</tr>
+<tr>
+    <td>Jacaranda Flower</td>
+    <td>جاکارانڈا کا پھول</td>
+</tr>
+<tr>
+    <td>King Protea</td>
+    <td>کنگ پروٹیا</td>
+</tr>
+<tr>
+    <td>Lady's Mantle</td>
+    <td>لیڈیز مینٹل</td>
+</tr>
+<tr>
+    <td>Meadow Saffron</td>
+    <td>میڈو زعفران</td>
+</tr>
+<tr>
+    <td>Mimosa Flower</td>
+    <td>میموسا کا پھول</td>
+</tr>
+<tr>
+    <td>Orange Blossom</td>
+    <td>سنگترے کا پھول</td>
+</tr>
+<tr>
+    <td>Peace Lily</td>
+    <td>پیس للی</td>
+</tr>
+<tr>
+    <td>Pink Camellia</td>
+    <td>گلابی کیمیلیا</td>
+</tr>
+<tr>
+    <td>Plumeria</td>
+    <td>پلومیریا</td>
+</tr>
+<tr>
+    <td>Queen's Cup</td>
+    <td>کوئینز کپ</td>
+</tr>
+<tr>
+    <td>Red Hot Poker</td>
+    <td>ریڈ ہاٹ پوکر</td>
+</tr>
+<tr>
+    <td>Rock Jasmine</td>
+    <td>راک جیسمین</td>
+</tr>
+<tr>
+    <td>Sea Lavender</td>
+    <td>سی لیونڈر</td>
+</tr>
+<tr>
+    <td>Shasta Daisy</td>
+    <td>شاستا ڈیزی</td>
+</tr>
+<tr>
+    <td>Silverbell</td>
+    <td>سلور بیل</td>
+</tr>
+<tr>
+    <td>Snowdrop</td>
+    <td>سنو ڈراپ</td>
+</tr>
+<tr>
+    <td>Speedwell</td>
+    <td>اسپیڈ ویل</td>
+</tr>
+<tr>
+    <td>Spider Flower</td>
+    <td>اسپائیڈر فلاور</td>
+</tr>
+<tr>
+    <td>Star Jasmine</td>
+    <td>اسٹار چنبیلی</td>
+</tr>
+<tr>
+    <td>Sun Rose</td>
+    <td>سن روز</td>
+</tr>
+<tr>
+    <td>Thrift</td>
+    <td>تھرفٹ</td>
+</tr>
+<tr>
+    <td>Tuberose</td>
+    <td>گلِ شبّو</td>
+</tr>
+<tr>
+    <td>Virginia Bluebells</td>
+    <td>ورجینیا بلیو بیلز</td>
+</tr>
+<tr>
+    <td>White Lily</td>
+    <td>سفید سوسن</td>
+</tr>
+<tr>
+    <td>Wild Rose</td>
+    <td>جنگلی گلاب</td>
+</tr>
+<tr>
+    <td>Winter Jasmine</td>
+    <td>سرمائی چنبیلی</td>
+</tr>
+<tr>
+    <td>Woolly Violet</td>
+    <td>اونی بنفشہ</td>
+</tr>
+<tr>
+    <td>Yellow Bell</td>
+    <td>پیلا گھنٹی نما پھول</td>
+</tr>
+<tr>
+    <td>Yellow Daisy</td>
+    <td>پیلی گلِ مینا</td>
+</tr>
+<tr>
+    <td>Yellow Oleander</td>
+    <td>پیلا کنیر</td>
+</tr>
+<tr>
+    <td>Zephyr Lily</td>
+    <td>زیفر للی</td>
+</tr>
+<tr>
+    <td>Zombie Plant Flower</td>
+    <td>زومبی پلانٹ کا پھول</td>
+</tr>
+<tr>
+    <td>Coral Vine Flower</td>
+    <td>کورل بیل کا پھول</td>
+</tr>
+<tr>
+    <td>Trumpet Vine Flower</td>
+    <td>ٹرمپٹ بیل کا پھول</td>
+</tr>
+      </tbody>
+      </table>
+</body>
+</html>
