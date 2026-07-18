@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Names of Trees</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+ <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+   <tbody>
+     <tr>
+    <td>Mango Tree</td>
+    <td>آم کا درخت</td>
+     </tr>
+<tr>
+    <td>Neem Tree</td>
+    <td>نیم کا درخت</td>
+</tr>
+<tr>
+    <td>Banyan Tree</td>
+    <td>برگد کا درخت</td>
+</tr>
+<tr>
+    <td>Peepal Tree</td>
+    <td>پیپل کا درخت</td>
+</tr>
+<tr>
+    <td>Oak Tree</td>
+    <td>بلوط کا درخت</td>
+</tr>
+<tr>
+    <td>Pine Tree</td>
+    <td>صنوبر کا درخت</td>
+</tr>
+<tr>
+    <td>Cedar Tree</td>
+    <td>دیودار کا درخت</td>
+</tr>
+<tr>
+    <td>Maple Tree</td>
+    <td>میپل کا درخت</td>
+</tr>
+<tr>
+    <td>Birch Tree</td>
+    <td>برچ کا درخت</td>
+</tr>
+<tr>
+    <td>Ash Tree</td>
+    <td>ایش کا درخت</td>
+</tr>
+<tr>
+    <td>Elm Tree</td>
+    <td>ایلم کا درخت</td>
+</tr>
+<tr>
+    <td>Willow Tree</td>
+    <td>بید کا درخت</td>
+</tr>
+<tr>
+    <td>Poplar Tree</td>
+    <td>سپیدار کا درخت</td>
+</tr>
+<tr>
+    <td>Eucalyptus Tree</td>
+    <td>یوکلپٹس کا درخت</td>
+</tr>
+<tr>
+    <td>Teak Tree</td>
+    <td>ساگوان کا درخت</td>
+</tr>
+<tr>
+    <td>Mahogany Tree</td>
+    <td>مہوگنی کا درخت</td>
+</tr>
+<tr>
+    <td>Rosewood Tree</td>
+    <td>شیشم کا درخت</td>
+</tr>
+<tr>
+    <td>Sandalwood Tree</td>
+    <td>صندل کا درخت</td>
+</tr>
+<tr>
+    <td>Acacia Tree</td>
+    <td>ببول کا درخت</td>
+</tr>
+<tr>
+    <td>Baobab Tree</td>
+    <td>بابوباب کا درخت</td>
+</tr>
+<tr>
+    <td>Coconut Tree</td>
+    <td>ناریل کا درخت</td>
+</tr>
+<tr>
+    <td>Date Palm</td>
+    <td>کھجور کا درخت</td>
+</tr>
+<tr>
+    <td>Oil Palm</td>
+    <td>تیل پام کا درخت</td>
+</tr>
+<tr>
+    <td>Olive Tree</td>
+    <td>زیتون کا درخت</td>
+</tr>
+<tr>
+    <td>Apple Tree</td>
+    <td>سیب کا درخت</td>
+</tr>
+<tr>
+    <td>Pear Tree</td>
+    <td>ناشپاتی کا درخت</td>
+</tr>
+<tr>
+    <td>Peach Tree</td>
+    <td>آڑو کا درخت</td>
+</tr>
+<tr>
+    <td>Plum Tree</td>
+    <td>آلو بخارا کا درخت</td>
+</tr>
+<tr>
+    <td>Apricot Tree</td>
+    <td>خوبانی کا درخت</td>
+</tr>
+<tr>
+    <td>Cherry Tree</td>
+    <td>چیری کا درخت</td>
+</tr>
+<tr>
+    <td>Pomegranate Tree</td>
+    <td>انار کا درخت</td>
+</tr>
+<tr>
+    <td>Guava Tree</td>
+    <td>امرود کا درخت</td>
+</tr>
+<tr>
+    <td>Jamun Tree</td>
+    <td>جامن کا درخت</td>
+</tr>
+<tr>
+    <td>Mulberry Tree</td>
+    <td>شہتوت کا درخت</td>
+</tr>
+<tr>
+    <td>Fig Tree</td>
+    <td>انجیر کا درخت</td>
+</tr>
+<tr>
+    <td>Lemon Tree</td>
+    <td>لیموں کا درخت</td>
+</tr>
+<tr>
+    <td>Orange Tree</td>
+    <td>سنگترے کا درخت</td>
+</tr>
+<tr>
+    <td>Grapefruit Tree</td>
+    <td>گریپ فروٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Pomelo Tree</td>
+    <td>چکوترا کا درخت</td>
+</tr>
+<tr>
+    <td>Avocado Tree</td>
+    <td>ایووکاڈو کا درخت</td>
+</tr>
+<tr>
+    <td>Jackfruit Tree</td>
+    <td>کٹہل کا درخت</td>
+</tr>
+<tr>
+    <td>Breadfruit Tree</td>
+    <td>بریڈ فروٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Tamarind Tree</td>
+    <td>املی کا درخت</td>
+</tr>
+<tr>
+    <td>Drumstick Tree</td>
+    <td>سہانجنا کا درخت</td>
+</tr>
+<tr>
+    <td>Kapok Tree</td>
+    <td>کپوک کا درخت</td>
+</tr>
+<tr>
+    <td>Rubber Tree</td>
+    <td>ربڑ کا درخت</td>
+</tr>
+<tr>
+    <td>Camphor Tree</td>
+    <td>کافور کا درخت</td>
+</tr>
+<tr>
+    <td>Beech Tree</td>
+    <td>بیچ کا درخت</td>
+</tr>
+<tr>
+    <td>Cypress Tree</td>
+    <td>سرو کا درخت</td>
+</tr>
+<tr>
+    <td>Spruce Tree</td>
+    <td>اسپروس کا درخت</td>
+</tr>
+     <tr>
+    <td>Fir Tree</td>
+    <td>فر کا درخت</td>
+</tr>
+<tr>
+    <td>Larch Tree</td>
+    <td>لارچ کا درخت</td>
+</tr>
+<tr>
+    <td>Juniper Tree</td>
+    <td>جونیپر کا درخت</td>
+</tr>
+<tr>
+    <td>Hemlock Tree</td>
+    <td>ہیملوک کا درخت</td>
+</tr>
+<tr>
+    <td>Redwood Tree</td>
+    <td>ریڈ ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Giant Sequoia</td>
+    <td>جائنٹ سیکویا</td>
+</tr>
+<tr>
+    <td>Douglas Fir</td>
+    <td>ڈگلس فر</td>
+</tr>
+<tr>
+    <td>Yew Tree</td>
+    <td>یو کا درخت</td>
+</tr>
+<tr>
+    <td>Alder Tree</td>
+    <td>ایلڈر کا درخت</td>
+</tr>
+<tr>
+    <td>Hornbeam Tree</td>
+    <td>ہارن بیم کا درخت</td>
+</tr>
+<tr>
+    <td>Chestnut Tree</td>
+    <td>شاہ بلوط کا درخت</td>
+</tr>
+<tr>
+    <td>Horse Chestnut</td>
+    <td>ہارس چیسٹ نٹ</td>
+</tr>
+<tr>
+    <td>Walnut Tree</td>
+    <td>اخروٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Pecan Tree</td>
+    <td>پیکان کا درخت</td>
+</tr>
+<tr>
+    <td>Hazelnut Tree</td>
+    <td>ہیزل نٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Almond Tree</td>
+    <td>بادام کا درخت</td>
+</tr>
+<tr>
+    <td>Pistachio Tree</td>
+    <td>پستہ کا درخت</td>
+</tr>
+<tr>
+    <td>Cashew Tree</td>
+    <td>کاجو کا درخت</td>
+</tr>
+<tr>
+    <td>Macadamia Tree</td>
+    <td>میکاڈیمیا کا درخت</td>
+</tr>
+<tr>
+    <td>Papaya Tree</td>
+    <td>پپیتے کا درخت</td>
+</tr>
+<tr>
+    <td>Lychee Tree</td>
+    <td>لیچی کا درخت</td>
+</tr>
+<tr>
+    <td>Longan Tree</td>
+    <td>لونگن کا درخت</td>
+</tr>
+<tr>
+    <td>Mangosteen Tree</td>
+    <td>مینگوسٹین کا درخت</td>
+</tr>
+<tr>
+    <td>Durian Tree</td>
+    <td>ڈوریان کا درخت</td>
+</tr>
+<tr>
+    <td>Rambutan Tree</td>
+    <td>رامبوٹن کا درخت</td>
+</tr>
+<tr>
+    <td>Star Fruit Tree</td>
+    <td>کمرخ کا درخت</td>
+</tr>
+<tr>
+    <td>Persimmon Tree</td>
+    <td>جاپانی پھل کا درخت</td>
+</tr>
+<tr>
+    <td>Loquat Tree</td>
+    <td>لوکاٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Quince Tree</td>
+    <td>بہی کا درخت</td>
+</tr>
+<tr>
+    <td>Jujube Tree</td>
+    <td>بیر کا درخت</td>
+</tr>
+<tr>
+    <td>Rowan Tree</td>
+    <td>روون کا درخت</td>
+</tr>
+<tr>
+    <td>Sycamore Tree</td>
+    <td>سیکامور کا درخت</td>
+</tr>
+<tr>
+    <td>Plane Tree</td>
+    <td>چنار کا درخت</td>
+</tr>
+<tr>
+    <td>Tulip Tree</td>
+    <td>ٹیولپ کا درخت</td>
+</tr>
+<tr>
+    <td>Magnolia Tree</td>
+    <td>میگنولیا کا درخت</td>
+</tr>
+<tr>
+    <td>Dogwood Tree</td>
+    <td>ڈاگ ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Hawthorn Tree</td>
+    <td>ہاتھورن کا درخت</td>
+</tr>
+<tr>
+    <td>Blackthorn Tree</td>
+    <td>بلیک تھورن کا درخت</td>
+</tr>
+<tr>
+    <td>Cottonwood Tree</td>
+    <td>کاٹن ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Aspen Tree</td>
+    <td>ایسپن کا درخت</td>
+</tr>
+<tr>
+    <td>Hackberry Tree</td>
+    <td>ہیک بیری کا درخت</td>
+</tr>
+<tr>
+    <td>Catalpa Tree</td>
+    <td>کیٹالپا کا درخت</td>
+</tr>
+<tr>
+    <td>Laburnum Tree</td>
+    <td>لیبرنم کا درخت</td>
+</tr>
+<tr>
+    <td>Jacaranda Tree</td>
+    <td>جاکارانڈا کا درخت</td>
+</tr>
+<tr>
+    <td>Silk Tree</td>
+    <td>ریشمی درخت</td>
+</tr>
+<tr>
+    <td>Flame Tree</td>
+    <td>شعلہ نما درخت</td>
+</tr>
+<tr>
+    <td>Golden Shower Tree</td>
+    <td>املتاس کا درخت</td>
+</tr>
+<tr>
+    <td>Coral Tree</td>
+    <td>کورل کا درخت</td>
+</tr>
+<tr>
+    <td>Ironwood Tree</td>
+    <td>آئرن ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Ebony Tree</td>
+    <td>آبنوس کا درخت</td>
+</tr>
+     <tr>
+    <td>White Oak</td>
+    <td>سفید بلوط</td>
+</tr>
+<tr>
+    <td>Red Oak</td>
+    <td>سرخ بلوط</td>
+</tr>
+<tr>
+    <td>Black Oak</td>
+    <td>کالا بلوط</td>
+</tr>
+<tr>
+    <td>Live Oak</td>
+    <td>ہمیشہ سبز بلوط</td>
+</tr>
+<tr>
+    <td>Cork Oak</td>
+    <td>کارک بلوط</td>
+</tr>
+<tr>
+    <td>White Cedar</td>
+    <td>سفید دیودار</td>
+</tr>
+<tr>
+    <td>Red Cedar</td>
+    <td>سرخ دیودار</td>
+</tr>
+<tr>
+    <td>Blue Spruce</td>
+    <td>نیلا اسپروس</td>
+</tr>
+<tr>
+    <td>Norway Spruce</td>
+    <td>ناروے اسپروس</td>
+</tr>
+<tr>
+    <td>Scots Pine</td>
+    <td>اسکاٹس صنوبر</td>
+</tr>
+<tr>
+    <td>White Pine</td>
+    <td>سفید صنوبر</td>
+</tr>
+<tr>
+    <td>Red Pine</td>
+    <td>سرخ صنوبر</td>
+</tr>
+<tr>
+    <td>Black Pine</td>
+    <td>کالا صنوبر</td>
+</tr>
+<tr>
+    <td>Sugar Maple</td>
+    <td>شوگر میپل</td>
+</tr>
+<tr>
+    <td>Red Maple</td>
+    <td>سرخ میپل</td>
+</tr>
+<tr>
+    <td>Silver Maple</td>
+    <td>سلور میپل</td>
+</tr>
+<tr>
+    <td>Japanese Maple</td>
+    <td>جاپانی میپل</td>
+</tr>
+<tr>
+    <td>Silver Birch</td>
+    <td>سلور برچ</td>
+</tr>
+<tr>
+    <td>Paper Birch</td>
+    <td>پیپر برچ</td>
+</tr>
+<tr>
+    <td>River Birch</td>
+    <td>ریور برچ</td>
+</tr>
+<tr>
+    <td>White Ash</td>
+    <td>سفید ایش</td>
+</tr>
+<tr>
+    <td>Green Ash</td>
+    <td>سبز ایش</td>
+</tr>
+<tr>
+    <td>Black Ash</td>
+    <td>کالا ایش</td>
+</tr>
+<tr>
+    <td>American Elm</td>
+    <td>امریکن ایلم</td>
+</tr>
+<tr>
+    <td>English Elm</td>
+    <td>انگلش ایلم</td>
+</tr>
+<tr>
+    <td>Siberian Elm</td>
+    <td>سائبیرین ایلم</td>
+</tr>
+<tr>
+    <td>Weeping Willow</td>
+    <td>جھکی ہوئی بید</td>
+</tr>
+<tr>
+    <td>White Willow</td>
+    <td>سفید بید</td>
+</tr>
+<tr>
+    <td>Black Willow</td>
+    <td>کالی بید</td>
+</tr>
+<tr>
+    <td>Lombardy Poplar</td>
+    <td>لومبارڈی سپیدار</td>
+</tr>
+<tr>
+    <td>White Poplar</td>
+    <td>سفید سپیدار</td>
+</tr>
+<tr>
+    <td>Black Poplar</td>
+    <td>کالا سپیدار</td>
+</tr>
+<tr>
+    <td>Grey Poplar</td>
+    <td>سرمئی سپیدار</td>
+</tr>
+<tr>
+    <td>River Red Gum</td>
+    <td>ریور ریڈ گم</td>
+</tr>
+<tr>
+    <td>Snow Gum</td>
+    <td>سنو گم</td>
+</tr>
+<tr>
+    <td>Blue Gum</td>
+    <td>بلیو گم</td>
+</tr>
+<tr>
+    <td>Balsam Fir</td>
+    <td>بالسم فر</td>
+</tr>
+<tr>
+    <td>Noble Fir</td>
+    <td>نوبل فر</td>
+</tr>
+<tr>
+    <td>Grand Fir</td>
+    <td>گرینڈ فر</td>
+</tr>
+<tr>
+    <td>Atlas Cedar</td>
+    <td>اٹلس دیودار</td>
+</tr>
+<tr>
+    <td>Deodar Cedar</td>
+    <td>ہمالیائی دیودار</td>
+</tr>
+<tr>
+    <td>Lebanon Cedar</td>
+    <td>لبنانی دیودار</td>
+</tr>
+<tr>
+    <td>Monkey Puzzle Tree</td>
+    <td>منکی پزل درخت</td>
+</tr>
+<tr>
+    <td>Dragon Blood Tree</td>
+    <td>ڈریگن بلڈ درخت</td>
+</tr>
+<tr>
+    <td>Frankincense Tree</td>
+    <td>لوبان کا درخت</td>
+</tr>
+<tr>
+    <td>Myrrh Tree</td>
+    <td>مر کا درخت</td>
+</tr>
+<tr>
+    <td>Soapberry Tree</td>
+    <td>صابن بیری کا درخت</td>
+</tr>
+<tr>
+    <td>Indian Cork Tree</td>
+    <td>انڈین کارک درخت</td>
+</tr>
+<tr>
+    <td>Sausage Tree</td>
+    <td>ساسیج درخت</td>
+</tr>
+<tr>
+    <td>Rain Tree</td>
+    <td>بارش کا درخت</td>
+</tr>
+     <tr>
+    <td>Breadnut Tree</td>
+    <td>بریڈ نٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Candle Nut Tree</td>
+    <td>کینڈل نٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Carob Tree</td>
+    <td>خروب کا درخت</td>
+</tr>
+<tr>
+    <td>Chinaberry Tree</td>
+    <td>بکائن کا درخت</td>
+</tr>
+<tr>
+    <td>Cinnamon Tree</td>
+    <td>دار چینی کا درخت</td>
+</tr>
+<tr>
+    <td>Clove Tree</td>
+    <td>لونگ کا درخت</td>
+</tr>
+<tr>
+    <td>Coffee Tree</td>
+    <td>کافی کا درخت</td>
+</tr>
+<tr>
+    <td>Curry Leaf Tree</td>
+    <td>کڑی پتے کا درخت</td>
+</tr>
+<tr>
+    <td>Frangipani Tree</td>
+    <td>فرینجی پانی کا درخت</td>
+</tr>
+<tr>
+    <td>Gooseberry Tree</td>
+    <td>آملہ کا درخت</td>
+</tr>
+<tr>
+    <td>Indian Almond Tree</td>
+    <td>دیسی بادام کا درخت</td>
+</tr>
+<tr>
+    <td>Indian Beech Tree</td>
+    <td>کرنج کا درخت</td>
+</tr>
+<tr>
+    <td>Indian Tulip Tree</td>
+    <td>پارس پیپل کا درخت</td>
+</tr>
+<tr>
+    <td>Java Plum Tree</td>
+    <td>جامن کا درخت</td>
+</tr>
+<tr>
+    <td>Kaffir Lime Tree</td>
+    <td>کافر لائم کا درخت</td>
+</tr>
+<tr>
+    <td>Keekar Tree</td>
+    <td>کیکر کا درخت</td>
+</tr>
+<tr>
+    <td>Kumquat Tree</td>
+    <td>کمکواٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Mahua Tree</td>
+    <td>مہوا کا درخت</td>
+</tr>
+<tr>
+    <td>Mesquite Tree</td>
+    <td>میسکائٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Miracle Fruit Tree</td>
+    <td>معجزاتی پھل کا درخت</td>
+</tr>
+<tr>
+    <td>Monkeypod Tree</td>
+    <td>منکی پاڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Mountain Ash Tree</td>
+    <td>ماؤنٹین ایش کا درخت</td>
+</tr>
+<tr>
+    <td>Noni Tree</td>
+    <td>نونی کا درخت</td>
+</tr>
+<tr>
+    <td>Nutmeg Tree</td>
+    <td>جائفل کا درخت</td>
+</tr>
+<tr>
+    <td>Palo Verde Tree</td>
+    <td>پالو وردے کا درخت</td>
+</tr>
+<tr>
+    <td>Paradise Tree</td>
+    <td>پیراڈائز کا درخت</td>
+</tr>
+<tr>
+    <td>Paulownia Tree</td>
+    <td>پاؤلونیا کا درخت</td>
+</tr>
+<tr>
+    <td>Persian Silk Tree</td>
+    <td>فارسی ریشمی درخت</td>
+</tr>
+<tr>
+    <td>Queensland Bottle Tree</td>
+    <td>کوئنزلینڈ بوتل درخت</td>
+</tr>
+<tr>
+    <td>Redbud Tree</td>
+    <td>ریڈبڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Sal Tree</td>
+    <td>سال کا درخت</td>
+</tr>
+<tr>
+    <td>Sapodilla Tree</td>
+    <td>چیکو کا درخت</td>
+</tr>
+<tr>
+    <td>Satinwood Tree</td>
+    <td>سیٹن ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Silk Cotton Tree</td>
+    <td>سیمل کا درخت</td>
+</tr>
+<tr>
+    <td>Sourwood Tree</td>
+    <td>سور ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Spanish Cherry Tree</td>
+    <td>مولسری کا درخت</td>
+</tr>
+<tr>
+    <td>Strawberry Tree</td>
+    <td>اسٹرابیری کا درخت</td>
+</tr>
+<tr>
+    <td>Sweetgum Tree</td>
+    <td>سویٹ گم کا درخت</td>
+</tr>
+<tr>
+    <td>Syzygium Tree</td>
+    <td>سیزیجیم کا درخت</td>
+</tr>
+<tr>
+    <td>Tallow Tree</td>
+    <td>ٹیلو کا درخت</td>
+</tr>
+<tr>
+    <td>Toon Tree</td>
+    <td>تون کا درخت</td>
+</tr>
+<tr>
+    <td>Traveller's Tree</td>
+    <td>مسافر کا درخت</td>
+</tr>
+<tr>
+    <td>Trumpet Tree</td>
+    <td>ٹرمپٹ کا درخت</td>
+</tr>
+<tr>
+    <td>Tung Tree</td>
+    <td>ٹنگ کا درخت</td>
+</tr>
+<tr>
+    <td>White Mulberry Tree</td>
+    <td>سفید شہتوت کا درخت</td>
+</tr>
+<tr>
+    <td>Wild Olive Tree</td>
+    <td>جنگلی زیتون کا درخت</td>
+</tr>
+<tr>
+    <td>Wild Pear Tree</td>
+    <td>جنگلی ناشپاتی کا درخت</td>
+</tr>
+<tr>
+    <td>Yellowwood Tree</td>
+    <td>ییلو ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Zebrawood Tree</td>
+    <td>زیبرا ووڈ کا درخت</td>
+</tr>
+<tr>
+    <td>Ziziphus Tree</td>
+    <td>عناب کا درخت</td>
+</tr>
+   </tbody>
+   </table>
+</body>
+</html>
