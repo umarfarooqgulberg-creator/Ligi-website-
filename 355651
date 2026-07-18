@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Name of birds</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+   <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+ 
+    </header>
+  
+  
+  
+  
+    <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Sparrow</td>
+    <td>چڑیا</td>
+</tr>
+<tr>
+    <td>House Sparrow</td>
+    <td>گھریلو چڑیا</td>
+</tr>
+<tr>
+    <td>Tree Sparrow</td>
+    <td>درختی چڑیا</td>
+</tr>
+<tr>
+    <td>Pigeon</td>
+    <td>کبوتر</td>
+</tr>
+<tr>
+    <td>Rock Pigeon</td>
+    <td>پہاڑی کبوتر</td>
+</tr>
+<tr>
+    <td>Dove</td>
+    <td>فاختہ</td>
+</tr>
+<tr>
+    <td>Eurasian Collared Dove</td>
+    <td>قلردار فاختہ</td>
+</tr>
+<tr>
+    <td>Crow</td>
+    <td>کوا</td>
+</tr>
+<tr>
+    <td>Raven</td>
+    <td>کالا کوا</td>
+</tr>
+<tr>
+    <td>Eagle</td>
+    <td>عقاب</td>
+</tr>
+<tr>
+    <td>Golden Eagle</td>
+    <td>سنہری عقاب</td>
+</tr>
+<tr>
+    <td>Bald Eagle</td>
+    <td>سفید سر والا عقاب</td>
+</tr>
+<tr>
+    <td>Hawk</td>
+    <td>باز</td>
+</tr>
+<tr>
+    <td>Falcon</td>
+    <td>شاہین</td>
+</tr>
+<tr>
+    <td>Peregrine Falcon</td>
+    <td>تیز رفتار شاہین</td>
+</tr>
+<tr>
+    <td>Kestrel</td>
+    <td>کستریل</td>
+</tr>
+<tr>
+    <td>Kite</td>
+    <td>چیل</td>
+</tr>
+<tr>
+    <td>Black Kite</td>
+    <td>کالی چیل</td>
+</tr>
+<tr>
+    <td>Vulture</td>
+    <td>گدھ</td>
+</tr>
+<tr>
+    <td>Griffon Vulture</td>
+    <td>گرفن گدھ</td>
+</tr>
+<tr>
+    <td>Owl</td>
+    <td>اُلو</td>
+</tr>
+<tr>
+    <td>Barn Owl</td>
+    <td>سفید اُلو</td>
+</tr>
+<tr>
+    <td>Snowy Owl</td>
+    <td>برفیلا اُلو</td>
+</tr>
+<tr>
+    <td>Parrot</td>
+    <td>طوطا</td>
+</tr>
+<tr>
+    <td>Macaw</td>
+    <td>مکاؤ طوطا</td>
+</tr>
+<tr>
+    <td>Cockatoo</td>
+    <td>کاکاٹو</td>
+</tr>
+<tr>
+    <td>Budgerigar</td>
+    <td>بجی</td>
+</tr>
+<tr>
+    <td>Lovebird</td>
+    <td>لو برڈ</td>
+</tr>
+<tr>
+    <td>Peacock</td>
+    <td>مور</td>
+</tr>
+<tr>
+    <td>Peahen</td>
+    <td>مورنی</td>
+</tr>
+<tr>
+    <td>Hen</td>
+    <td>مرغی</td>
+</tr>
+<tr>
+    <td>Rooster</td>
+    <td>مرغا</td>
+</tr>
+<tr>
+    <td>Chicken</td>
+    <td>چوزہ</td>
+</tr>
+<tr>
+    <td>Duck</td>
+    <td>بطخ</td>
+</tr>
+<tr>
+    <td>Goose</td>
+    <td>ہنس</td>
+</tr>
+<tr>
+    <td>Swan</td>
+    <td>راج ہنس</td>
+</tr>
+<tr>
+    <td>Turkey</td>
+    <td>ٹرکی</td>
+</tr>
+<tr>
+    <td>Quail</td>
+    <td>بٹیر</td>
+</tr>
+<tr>
+    <td>Pheasant</td>
+    <td>تیتر</td>
+</tr>
+<tr>
+    <td>Partridge</td>
+    <td>چکور</td>
+</tr>
+<tr>
+    <td>Chukar Partridge</td>
+    <td>چکور تیتر</td>
+</tr>
+<tr>
+    <td>Crane</td>
+    <td>سارس</td>
+</tr>
+<tr>
+    <td>Demoiselle Crane</td>
+    <td>خوبصورت سارس</td>
+</tr>
+<tr>
+    <td>Stork</td>
+    <td>لک لک</td>
+</tr>
+<tr>
+    <td>Heron</td>
+    <td>بگلا</td>
+</tr>
+<tr>
+    <td>Egret</td>
+    <td>سفید بگلا</td>
+</tr>
+<tr>
+    <td>Flamingo</td>
+    <td>فلیمنگو</td>
+</tr>
+<tr>
+    <td>Pelican</td>
+    <td>پیلیکن</td>
+</tr>
+<tr>
+    <td>Cormorant</td>
+    <td>کارمورینٹ</td>
+</tr>
+<tr>
+    <td>Kingfisher</td>
+    <td>رام چڑیا</td>
+</tr>
+        <tr>
+    <td>Woodpecker</td>
+    <td>کٹ پھوڑوا</td>
+</tr>
+<tr>
+    <td>Hoopoe</td>
+    <td>ہدہد</td>
+</tr>
+<tr>
+    <td>Cuckoo</td>
+    <td>کوئل</td>
+</tr>
+<tr>
+    <td>Nightingale</td>
+    <td>عندلیب</td>
+</tr>
+<tr>
+    <td>Bulbul</td>
+    <td>بلبل</td>
+</tr>
+<tr>
+    <td>Canary</td>
+    <td>کینری</td>
+</tr>
+<tr>
+    <td>Finch</td>
+    <td>فنچ</td>
+</tr>
+<tr>
+    <td>Goldfinch</td>
+    <td>سنہری فنچ</td>
+</tr>
+<tr>
+    <td>Greenfinch</td>
+    <td>سبز فنچ</td>
+</tr>
+<tr>
+    <td>Chaffinch</td>
+    <td>چیف فنچ</td>
+</tr>
+<tr>
+    <td>Robin</td>
+    <td>رابن</td>
+</tr>
+<tr>
+    <td>Bluebird</td>
+    <td>بلیو برڈ</td>
+</tr>
+<tr>
+    <td>Blackbird</td>
+    <td>بلیک برڈ</td>
+</tr>
+<tr>
+    <td>Swallow</td>
+    <td>ابابیل</td>
+</tr>
+<tr>
+    <td>Swift</td>
+    <td>سوئفٹ</td>
+</tr>
+<tr>
+    <td>Wagtail</td>
+    <td>دم ہلانے والی چڑیا</td>
+</tr>
+<tr>
+    <td>Lark</td>
+    <td>چنڈول</td>
+</tr>
+<tr>
+    <td>Myna</td>
+    <td>مینا</td>
+</tr>
+<tr>
+    <td>Starling</td>
+    <td>سٹارلنگ</td>
+</tr>
+<tr>
+    <td>Magpie</td>
+    <td>میگ پائی</td>
+</tr>
+<tr>
+    <td>Jay</td>
+    <td>جے</td>
+</tr>
+<tr>
+    <td>Drongo</td>
+    <td>ڈرونگو</td>
+</tr>
+<tr>
+    <td>Shrike</td>
+    <td>قصاب چڑیا</td>
+</tr>
+<tr>
+    <td>Bee-eater</td>
+    <td>مکھی خور پرندہ</td>
+</tr>
+<tr>
+    <td>Sunbird</td>
+    <td>سن برڈ</td>
+</tr>
+<tr>
+    <td>Hornbill</td>
+    <td>دھنیش</td>
+</tr>
+<tr>
+    <td>Toucan</td>
+    <td>ٹوکن</td>
+</tr>
+<tr>
+    <td>Hummingbird</td>
+    <td>ہمنگ برڈ</td>
+</tr>
+<tr>
+    <td>Roller</td>
+    <td>رولر پرندہ</td>
+</tr>
+<tr>
+    <td>Oriole</td>
+    <td>اوریول</td>
+</tr>
+<tr>
+    <td>Warbler</td>
+    <td>واربلر</td>
+</tr>
+<tr>
+    <td>Thrush</td>
+    <td>تھرش</td>
+</tr>
+<tr>
+    <td>Nuthatch</td>
+    <td>نتھیچ</td>
+</tr>
+<tr>
+    <td>Creeper</td>
+    <td>کریپر</td>
+</tr>
+<tr>
+    <td>Pipit</td>
+    <td>پپٹ</td>
+</tr>
+<tr>
+    <td>Bunting</td>
+    <td>بنٹنگ</td>
+</tr>
+<tr>
+    <td>Crossbill</td>
+    <td>کراس بل</td>
+</tr>
+<tr>
+    <td>Siskin</td>
+    <td>سسکن</td>
+</tr>
+<tr>
+    <td>Jackdaw</td>
+    <td>جیک ڈا</td>
+</tr>
+<tr>
+    <td>Rook</td>
+    <td>روک</td>
+</tr>
+<tr>
+    <td>Harrier</td>
+    <td>ہیریئر</td>
+</tr>
+<tr>
+    <td>Osprey</td>
+    <td>ماہی خور عقاب</td>
+</tr>
+<tr>
+    <td>Condor</td>
+    <td>کونڈور</td>
+</tr>
+<tr>
+    <td>Secretary Bird</td>
+    <td>سیکریٹری برڈ</td>
+</tr>
+<tr>
+    <td>Albatross</td>
+    <td>الباٹروس</td>
+</tr>
+<tr>
+    <td>Petrel</td>
+    <td>پیٹرل</td>
+</tr>
+<tr>
+    <td>Shearwater</td>
+    <td>شیئر واٹر</td>
+</tr>
+<tr>
+    <td>Frigatebird</td>
+    <td>فریگیٹ برڈ</td>
+</tr>
+<tr>
+    <td>Gannet</td>
+    <td>گینیٹ</td>
+</tr>
+<tr>
+    <td>Grebe</td>
+    <td>گریب</td>
+</tr>
+        <tr>
+    <td>Loon</td>
+    <td>لون</td>
+</tr>
+<tr>
+    <td>Puffin</td>
+    <td>پفن</td>
+</tr>
+<tr>
+    <td>Tern</td>
+    <td>ٹرن</td>
+</tr>
+<tr>
+    <td>Gull</td>
+    <td>سی گل</td>
+</tr>
+<tr>
+    <td>Sandpiper</td>
+    <td>سینڈ پائپر</td>
+</tr>
+<tr>
+    <td>Curlew</td>
+    <td>کرلیو</td>
+</tr>
+<tr>
+    <td>Avocet</td>
+    <td>ایووسیٹ</td>
+</tr>
+<tr>
+    <td>Lapwing</td>
+    <td>ٹیٹیہری</td>
+</tr>
+<tr>
+    <td>Oystercatcher</td>
+    <td>صدفی خور پرندہ</td>
+</tr>
+<tr>
+    <td>Bittern</td>
+    <td>بٹرن</td>
+</tr>
+<tr>
+    <td>Rail</td>
+    <td>ریل پرندہ</td>
+</tr>
+<tr>
+    <td>Moorhen</td>
+    <td>جل مرغی</td>
+</tr>
+<tr>
+    <td>Coot</td>
+    <td>کوٹ</td>
+</tr>
+<tr>
+    <td>Jacana</td>
+    <td>جاکانا</td>
+</tr>
+<tr>
+    <td>Avadavat</td>
+    <td>لال منیا</td>
+</tr>
+<tr>
+    <td>Munia</td>
+    <td>منیا</td>
+</tr>
+<tr>
+    <td>Weaver Bird</td>
+    <td>بایا</td>
+</tr>
+<tr>
+    <td>Waxwing</td>
+    <td>ویکس ونگ</td>
+</tr>
+<tr>
+    <td>Paradise Flycatcher</td>
+    <td>جنتی فلی کیچر</td>
+</tr>
+<tr>
+    <td>Flycatcher</td>
+    <td>مکھی پکڑنے والا پرندہ</td>
+</tr>
+<tr>
+    <td>Stonechat</td>
+    <td>اسٹون چیٹ</td>
+</tr>
+<tr>
+    <td>Redstart</td>
+    <td>ریڈ اسٹارٹ</td>
+</tr>
+<tr>
+    <td>Wheatear</td>
+    <td>وہیٹ ایئر</td>
+</tr>
+<tr>
+    <td>Treecreeper</td>
+    <td>درخت پر چڑھنے والا پرندہ</td>
+</tr>
+<tr>
+    <td>Leafbird</td>
+    <td>لیف برڈ</td>
+</tr>
+<tr>
+    <td>Ibis</td>
+    <td>آئبس</td>
+</tr>
+<tr>
+    <td>Spoonbill</td>
+    <td>چمچ چونچ پرندہ</td>
+</tr>
+<tr>
+    <td>Whimbrel</td>
+    <td>وِمبریل</td>
+</tr>
+<tr>
+    <td>Godwit</td>
+    <td>گاڈ وِٹ</td>
+</tr>
+<tr>
+    <td>Turnstone</td>
+    <td>ٹرن اسٹون</td>
+</tr>
+<tr>
+    <td>Dunlin</td>
+    <td>ڈنلن</td>
+</tr>
+<tr>
+    <td>Redshank</td>
+    <td>ریڈ شینک</td>
+</tr>
+<tr>
+    <td>Greylag Goose</td>
+    <td>سرمئی ہنس</td>
+</tr>
+<tr>
+    <td>Bar-headed Goose</td>
+    <td>دو دھاری ہنس</td>
+</tr>
+<tr>
+    <td>Mandarin Duck</td>
+    <td>مینڈرن بطخ</td>
+</tr>
+<tr>
+    <td>Mallard</td>
+    <td>جنگلی بطخ</td>
+</tr>
+<tr>
+    <td>Pintail</td>
+    <td>پن ٹیل بطخ</td>
+</tr>
+<tr>
+    <td>Shoveler</td>
+    <td>چپٹی چونچ والی بطخ</td>
+</tr>
+<tr>
+    <td>Teal</td>
+    <td>ٹیل بطخ</td>
+</tr>
+<tr>
+    <td>Scaup</td>
+    <td>اسکاپ</td>
+</tr>
+<tr>
+    <td>Eider</td>
+    <td>آئیڈر</td>
+</tr>
+<tr>
+    <td>Scoter</td>
+    <td>اسکوٹر بطخ</td>
+</tr>
+<tr>
+    <td>Merganser</td>
+    <td>مرگینسر</td>
+</tr>
+<tr>
+    <td>Anhinga</td>
+    <td>انہنگا</td>
+</tr>
+<tr>
+    <td>Darter</td>
+    <td>ڈارٹر</td>
+</tr>
+<tr>
+    <td>Skimmer</td>
+    <td>سکمر</td>
+</tr>
+<tr>
+    <td>Tropicbird</td>
+    <td>ٹراپک برڈ</td>
+</tr>
+<tr>
+    <td>Booby</td>
+    <td>بوبی پرندہ</td>
+</tr>
+<tr>
+    <td>Kea</td>
+    <td>کیا طوطا</td>
+</tr>
+<tr>
+    <td>Kakapo</td>
+    <td>کاکاپو</td>
+</tr>
+        <tr>
+    <td>Rosella</td>
+    <td>روزیلا</td>
+</tr>
+<tr>
+    <td>Lorikeet</td>
+    <td>لوریکیٹ</td>
+</tr>
+<tr>
+    <td>Parakeet</td>
+    <td>لمبی دم والا طوطا</td>
+</tr>
+<tr>
+    <td>Alexandrine Parakeet</td>
+    <td>سکندری طوطا</td>
+</tr>
+<tr>
+    <td>Ring-necked Parakeet</td>
+    <td>گلے میں حلقہ والا طوطا</td>
+</tr>
+<tr>
+    <td>Eclectus Parrot</td>
+    <td>ایکلیکٹس طوطا</td>
+</tr>
+<tr>
+    <td>African Grey Parrot</td>
+    <td>افریقی سرمئی طوطا</td>
+</tr>
+<tr>
+    <td>Scarlet Macaw</td>
+    <td>سرخ مکاؤ</td>
+</tr>
+<tr>
+    <td>Hyacinth Macaw</td>
+    <td>نیلا مکاؤ</td>
+</tr>
+<tr>
+    <td>Cockatiel</td>
+    <td>کاکاٹیل</td>
+</tr>
+<tr>
+    <td>Rosy Starling</td>
+    <td>گلابی سٹارلنگ</td>
+</tr>
+<tr>
+    <td>Brahminy Starling</td>
+    <td>برہمنی سٹارلنگ</td>
+</tr>
+<tr>
+    <td>Indian Roller</td>
+    <td>نیل کنٹھ</td>
+</tr>
+<tr>
+    <td>White Wagtail</td>
+    <td>سفید دم ہلانے والی چڑیا</td>
+</tr>
+<tr>
+    <td>Yellow Wagtail</td>
+    <td>پیلی دم ہلانے والی چڑیا</td>
+</tr>
+<tr>
+    <td>Purple Sunbird</td>
+    <td>جامنی سن برڈ</td>
+</tr>
+<tr>
+    <td>Indian Robin</td>
+    <td>بھارتی رابن</td>
+</tr>
+<tr>
+    <td>Oriental Magpie Robin</td>
+    <td>مشرقی میگ پائی رابن</td>
+</tr>
+<tr>
+    <td>Ashy Prinia</td>
+    <td>سرمئی پرینیا</td>
+</tr>
+<tr>
+    <td>Common Tailorbird</td>
+    <td>درزی چڑیا</td>
+</tr>
+<tr>
+    <td>Zitting Cisticola</td>
+    <td>زٹنگ سسٹیکولا</td>
+</tr>
+<tr>
+    <td>Paddyfield Pipit</td>
+    <td>کھیتی پپٹ</td>
+</tr>
+<tr>
+    <td>Indian Silverbill</td>
+    <td>بھارتی سلوربل</td>
+</tr>
+<tr>
+    <td>White-throated Kingfisher</td>
+    <td>سفید گلے والی رام چڑیا</td>
+</tr>
+<tr>
+    <td>Pied Kingfisher</td>
+    <td>چتکبری رام چڑیا</td>
+</tr>
+<tr>
+    <td>Black Drongo</td>
+    <td>کالا ڈرونگو</td>
+</tr>
+<tr>
+    <td>Ashy Drongo</td>
+    <td>سرمئی ڈرونگو</td>
+</tr>
+<tr>
+    <td>Green Bee-eater</td>
+    <td>سبز مکھی خور</td>
+</tr>
+<tr>
+    <td>Blue-tailed Bee-eater</td>
+    <td>نیلی دم والا مکھی خور</td>
+</tr>
+<tr>
+    <td>Indian Peafowl</td>
+    <td>بھارتی مور</td>
+</tr>
+<tr>
+    <td>Grey Francolin</td>
+    <td>سرمئی تیتر</td>
+</tr>
+<tr>
+    <td>Painted Francolin</td>
+    <td>نقش دار تیتر</td>
+</tr>
+<tr>
+    <td>Red Junglefowl</td>
+    <td>سرخ جنگلی مرغ</td>
+</tr>
+<tr>
+    <td>Kalij Pheasant</td>
+    <td>کالج تیتر</td>
+</tr>
+<tr>
+    <td>Monal</td>
+    <td>مونال</td>
+</tr>
+<tr>
+    <td>Snow Partridge</td>
+    <td>برفیلا چکور</td>
+</tr>
+<tr>
+    <td>Himalayan Monal</td>
+    <td>ہمالیائی مونال</td>
+</tr>
+<tr>
+    <td>Lammergeier</td>
+    <td>ہڈی خور گدھ</td>
+</tr>
+<tr>
+    <td>Steppe Eagle</td>
+    <td>صحرائی عقاب</td>
+</tr>
+<tr>
+    <td>Bonelli's Eagle</td>
+    <td>بونیلی عقاب</td>
+</tr>
+<tr>
+    <td>Imperial Eagle</td>
+    <td>شاہی عقاب</td>
+</tr>
+<tr>
+    <td>Marsh Harrier</td>
+    <td>دلدلی ہیریئر</td>
+</tr>
+<tr>
+    <td>Black-winged Kite</td>
+    <td>کالی پروں والی چیل</td>
+</tr>
+<tr>
+    <td>Little Owl</td>
+    <td>چھوٹا اُلو</td>
+</tr>
+<tr>
+    <td>Brown Fish Owl</td>
+    <td>بھورا مچھلی خور اُلو</td>
+</tr>
+<tr>
+    <td>Long-eared Owl</td>
+    <td>لمبے کانوں والا اُلو</td>
+</tr>
+<tr>
+    <td>Short-eared Owl</td>
+    <td>چھوٹے کانوں والا اُلو</td>
+</tr>
+<tr>
+    <td>Tawny Owl</td>
+    <td>بھورا اُلو</td>
+</tr>
+<tr>
+    <td>Eurasian Eagle-Owl</td>
+    <td>یوریشیائی عقابی اُلو</td>
+</tr>
+<tr>
+    <td>Great Horned Owl</td>
+    <td>بڑے سینگوں والا اُلو</td>
+</tr>
+      </tbody>   
+      </table>
+</body>
+</html>
