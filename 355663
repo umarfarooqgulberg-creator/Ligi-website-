@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Names of Spices</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+<table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+   <tbody>
+     <tr>
+    <td>Black Pepper</td>
+    <td>کالی مرچ</td>
+</tr>
+<tr>
+    <td>White Pepper</td>
+    <td>سفید مرچ</td>
+</tr>
+<tr>
+    <td>Green Peppercorn</td>
+    <td>سبز مرچ کے دانے</td>
+</tr>
+<tr>
+    <td>Long Pepper</td>
+    <td>پیپل</td>
+</tr>
+<tr>
+    <td>Cinnamon</td>
+    <td>دار چینی</td>
+</tr>
+<tr>
+    <td>Cassia</td>
+    <td>کاسیا دار چینی</td>
+</tr>
+<tr>
+    <td>Clove</td>
+    <td>لونگ</td>
+</tr>
+<tr>
+    <td>Cardamom</td>
+    <td>الائچی</td>
+</tr>
+<tr>
+    <td>Green Cardamom</td>
+    <td>سبز الائچی</td>
+</tr>
+<tr>
+    <td>Black Cardamom</td>
+    <td>کالی الائچی</td>
+</tr>
+<tr>
+    <td>Cumin</td>
+    <td>زیرہ</td>
+</tr>
+<tr>
+    <td>Black Cumin</td>
+    <td>کالا زیرہ</td>
+</tr>
+<tr>
+    <td>Coriander Seeds</td>
+    <td>دھنیا</td>
+</tr>
+<tr>
+    <td>Fennel Seeds</td>
+    <td>سونف</td>
+</tr>
+<tr>
+    <td>Fenugreek</td>
+    <td>میتھی</td>
+</tr>
+<tr>
+    <td>Mustard Seeds</td>
+    <td>رائی</td>
+</tr>
+<tr>
+    <td>Nigella Seeds</td>
+    <td>کلونجی</td>
+</tr>
+<tr>
+    <td>Carom Seeds</td>
+    <td>اجوائن</td>
+</tr>
+<tr>
+    <td>Anise</td>
+    <td>انیسون</td>
+</tr>
+<tr>
+    <td>Dill Seeds</td>
+    <td>شوید کے بیج</td>
+</tr>
+<tr>
+    <td>Celery Seeds</td>
+    <td>اجمود کے بیج</td>
+</tr>
+<tr>
+    <td>Poppy Seeds</td>
+    <td>خشخاش</td>
+</tr>
+<tr>
+    <td>Sesame Seeds</td>
+    <td>تل</td>
+</tr>
+<tr>
+    <td>Saffron</td>
+    <td>زعفران</td>
+</tr>
+<tr>
+    <td>Turmeric</td>
+    <td>ہلدی</td>
+</tr>
+<tr>
+    <td>Ginger</td>
+    <td>ادرک</td>
+</tr>
+<tr>
+    <td>Dry Ginger</td>
+    <td>سونٹھ</td>
+</tr>
+<tr>
+    <td>Garlic Powder</td>
+    <td>لہسن پاؤڈر</td>
+</tr>
+<tr>
+    <td>Onion Powder</td>
+    <td>پیاز پاؤڈر</td>
+</tr>
+<tr>
+    <td>Paprika</td>
+    <td>پاپریکا</td>
+</tr>
+<tr>
+    <td>Red Chili Powder</td>
+    <td>لال مرچ پاؤڈر</td>
+</tr>
+<tr>
+    <td>Kashmiri Chili</td>
+    <td>کشمیری لال مرچ</td>
+</tr>
+<tr>
+    <td>Cayenne Pepper</td>
+    <td>لال تیز مرچ</td>
+</tr>
+<tr>
+    <td>Chipotle Powder</td>
+    <td>چپوٹلے پاؤڈر</td>
+</tr>
+<tr>
+    <td>Allspice</td>
+    <td>آل اسپائس</td>
+</tr>
+<tr>
+    <td>Star Anise</td>
+    <td>چکر پھول</td>
+</tr>
+<tr>
+    <td>Nutmeg</td>
+    <td>جائفل</td>
+</tr>
+<tr>
+    <td>Mace</td>
+    <td>جاوتری</td>
+</tr>
+<tr>
+    <td>Bay Leaf</td>
+    <td>تیز پات</td>
+</tr>
+<tr>
+    <td>Curry Leaves</td>
+    <td>کڑی پتے</td>
+</tr>
+<tr>
+    <td>Tamarind Powder</td>
+    <td>املی پاؤڈر</td>
+</tr>
+<tr>
+    <td>Mango Powder</td>
+    <td>آمچور پاؤڈر</td>
+</tr>
+<tr>
+    <td>Asafoetida</td>
+    <td>ہینگ</td>
+</tr>
+<tr>
+    <td>Juniper Berries</td>
+    <td>جونیپر بیریز</td>
+</tr>
+<tr>
+    <td>Sumac</td>
+    <td>سماق</td>
+</tr>
+<tr>
+    <td>Za'atar</td>
+    <td>زعتر</td>
+</tr>
+<tr>
+    <td>Galangal</td>
+    <td>گلنگل</td>
+</tr>
+<tr>
+    <td>Lemongrass</td>
+    <td>لیموں گھاس</td>
+</tr>
+<tr>
+    <td>Horseradish</td>
+    <td>ہارس ریڈش</td>
+</tr>
+<tr>
+    <td>Wasabi</td>
+    <td>وسابی</td>
+</tr>
+     <tr>
+    <td>White Mustard Seeds</td>
+    <td>سفید رائی</td>
+</tr>
+<tr>
+    <td>Brown Mustard Seeds</td>
+    <td>بھوری رائی</td>
+</tr>
+<tr>
+    <td>Pink Peppercorn</td>
+    <td>گلابی مرچ کے دانے</td>
+</tr>
+<tr>
+    <td>Sichuan Pepper</td>
+    <td>سیچوان مرچ</td>
+</tr>
+<tr>
+    <td>Grains of Paradise</td>
+    <td>گرینز آف پیراڈائز</td>
+</tr>
+<tr>
+    <td>Cubeb Pepper</td>
+    <td>کبیب مرچ</td>
+</tr>
+<tr>
+    <td>Aleppo Pepper</td>
+    <td>الیپو مرچ</td>
+</tr>
+<tr>
+    <td>Urfa Biber</td>
+    <td>ارفا بیبر</td>
+</tr>
+<tr>
+    <td>Bird's Eye Chili</td>
+    <td>برڈز آئی مرچ</td>
+</tr>
+<tr>
+    <td>Piri Piri</td>
+    <td>پیری پیری مرچ</td>
+</tr>
+<tr>
+    <td>Guajillo Chili</td>
+    <td>گواجیلو مرچ</td>
+</tr>
+<tr>
+    <td>Ancho Chili</td>
+    <td>اینچو مرچ</td>
+</tr>
+<tr>
+    <td>Pasilla Chili</td>
+    <td>پاسیلا مرچ</td>
+</tr>
+<tr>
+    <td>Mulato Chili</td>
+    <td>مولاتو مرچ</td>
+</tr>
+<tr>
+    <td>Habanero Pepper</td>
+    <td>ہابانیرو مرچ</td>
+</tr>
+<tr>
+    <td>Scotch Bonnet</td>
+    <td>اسکاچ بونیٹ مرچ</td>
+</tr>
+<tr>
+    <td>Ghost Pepper</td>
+    <td>بھوت جولوکیا مرچ</td>
+</tr>
+<tr>
+    <td>Carolina Reaper</td>
+    <td>کیرولائنا ریپر مرچ</td>
+</tr>
+<tr>
+    <td>Trinidad Scorpion</td>
+    <td>ٹرینیڈاڈ اسکارپین مرچ</td>
+</tr>
+<tr>
+    <td>Jalapeño</td>
+    <td>جلاپینو مرچ</td>
+</tr>
+<tr>
+    <td>Serrano Pepper</td>
+    <td>سیرانو مرچ</td>
+</tr>
+<tr>
+    <td>Poblano Pepper</td>
+    <td>پوبلانو مرچ</td>
+</tr>
+<tr>
+    <td>Thai Chili</td>
+    <td>تھائی مرچ</td>
+</tr>
+<tr>
+    <td>Kaffir Lime Leaves</td>
+    <td>کافر لائم کے پتے</td>
+</tr>
+<tr>
+    <td>Rosemary</td>
+    <td>روزمیری</td>
+</tr>
+<tr>
+    <td>Thyme</td>
+    <td>تھائم</td>
+</tr>
+<tr>
+    <td>Oregano</td>
+    <td>اوریگانو</td>
+</tr>
+<tr>
+    <td>Marjoram</td>
+    <td>مارجورم</td>
+</tr>
+<tr>
+    <td>Sage</td>
+    <td>سیج</td>
+</tr>
+<tr>
+    <td>Basil</td>
+    <td>تلسی</td>
+</tr>
+<tr>
+    <td>Parsley</td>
+    <td>اجمود کے پتے</td>
+</tr>
+<tr>
+    <td>Tarragon</td>
+    <td>ٹیراگون</td>
+</tr>
+<tr>
+    <td>Chervil</td>
+    <td>چیروِل</td>
+</tr>
+<tr>
+    <td>Lovage</td>
+    <td>لوویج</td>
+</tr>
+<tr>
+    <td>Hyssop</td>
+    <td>ہائسوپ</td>
+</tr>
+<tr>
+    <td>Savory</td>
+    <td>سیوری</td>
+</tr>
+<tr>
+    <td>Mint</td>
+    <td>پودینہ</td>
+</tr>
+<tr>
+    <td>Spearmint</td>
+    <td>اسپیئرمنٹ</td>
+</tr>
+<tr>
+    <td>Peppermint</td>
+    <td>پیپرمنٹ</td>
+</tr>
+<tr>
+    <td>Lavender</td>
+    <td>لیونڈر</td>
+</tr>
+<tr>
+    <td>Vanilla</td>
+    <td>ونیلا</td>
+</tr>
+<tr>
+    <td>Vanilla Powder</td>
+    <td>ونیلا پاؤڈر</td>
+</tr>
+<tr>
+    <td>Cocoa Powder</td>
+    <td>کوکو پاؤڈر</td>
+</tr>
+<tr>
+    <td>Licorice Root</td>
+    <td>ملیٹھی</td>
+</tr>
+<tr>
+    <td>Dried Orange Peel</td>
+    <td>خشک سنگترے کا چھلکا</td>
+</tr>
+<tr>
+    <td>Dried Lemon Peel</td>
+    <td>خشک لیموں کا چھلکا</td>
+</tr>
+<tr>
+    <td>Pandan Leaves</td>
+    <td>پانڈان کے پتے</td>
+</tr>
+<tr>
+    <td>Annatto</td>
+    <td>اناٹو</td>
+</tr>
+<tr>
+    <td>Mahleb</td>
+    <td>محلب</td>
+</tr>
+<tr>
+    <td>Black Lime</td>
+    <td>خشک کالا لیموں</td>
+</tr>
+     <tr>
+    <td>Ajwain Powder</td>
+    <td>اجوائن پاؤڈر</td>
+</tr>
+<tr>
+    <td>Celery Salt</td>
+    <td>اجمود نمک</td>
+</tr>
+<tr>
+    <td>Garam Masala</td>
+    <td>گرم مصالحہ</td>
+</tr>
+<tr>
+    <td>Chaat Masala</td>
+    <td>چاٹ مصالحہ</td>
+</tr>
+<tr>
+    <td>Biryani Masala</td>
+    <td>بریانی مصالحہ</td>
+</tr>
+<tr>
+    <td>Karahi Masala</td>
+    <td>کڑاہی مصالحہ</td>
+</tr>
+<tr>
+    <td>Tandoori Masala</td>
+    <td>تندوری مصالحہ</td>
+</tr>
+<tr>
+    <td>Seekh Kebab Masala</td>
+    <td>سیخ کباب مصالحہ</td>
+</tr>
+<tr>
+    <td>Shawarma Spice</td>
+    <td>شاورما مصالحہ</td>
+</tr>
+<tr>
+    <td>Harissa</td>
+    <td>ہریسہ مصالحہ</td>
+</tr>
+<tr>
+    <td>Baharat</td>
+    <td>بہارات مصالحہ</td>
+</tr>
+<tr>
+    <td>Ras el Hanout</td>
+    <td>راس الحانوت</td>
+</tr>
+<tr>
+    <td>Five Spice Powder</td>
+    <td>چائنیز فائیو اسپائس</td>
+</tr>
+<tr>
+    <td>Seven Spice</td>
+    <td>سیون اسپائس</td>
+</tr>
+<tr>
+    <td>Cajun Seasoning</td>
+    <td>کیجن مصالحہ</td>
+</tr>
+<tr>
+    <td>Creole Seasoning</td>
+    <td>کریول مصالحہ</td>
+</tr>
+<tr>
+    <td>Italian Seasoning</td>
+    <td>اٹالین مصالحہ</td>
+</tr>
+<tr>
+    <td>Herbes de Provence</td>
+    <td>ہربز ڈی پروونس</td>
+</tr>
+<tr>
+    <td>Everything Bagel Seasoning</td>
+    <td>ایوری تھنگ بیگل مصالحہ</td>
+</tr>
+<tr>
+    <td>Lemon Pepper Seasoning</td>
+    <td>لیموں مرچ مصالحہ</td>
+</tr>
+<tr>
+    <td>Steak Seasoning</td>
+    <td>اسٹیک مصالحہ</td>
+</tr>
+<tr>
+    <td>Chicken Seasoning</td>
+    <td>چکن مصالحہ</td>
+</tr>
+<tr>
+    <td>Fish Seasoning</td>
+    <td>مچھلی مصالحہ</td>
+</tr>
+<tr>
+    <td>Barbecue Rub</td>
+    <td>باربی کیو مصالحہ</td>
+</tr>
+<tr>
+    <td>Smoked Paprika</td>
+    <td>دھواں دار پاپریکا</td>
+</tr>
+<tr>
+    <td>Sweet Paprika</td>
+    <td>میٹھی پاپریکا</td>
+</tr>
+<tr>
+    <td>Hot Paprika</td>
+    <td>تیز پاپریکا</td>
+</tr>
+<tr>
+    <td>White Sesame</td>
+    <td>سفید تل</td>
+</tr>
+<tr>
+    <td>Black Sesame</td>
+    <td>کالے تل</td>
+</tr>
+<tr>
+    <td>Toasted Sesame</td>
+    <td>بھنے ہوئے تل</td>
+</tr>
+<tr>
+    <td>Caraway Powder</td>
+    <td>کراوے پاؤڈر</td>
+</tr>
+<tr>
+    <td>Fennel Powder</td>
+    <td>سونف پاؤڈر</td>
+</tr>
+<tr>
+    <td>Coriander Powder</td>
+    <td>دھنیا پاؤڈر</td>
+</tr>
+<tr>
+    <td>Cumin Powder</td>
+    <td>زیرہ پاؤڈر</td>
+</tr>
+<tr>
+    <td>Mustard Powder</td>
+    <td>رائی پاؤڈر</td>
+</tr>
+<tr>
+    <td>Clove Powder</td>
+    <td>لونگ پاؤڈر</td>
+</tr>
+<tr>
+    <td>Cinnamon Powder</td>
+    <td>دار چینی پاؤڈر</td>
+</tr>
+<tr>
+    <td>Cardamom Powder</td>
+    <td>الائچی پاؤڈر</td>
+</tr>
+<tr>
+    <td>Nutmeg Powder</td>
+    <td>جائفل پاؤڈر</td>
+</tr>
+<tr>
+    <td>Mace Powder</td>
+    <td>جاوتری پاؤڈر</td>
+</tr>
+<tr>
+    <td>Saffron Powder</td>
+    <td>زعفران پاؤڈر</td>
+</tr>
+<tr>
+    <td>Turmeric Powder</td>
+    <td>ہلدی پاؤڈر</td>
+</tr>
+<tr>
+    <td>Ginger Powder</td>
+    <td>ادرک پاؤڈر</td>
+</tr>
+<tr>
+    <td>Galangal Powder</td>
+    <td>گلنگل پاؤڈر</td>
+</tr>
+<tr>
+    <td>Tamarind Spice</td>
+    <td>املی مصالحہ</td>
+</tr>
+<tr>
+    <td>Pomegranate Powder</td>
+    <td>اناردانہ پاؤڈر</td>
+</tr>
+<tr>
+    <td>Dried Curry Leaves</td>
+    <td>خشک کڑی پتے</td>
+</tr>
+<tr>
+    <td>Dried Basil</td>
+    <td>خشک تلسی</td>
+</tr>
+<tr>
+    <td>Dried Oregano</td>
+    <td>خشک اوریگانو</td>
+</tr>
+<tr>
+    <td>Dried Rosemary</td>
+    <td>خشک روزمیری</td>
+</tr>
+     <tr>
+    <td>Dried Thyme</td>
+    <td>خشک تھائم</td>
+</tr>
+<tr>
+    <td>Dried Sage</td>
+    <td>خشک سیج</td>
+</tr>
+<tr>
+    <td>Dried Marjoram</td>
+    <td>خشک مارجورم</td>
+</tr>
+<tr>
+    <td>Dried Tarragon</td>
+    <td>خشک ٹیراگون</td>
+</tr>
+<tr>
+    <td>Dried Chervil</td>
+    <td>خشک چیروِل</td>
+</tr>
+<tr>
+    <td>Dried Lovage</td>
+    <td>خشک لوویج</td>
+</tr>
+<tr>
+    <td>Dried Hyssop</td>
+    <td>خشک ہائسوپ</td>
+</tr>
+<tr>
+    <td>Dried Savory</td>
+    <td>خشک سیوری</td>
+</tr>
+<tr>
+    <td>Dried Mint</td>
+    <td>خشک پودینہ</td>
+</tr>
+<tr>
+    <td>Dried Spearmint</td>
+    <td>خشک اسپیئرمنٹ</td>
+</tr>
+<tr>
+    <td>Dried Peppermint</td>
+    <td>خشک پیپرمنٹ</td>
+</tr>
+<tr>
+    <td>Lemon Myrtle</td>
+    <td>لیموں مرٹل</td>
+</tr>
+<tr>
+    <td>Epazote</td>
+    <td>ایپازوٹے</td>
+</tr>
+<tr>
+    <td>Rue</td>
+    <td>سداب</td>
+</tr>
+<tr>
+    <td>Sorrel</td>
+    <td>سوریل</td>
+</tr>
+<tr>
+    <td>Holy Basil</td>
+    <td>مقدس تلسی</td>
+</tr>
+<tr>
+    <td>Thai Basil</td>
+    <td>تھائی تلسی</td>
+</tr>
+<tr>
+    <td>Purple Basil</td>
+    <td>جامنی تلسی</td>
+</tr>
+<tr>
+    <td>Lemon Basil</td>
+    <td>لیموں تلسی</td>
+</tr>
+<tr>
+    <td>Celery Flakes</td>
+    <td>اجمود کے خشک ٹکڑے</td>
+</tr>
+<tr>
+    <td>Onion Flakes</td>
+    <td>پیاز کے خشک فلیکس</td>
+</tr>
+<tr>
+    <td>Toasted Onion</td>
+    <td>بھنی ہوئی پیاز</td>
+</tr>
+<tr>
+    <td>Roasted Garlic</td>
+    <td>بھنا ہوا لہسن</td>
+</tr>
+<tr>
+    <td>Garlic Granules</td>
+    <td>لہسن کے دانے</td>
+</tr>
+<tr>
+    <td>Onion Granules</td>
+    <td>پیاز کے دانے</td>
+</tr>
+<tr>
+    <td>Black Garlic Powder</td>
+    <td>کالے لہسن کا پاؤڈر</td>
+</tr>
+<tr>
+    <td>Truffle Salt</td>
+    <td>ٹرفل نمک</td>
+</tr>
+<tr>
+    <td>Smoked Salt</td>
+    <td>دھواں دار نمک</td>
+</tr>
+<tr>
+    <td>Garlic Salt</td>
+    <td>لہسن نمک</td>
+</tr>
+<tr>
+    <td>Onion Salt</td>
+    <td>پیاز نمک</td>
+</tr>
+<tr>
+    <td>Celery Powder</td>
+    <td>اجمود پاؤڈر</td>
+</tr>
+<tr>
+    <td>Mushroom Powder</td>
+    <td>مشروم پاؤڈر</td>
+</tr>
+<tr>
+    <td>Tomato Powder</td>
+    <td>ٹماٹر پاؤڈر</td>
+</tr>
+<tr>
+    <td>Beetroot Powder</td>
+    <td>چقندر پاؤڈر</td>
+</tr>
+<tr>
+    <td>Spinach Powder</td>
+    <td>پالک پاؤڈر</td>
+</tr>
+<tr>
+    <td>Moringa Powder</td>
+    <td>سہانجنا پاؤڈر</td>
+</tr>
+<tr>
+    <td>Curry Powder</td>
+    <td>کری پاؤڈر</td>
+</tr>
+<tr>
+    <td>Madras Curry Powder</td>
+    <td>مدراس کری پاؤڈر</td>
+</tr>
+<tr>
+    <td>Vindaloo Masala</td>
+    <td>وندالو مصالحہ</td>
+</tr>
+<tr>
+    <td>Korma Masala</td>
+    <td>قورمہ مصالحہ</td>
+</tr>
+<tr>
+    <td>Nihari Masala</td>
+    <td>نہاری مصالحہ</td>
+</tr>
+<tr>
+    <td>Haleem Masala</td>
+    <td>حلیم مصالحہ</td>
+</tr>
+<tr>
+    <td>Pulao Masala</td>
+    <td>پلاؤ مصالحہ</td>
+</tr>
+<tr>
+    <td>Achari Masala</td>
+    <td>اچاری مصالحہ</td>
+</tr>
+<tr>
+    <td>Kitchen King Masala</td>
+    <td>کچن کنگ مصالحہ</td>
+</tr>
+<tr>
+    <td>Panch Phoron</td>
+    <td>پانچ پھوڑن</td>
+</tr>
+<tr>
+    <td>Dukkah</td>
+    <td>دقہ مصالحہ</td>
+</tr>
+<tr>
+    <td>Berbere</td>
+    <td>بربیرے مصالحہ</td>
+</tr>
+<tr>
+    <td>Togarashi</td>
+    <td>توگاراشی</td>
+</tr>
+<tr>
+    <td>Shichimi Togarashi</td>
+    <td>شیچی می توگاراشی</td>
+</tr>
+   </tbody>
+   </table>
+</body>
+</html>
