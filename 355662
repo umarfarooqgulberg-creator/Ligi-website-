@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Names of Dry Fruits</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li class="none"><a href="index.html">🏠 Home</a></li>
+    <li class="none"><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li class="none"><a href="Blog.html">📚 Blog</a></li>
+    <li class="none"><a href="About.html">ℹ️ About Us</a></li>
+    <li class="none"><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+  <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+  
+  <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+   <tbody>
+     <tr>
+    <td>Almond</td>
+    <td>بادام</td>
+</tr>
+<tr>
+    <td>Cashew</td>
+    <td>کاجو</td>
+</tr>
+<tr>
+    <td>Pistachio</td>
+    <td>پستہ</td>
+</tr>
+<tr>
+    <td>Walnut</td>
+    <td>اخروٹ</td>
+</tr>
+<tr>
+    <td>Hazelnut</td>
+    <td>ہیزل نٹ</td>
+</tr>
+<tr>
+    <td>Pecan</td>
+    <td>پیکان</td>
+</tr>
+<tr>
+    <td>Macadamia Nut</td>
+    <td>میکاڈیمیا نٹ</td>
+</tr>
+<tr>
+    <td>Brazil Nut</td>
+    <td>برازیل نٹ</td>
+</tr>
+<tr>
+    <td>Pine Nut</td>
+    <td>چلغوزہ</td>
+</tr>
+<tr>
+    <td>Chestnut</td>
+    <td>شاہ بلوط</td>
+</tr>
+<tr>
+    <td>Peanut</td>
+    <td>مونگ پھلی</td>
+</tr>
+<tr>
+    <td>Tiger Nut</td>
+    <td>ٹائیگر نٹ</td>
+</tr>
+<tr>
+    <td>Acorn</td>
+    <td>بلوط کا پھل</td>
+</tr>
+<tr>
+    <td>Coconut (Dried)</td>
+    <td>خشک ناریل</td>
+</tr>
+<tr>
+    <td>Raisin</td>
+    <td>کشمش</td>
+</tr>
+<tr>
+    <td>Golden Raisin</td>
+    <td>سنہری کشمش</td>
+</tr>
+<tr>
+    <td>Black Raisin</td>
+    <td>کالی کشمش</td>
+</tr>
+<tr>
+    <td>Sultana</td>
+    <td>سلطانہ کشمش</td>
+</tr>
+<tr>
+    <td>Currant</td>
+    <td>چھوٹی کشمش</td>
+</tr>
+<tr>
+    <td>Date</td>
+    <td>کھجور</td>
+</tr>
+<tr>
+    <td>Dried Fig</td>
+    <td>خشک انجیر</td>
+</tr>
+<tr>
+    <td>Dried Apricot</td>
+    <td>خشک خوبانی</td>
+</tr>
+<tr>
+    <td>Dried Peach</td>
+    <td>خشک آڑو</td>
+</tr>
+<tr>
+    <td>Dried Pear</td>
+    <td>خشک ناشپاتی</td>
+</tr>
+<tr>
+    <td>Dried Apple</td>
+    <td>خشک سیب</td>
+</tr>
+<tr>
+    <td>Dried Mango</td>
+    <td>خشک آم</td>
+</tr>
+<tr>
+    <td>Dried Banana</td>
+    <td>خشک کیلا</td>
+</tr>
+<tr>
+    <td>Dried Pineapple</td>
+    <td>خشک انناس</td>
+</tr>
+<tr>
+    <td>Dried Papaya</td>
+    <td>خشک پپیتا</td>
+</tr>
+<tr>
+    <td>Dried Kiwi</td>
+    <td>خشک کیوی</td>
+</tr>
+<tr>
+    <td>Dried Strawberry</td>
+    <td>خشک اسٹرابیری</td>
+</tr>
+<tr>
+    <td>Dried Cherry</td>
+    <td>خشک چیری</td>
+</tr>
+<tr>
+    <td>Dried Cranberry</td>
+    <td>خشک کرین بیری</td>
+</tr>
+<tr>
+    <td>Dried Blueberry</td>
+    <td>خشک بلیو بیری</td>
+</tr>
+<tr>
+    <td>Dried Mulberry</td>
+    <td>خشک شہتوت</td>
+</tr>
+<tr>
+    <td>Dried Plum</td>
+    <td>خشک آلو بخارا</td>
+</tr>
+<tr>
+    <td>Prune</td>
+    <td>پرون</td>
+</tr>
+<tr>
+    <td>Dried Lychee</td>
+    <td>خشک لیچی</td>
+</tr>
+<tr>
+    <td>Dried Longan</td>
+    <td>خشک لونگن</td>
+</tr>
+<tr>
+    <td>Dried Jackfruit</td>
+    <td>خشک کٹہل</td>
+</tr>
+<tr>
+    <td>Dried Coconut Chips</td>
+    <td>خشک ناریل چپس</td>
+</tr>
+<tr>
+    <td>Pumpkin Seeds</td>
+    <td>کدو کے بیج</td>
+</tr>
+<tr>
+    <td>Sunflower Seeds</td>
+    <td>سورج مکھی کے بیج</td>
+</tr>
+<tr>
+    <td>Watermelon Seeds</td>
+    <td>تربوز کے بیج</td>
+</tr>
+<tr>
+    <td>Melon Seeds</td>
+    <td>خربوزے کے بیج</td>
+</tr>
+<tr>
+    <td>Sesame Seeds</td>
+    <td>تل</td>
+</tr>
+<tr>
+    <td>Flax Seeds</td>
+    <td>السی کے بیج</td>
+</tr>
+<tr>
+    <td>Chia Seeds</td>
+    <td>چیا کے بیج</td>
+</tr>
+<tr>
+    <td>Poppy Seeds</td>
+    <td>خشخاش کے بیج</td>
+</tr>
+<tr>
+    <td>Lotus Seeds</td>
+    <td>کنول کے بیج</td>
+</tr>
+     <tr>
+    <td>Fox Nuts</td>
+    <td>مکھانے</td>
+</tr>
+<tr>
+    <td>Betel Nut</td>
+    <td>چھالیہ</td>
+</tr>
+<tr>
+    <td>Candlenut</td>
+    <td>کینڈل نٹ</td>
+</tr>
+<tr>
+    <td>Ginkgo Nut</td>
+    <td>جنکو نٹ</td>
+</tr>
+<tr>
+    <td>Kola Nut</td>
+    <td>کولا نٹ</td>
+</tr>
+<tr>
+    <td>Pili Nut</td>
+    <td>پیلی نٹ</td>
+</tr>
+<tr>
+    <td>Marula Nut</td>
+    <td>مارولا نٹ</td>
+</tr>
+<tr>
+    <td>Mongongo Nut</td>
+    <td>مونگونگو نٹ</td>
+</tr>
+<tr>
+    <td>Canarium Nut</td>
+    <td>کیناریم نٹ</td>
+</tr>
+<tr>
+    <td>Beech Nut</td>
+    <td>بیچ نٹ</td>
+</tr>
+<tr>
+    <td>Hickory Nut</td>
+    <td>ہکوری نٹ</td>
+</tr>
+<tr>
+    <td>Butternut</td>
+    <td>بٹرنٹ</td>
+</tr>
+<tr>
+    <td>Coconut Flakes</td>
+    <td>خشک ناریل کے فلیکس</td>
+</tr>
+<tr>
+    <td>Coconut Powder</td>
+    <td>ناریل پاؤڈر</td>
+</tr>
+<tr>
+    <td>Dried Guava</td>
+    <td>خشک امرود</td>
+</tr>
+<tr>
+    <td>Dried Orange</td>
+    <td>خشک سنگترہ</td>
+</tr>
+<tr>
+    <td>Dried Lemon</td>
+    <td>خشک لیموں</td>
+</tr>
+<tr>
+    <td>Dried Lime</td>
+    <td>خشک لائم</td>
+</tr>
+<tr>
+    <td>Dried Pomegranate</td>
+    <td>خشک انار</td>
+</tr>
+<tr>
+    <td>Dried Grapes</td>
+    <td>خشک انگور</td>
+</tr>
+<tr>
+    <td>Dried Blackberry</td>
+    <td>خشک بلیک بیری</td>
+</tr>
+<tr>
+    <td>Dried Raspberry</td>
+    <td>خشک راسبیری</td>
+</tr>
+<tr>
+    <td>Dried Goji Berry</td>
+    <td>خشک گوجی بیری</td>
+</tr>
+<tr>
+    <td>Dried Elderberry</td>
+    <td>خشک ایلڈر بیری</td>
+</tr>
+<tr>
+    <td>Dried Gooseberry</td>
+    <td>خشک آملہ</td>
+</tr>
+<tr>
+    <td>Dried Persimmon</td>
+    <td>خشک جاپانی پھل</td>
+</tr>
+<tr>
+    <td>Dried Star Fruit</td>
+    <td>خشک کمرخ</td>
+</tr>
+<tr>
+    <td>Dried Dragon Fruit</td>
+    <td>خشک ڈریگن فروٹ</td>
+</tr>
+<tr>
+    <td>Dried Passion Fruit</td>
+    <td>خشک پیشن فروٹ</td>
+</tr>
+<tr>
+    <td>Dried Avocado</td>
+    <td>خشک ایووکاڈو</td>
+</tr>
+<tr>
+    <td>Dried Sapodilla</td>
+    <td>خشک چیکو</td>
+</tr>
+<tr>
+    <td>Dried Rambutan</td>
+    <td>خشک رامبوٹن</td>
+</tr>
+<tr>
+    <td>Dried Mangosteen</td>
+    <td>خشک مینگوسٹین</td>
+</tr>
+<tr>
+    <td>Dried Durian</td>
+    <td>خشک ڈوریان</td>
+</tr>
+<tr>
+    <td>Dried Tamarind</td>
+    <td>خشک املی</td>
+</tr>
+<tr>
+    <td>Dried Barberry</td>
+    <td>خشک زرشک</td>
+</tr>
+<tr>
+    <td>Dried Jujube</td>
+    <td>خشک بیر</td>
+</tr>
+<tr>
+    <td>Dried Rosehip</td>
+    <td>خشک روز ہِپ</td>
+</tr>
+<tr>
+    <td>Dried Bilberry</td>
+    <td>خشک بلبیری</td>
+</tr>
+<tr>
+    <td>Dried Boysenberry</td>
+    <td>خشک بوائزن بیری</td>
+</tr>
+<tr>
+    <td>Hemp Seeds</td>
+    <td>بھنگ کے بیج</td>
+</tr>
+<tr>
+    <td>Nigella Seeds</td>
+    <td>کلونجی</td>
+</tr>
+<tr>
+    <td>Quinoa Seeds</td>
+    <td>کینوا کے بیج</td>
+</tr>
+<tr>
+    <td>Basil Seeds</td>
+    <td>تخم ملنگا</td>
+</tr>
+<tr>
+    <td>Caraway Seeds</td>
+    <td>کراوے کے بیج</td>
+</tr>
+<tr>
+    <td>Fennel Seeds</td>
+    <td>سونف</td>
+</tr>
+<tr>
+    <td>Cumin Seeds</td>
+    <td>زیرہ</td>
+</tr>
+<tr>
+    <td>Coriander Seeds</td>
+    <td>دھنیا</td>
+</tr>
+<tr>
+    <td>Mustard Seeds</td>
+    <td>رائی</td>
+</tr>
+<tr>
+    <td>Ajwain Seeds</td>
+    <td>اجوائن</td>
+</tr>
+     <tr>
+    <td>Anise Seeds</td>
+    <td>سونف جیسا بیج</td>
+</tr>
+<tr>
+    <td>Celery Seeds</td>
+    <td>اجمود کے بیج</td>
+</tr>
+<tr>
+    <td>Dill Seeds</td>
+    <td>شوید کے بیج</td>
+</tr>
+<tr>
+    <td>Fenugreek Seeds</td>
+    <td>میتھی کے بیج</td>
+</tr>
+<tr>
+    <td>Psyllium Husk</td>
+    <td>اسپغول کی بھوسی</td>
+</tr>
+<tr>
+    <td>Isabgol Seeds</td>
+    <td>اسپغول کے بیج</td>
+</tr>
+<tr>
+    <td>Safflower Seeds</td>
+    <td>کُسُم کے بیج</td>
+</tr>
+<tr>
+    <td>Perilla Seeds</td>
+    <td>پیریلا کے بیج</td>
+</tr>
+<tr>
+    <td>Camelina Seeds</td>
+    <td>کیمی لینا کے بیج</td>
+</tr>
+<tr>
+    <td>Amaranth Seeds</td>
+    <td>چولائی کے بیج</td>
+</tr>
+<tr>
+    <td>Water Lily Seeds</td>
+    <td>واٹر للی کے بیج</td>
+</tr>
+<tr>
+    <td>Sacha Inchi</td>
+    <td>ساچا اِنچی</td>
+</tr>
+<tr>
+    <td>Breadnut</td>
+    <td>بریڈ نٹ</td>
+</tr>
+<tr>
+    <td>Bunya Nut</td>
+    <td>بنیا نٹ</td>
+</tr>
+<tr>
+    <td>Chufa</td>
+    <td>چوفا</td>
+</tr>
+<tr>
+    <td>Coquito Nut</td>
+    <td>کوکیٹو نٹ</td>
+</tr>
+<tr>
+    <td>Gabon Nut</td>
+    <td>گیبون نٹ</td>
+</tr>
+<tr>
+    <td>Ogbono</td>
+    <td>اوگبونو</td>
+</tr>
+<tr>
+    <td>Kukui Nut</td>
+    <td>کوکوئی نٹ</td>
+</tr>
+<tr>
+    <td>Paradise Nut</td>
+    <td>پیراڈائز نٹ</td>
+</tr>
+<tr>
+    <td>Sapucaia Nut</td>
+    <td>ساپوکایا نٹ</td>
+</tr>
+<tr>
+    <td>Baru Nut</td>
+    <td>بارو نٹ</td>
+</tr>
+<tr>
+    <td>Cupuacu Seeds</td>
+    <td>کپواسُو کے بیج</td>
+</tr>
+<tr>
+    <td>Cacao Beans</td>
+    <td>کوکو کے بیج</td>
+</tr>
+<tr>
+    <td>Coffee Beans</td>
+    <td>کافی کے دانے</td>
+</tr>
+<tr>
+    <td>Tonka Beans</td>
+    <td>ٹونکا بین</td>
+</tr>
+<tr>
+    <td>Vanilla Beans</td>
+    <td>ونیلا بین</td>
+</tr>
+<tr>
+    <td>Lotus Puffed Seeds</td>
+    <td>بھنے ہوئے مکھانے</td>
+</tr>
+<tr>
+    <td>Dried Coconut Cubes</td>
+    <td>خشک ناریل کے ٹکڑے</td>
+</tr>
+<tr>
+    <td>Dried Coconut Slices</td>
+    <td>خشک ناریل کے قتلے</td>
+</tr>
+<tr>
+    <td>Dried Cantaloupe</td>
+    <td>خشک خربوزہ</td>
+</tr>
+<tr>
+    <td>Dried Melon</td>
+    <td>خشک میٹھا خربوزہ</td>
+</tr>
+<tr>
+    <td>Dried Nectarine</td>
+    <td>خشک نیکٹرین</td>
+</tr>
+<tr>
+    <td>Dried Clementine</td>
+    <td>خشک کلیمنٹائن</td>
+</tr>
+<tr>
+    <td>Dried Mandarin</td>
+    <td>خشک کینو</td>
+</tr>
+<tr>
+    <td>Dried Pomelo</td>
+    <td>خشک چکوترا</td>
+</tr>
+<tr>
+    <td>Dried Coconut Rings</td>
+    <td>خشک ناریل کے حلقے</td>
+</tr>
+<tr>
+    <td>Dried Olive</td>
+    <td>خشک زیتون</td>
+</tr>
+<tr>
+    <td>Dried Sour Cherry</td>
+    <td>خشک کھٹی چیری</td>
+</tr>
+<tr>
+    <td>Dried Aronia Berry</td>
+    <td>خشک ارونیا بیری</td>
+</tr>
+<tr>
+    <td>Dried Sea Buckthorn</td>
+    <td>خشک سی بک تھورن</td>
+</tr>
+<tr>
+    <td>Dried Huckleberry</td>
+    <td>خشک ہکل بیری</td>
+</tr>
+<tr>
+    <td>Dried Lingonberry</td>
+    <td>خشک لنگن بیری</td>
+</tr>
+<tr>
+    <td>Dried Cloudberry</td>
+    <td>خشک کلاؤڈ بیری</td>
+</tr>
+<tr>
+    <td>Dried Cranapple</td>
+    <td>خشک کرین ایپل</td>
+</tr>
+<tr>
+    <td>Dried White Mulberry</td>
+    <td>خشک سفید شہتوت</td>
+</tr>
+<tr>
+    <td>Dried Black Mulberry</td>
+    <td>خشک کالا شہتوت</td>
+</tr>
+<tr>
+    <td>Dried Red Currant</td>
+    <td>خشک سرخ کرنٹ</td>
+</tr>
+<tr>
+    <td>Dried Black Currant</td>
+    <td>خشک کالا کرنٹ</td>
+</tr>
+<tr>
+    <td>Dried White Currant</td>
+    <td>خشک سفید کرنٹ</td>
+</tr>
+     <tr>
+    <td>Dried White Fig</td>
+    <td>خشک سفید انجیر</td>
+</tr>
+<tr>
+    <td>Dried Black Fig</td>
+    <td>خشک کالی انجیر</td>
+</tr>
+<tr>
+    <td>Dried Green Raisins</td>
+    <td>خشک سبز کشمش</td>
+</tr>
+<tr>
+    <td>Dried Red Raisins</td>
+    <td>خشک سرخ کشمش</td>
+</tr>
+<tr>
+    <td>Dried Seedless Raisins</td>
+    <td>بے بیج خشک کشمش</td>
+</tr>
+<tr>
+    <td>Dried Muscat Raisins</td>
+    <td>مسکٹ کشمش</td>
+</tr>
+<tr>
+    <td>Dried Medjool Dates</td>
+    <td>میجول کھجور</td>
+</tr>
+<tr>
+    <td>Dried Deglet Noor Dates</td>
+    <td>ڈیگلیٹ نور کھجور</td>
+</tr>
+<tr>
+    <td>Dried Zahidi Dates</td>
+    <td>زاہدی کھجور</td>
+</tr>
+<tr>
+    <td>Dried Ajwa Dates</td>
+    <td>عجوہ کھجور</td>
+</tr>
+<tr>
+    <td>Dried Safawi Dates</td>
+    <td>صفاوی کھجور</td>
+</tr>
+<tr>
+    <td>Dried Mabroom Dates</td>
+    <td>مبروم کھجور</td>
+</tr>
+<tr>
+    <td>Dried Amber Dates</td>
+    <td>عنبر کھجور</td>
+</tr>
+<tr>
+    <td>Dried Khudri Dates</td>
+    <td>خضری کھجور</td>
+</tr>
+<tr>
+    <td>Dried Sukkari Dates</td>
+    <td>سکری کھجور</td>
+</tr>
+<tr>
+    <td>Dried Barhi Dates</td>
+    <td>برحی کھجور</td>
+</tr>
+<tr>
+    <td>Dried Halawi Dates</td>
+    <td>حلاوی کھجور</td>
+</tr>
+<tr>
+    <td>Dried Dayri Dates</td>
+    <td>دیری کھجور</td>
+</tr>
+<tr>
+    <td>Dried Thoory Dates</td>
+    <td>ثوری کھجور</td>
+</tr>
+<tr>
+    <td>Dried Mazafati Dates</td>
+    <td>مضافتی کھجور</td>
+</tr>
+<tr>
+    <td>Roasted Almond</td>
+    <td>بھنا ہوا بادام</td>
+</tr>
+<tr>
+    <td>Roasted Cashew</td>
+    <td>بھنا ہوا کاجو</td>
+</tr>
+<tr>
+    <td>Roasted Pistachio</td>
+    <td>بھنا ہوا پستہ</td>
+</tr>
+<tr>
+    <td>Roasted Walnut</td>
+    <td>بھنا ہوا اخروٹ</td>
+</tr>
+<tr>
+    <td>Roasted Hazelnut</td>
+    <td>بھنا ہوا ہیزل نٹ</td>
+</tr>
+<tr>
+    <td>Roasted Pecan</td>
+    <td>بھنا ہوا پیکان</td>
+</tr>
+<tr>
+    <td>Roasted Brazil Nut</td>
+    <td>بھنا ہوا برازیل نٹ</td>
+</tr>
+<tr>
+    <td>Roasted Macadamia Nut</td>
+    <td>بھنا ہوا میکاڈیمیا نٹ</td>
+</tr>
+<tr>
+    <td>Roasted Pine Nut</td>
+    <td>بھنا ہوا چلغوزہ</td>
+</tr>
+<tr>
+    <td>Roasted Chestnut</td>
+    <td>بھنا ہوا شاہ بلوط</td>
+</tr>
+<tr>
+    <td>Salted Almond</td>
+    <td>نمکین بادام</td>
+</tr>
+<tr>
+    <td>Salted Cashew</td>
+    <td>نمکین کاجو</td>
+</tr>
+<tr>
+    <td>Salted Pistachio</td>
+    <td>نمکین پستہ</td>
+</tr>
+<tr>
+    <td>Salted Peanut</td>
+    <td>نمکین مونگ پھلی</td>
+</tr>
+<tr>
+    <td>Mixed Dry Fruits</td>
+    <td>مخلوط خشک میوہ جات</td>
+</tr>
+<tr>
+    <td>Trail Mix</td>
+    <td>خشک میوہ مکس</td>
+</tr>
+<tr>
+    <td>Fruit and Nut Mix</td>
+    <td>پھل اور خشک میوہ مکس</td>
+</tr>
+<tr>
+    <td>Energy Mix</td>
+    <td>توانائی بخش خشک میوہ مکس</td>
+</tr>
+<tr>
+    <td>Nut Mix</td>
+    <td>مکس نٹس</td>
+</tr>
+<tr>
+    <td>Seed Mix</td>
+    <td>مکس بیج</td>
+</tr>
+<tr>
+    <td>Organic Raisins</td>
+    <td>نامیاتی کشمش</td>
+</tr>
+<tr>
+    <td>Organic Almonds</td>
+    <td>نامیاتی بادام</td>
+</tr>
+<tr>
+    <td>Organic Cashews</td>
+    <td>نامیاتی کاجو</td>
+</tr>
+<tr>
+    <td>Organic Walnuts</td>
+    <td>نامیاتی اخروٹ</td>
+</tr>
+<tr>
+    <td>Organic Pistachios</td>
+    <td>نامیاتی پستہ</td>
+</tr>
+<tr>
+    <td>Organic Dates</td>
+    <td>نامیاتی کھجور</td>
+</tr>
+<tr>
+    <td>Organic Figs</td>
+    <td>نامیاتی انجیر</td>
+</tr>
+<tr>
+    <td>Organic Apricots</td>
+    <td>نامیاتی خوبانی</td>
+</tr>
+<tr>
+    <td>Organic Prunes</td>
+    <td>نامیاتی پرون</td>
+</tr>
+<tr>
+    <td>Organic Mixed Nuts</td>
+    <td>نامیاتی مکس نٹس</td>
+</tr>
+   </tbody>
+   </table>
+</body>
+</html>
