@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Blog</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <div id="menu">
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"> </label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+    
+  
+    </section>
+    <aside>
+  <div class="blog">
+    <h1>📚Our Blog</h1><br>
+    <b>Learn English through easy lessons, vocabulary tips, grammar guides, and practical examples. Explore our latest articles below.</b><br><br>
+    <h3>Latest Articles</h3>
+    <ul>
+      <li>📚 100 Most Common English Words with Urdu Meaning</li>
+      <li>🔤 Daily Vocabulary – Day 1</li>
+      <li>🔤 Daily Vocabulary – Day 2</li>
+      <li>🗣️ 10 English Words You Should Use Every Day</li>
+     <li>✍️ Common English Mistakes and How to Avoid Them</li>
+      <li>📖 Basic English Verbs for Beginners</li>
+      <li>💬 50 Daily Use English Sentences</li>
+      <li>📝 English Vocabulary Quiz – Level 1</li>
+      <li>🎯 Tips to Remember New English Words Faster</li>
+      <li>🌟 Synonyms and Antonyms for Everyday English</li>
+    </ul>
+    <h3>Categories</h3>
+    <ul>
+      <li>📚 Vocabulary</li>
+      <li>📝 Grammar</li>
+      <li>🗣️ Speaking</li>
+      <li>✍️ Writing</li>
+      <li>🎯 Tips & Tricks</li>
+      <li>❓ Quiz</li>
+    </ul><hr>
+    <h4>Search</h4>
+    <b>🔍 Search articles...</b><br><br><hr>
+  </div>
+      </aside>
+  </section>
+</body>
+</html>
