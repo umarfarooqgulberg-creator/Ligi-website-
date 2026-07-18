@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Name of sea animals</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  
+  
+  <!-- Menu -->
+  <header>
+    <menu>
+<input type="checkbox" id="menu-toggle">
+
+<label for="menu-toggle" class="menu-btn">☰ <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+<div class="sidebar">
+    <label for="menu-toggle" class="close-btn">×</label>
+  <h2 class="h2">Menu</h2>
+  <ul id="ul0">
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+    <li><a href="privacy.html">🔒 Privacy Policy</a></li>
+    <li><a href="Disclaim.html">⚠️ Disclaimer</a></li>
+    <li><a href="Term.html">📜 Terms & Conditions</a></li>   
+  </ul>
+</div>
+    </menu>
+    <!-- Navbar -->
+  <div class="navbar">
+    <ul>
+    <li><a href="index.html">🏠 Home</a></li>
+    <li><a href="Vocabulary.list.html">📖 Vocabulary </a></li>
+    <li><a href="Blog.html">📚 Blog</a></li>
+    <li><a href="About.html">ℹ️ About Us</a></li>
+    <li><a href="Contact.html">📞 Contact Us</a></li>
+      </ul>
+  </div>
+  
+<!-- Drop down menu -->
+  <div class="dropdown">
+
+    <input type="checkbox" id="menu">
+
+    <label for="menu" class="btn">☰ Menu <img src="file_000000002af0720bb47c2b4859bd9bda.png"></label>
+
+    <div class="content">
+        <a href="privacy.html">🔒 Privacy Policy</a>
+    <a href="Disclaim.html">⚠️ Disclaimer</a>
+    <a href="Term.html">📜 Terms & Conditions</a>
+    </div>
+
+</div>
+
+    </header>
+  
+  
+  
+    <table border="4">
+    <thead>
+      <tr>
+        <th>word</th>
+        <th>meaning</th>
+      </tr>
+    </thead>
+      <tbody>
+        <tr>
+    <td>Whale</td>
+    <td>وہیل</td>
+</tr>
+<tr>
+    <td>Blue Whale</td>
+    <td>نیلی وہیل</td>
+</tr>
+<tr>
+    <td>Humpback Whale</td>
+    <td>کوبڑ والی وہیل</td>
+</tr>
+<tr>
+    <td>Sperm Whale</td>
+    <td>سپرم وہیل</td>
+</tr>
+<tr>
+    <td>Orca</td>
+    <td>قاتل وہیل</td>
+</tr>
+<tr>
+    <td>Dolphin</td>
+    <td>ڈولفن</td>
+</tr>
+<tr>
+    <td>Bottlenose Dolphin</td>
+    <td>بوتل ناک ڈولفن</td>
+</tr>
+<tr>
+    <td>Spinner Dolphin</td>
+    <td>گھومنے والی ڈولفن</td>
+</tr>
+<tr>
+    <td>Porpoise</td>
+    <td>پورپوائز</td>
+</tr>
+<tr>
+    <td>Shark</td>
+    <td>شارک</td>
+</tr>
+<tr>
+    <td>Great White Shark</td>
+    <td>عظیم سفید شارک</td>
+</tr>
+<tr>
+    <td>Tiger Shark</td>
+    <td>ٹائیگر شارک</td>
+</tr>
+<tr>
+    <td>Hammerhead Shark</td>
+    <td>ہتھوڑا سر شارک</td>
+</tr>
+<tr>
+    <td>Whale Shark</td>
+    <td>وہیل شارک</td>
+</tr>
+<tr>
+    <td>Bull Shark</td>
+    <td>بل شارک</td>
+</tr>
+<tr>
+    <td>Mako Shark</td>
+    <td>میکو شارک</td>
+</tr>
+<tr>
+    <td>Nurse Shark</td>
+    <td>نرس شارک</td>
+</tr>
+<tr>
+    <td>Lemon Shark</td>
+    <td>لیموں شارک</td>
+</tr>
+<tr>
+    <td>Ray</td>
+    <td>رے مچھلی</td>
+</tr>
+<tr>
+    <td>Stingray</td>
+    <td>کانٹے والی رے</td>
+</tr>
+<tr>
+    <td>Manta Ray</td>
+    <td>مانٹا رے</td>
+</tr>
+<tr>
+    <td>Skate</td>
+    <td>اسکیٹ مچھلی</td>
+</tr>
+<tr>
+    <td>Eel</td>
+    <td>بام مچھلی</td>
+</tr>
+<tr>
+    <td>Moray Eel</td>
+    <td>مورے بام مچھلی</td>
+</tr>
+<tr>
+    <td>Electric Eel</td>
+    <td>برقی بام مچھلی</td>
+</tr>
+<tr>
+    <td>Octopus</td>
+    <td>آکٹوپس</td>
+</tr>
+<tr>
+    <td>Giant Pacific Octopus</td>
+    <td>دیوقامت پیسیفک آکٹوپس</td>
+</tr>
+<tr>
+    <td>Squid</td>
+    <td>اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Giant Squid</td>
+    <td>دیوقامت اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Cuttlefish</td>
+    <td>کٹل فش</td>
+</tr>
+<tr>
+    <td>Nautilus</td>
+    <td>ناٹیلس</td>
+</tr>
+<tr>
+    <td>Jellyfish</td>
+    <td>جیلی فش</td>
+</tr>
+<tr>
+    <td>Box Jellyfish</td>
+    <td>باکس جیلی فش</td>
+</tr>
+<tr>
+    <td>Moon Jellyfish</td>
+    <td>مون جیلی فش</td>
+</tr>
+<tr>
+    <td>Sea Turtle</td>
+    <td>سمندری کچھوا</td>
+</tr>
+<tr>
+    <td>Green Sea Turtle</td>
+    <td>سبز سمندری کچھوا</td>
+</tr>
+<tr>
+    <td>Leatherback Turtle</td>
+    <td>چمڑے والا سمندری کچھوا</td>
+</tr>
+<tr>
+    <td>Loggerhead Turtle</td>
+    <td>بڑے سر والا سمندری کچھوا</td>
+</tr>
+<tr>
+    <td>Sea Snake</td>
+    <td>سمندری سانپ</td>
+</tr>
+<tr>
+    <td>Sea Horse</td>
+    <td>سمندری گھوڑا</td>
+</tr>
+<tr>
+    <td>Sea Dragon</td>
+    <td>سمندری ڈریگن</td>
+</tr>
+<tr>
+    <td>Starfish</td>
+    <td>ستارہ مچھلی</td>
+</tr>
+<tr>
+    <td>Brittle Star</td>
+    <td>نازک ستارہ</td>
+</tr>
+<tr>
+    <td>Sea Urchin</td>
+    <td>سمندری خارپشت</td>
+</tr>
+<tr>
+    <td>Sea Cucumber</td>
+    <td>سمندری کھیرا</td>
+</tr>
+<tr>
+    <td>Coral</td>
+    <td>مرجان</td>
+</tr>
+<tr>
+    <td>Sea Anemone</td>
+    <td>سمندری شگوفہ</td>
+</tr>
+<tr>
+    <td>Sponge</td>
+    <td>سمندری اسفنج</td>
+</tr>
+<tr>
+    <td>Krill</td>
+    <td>کرل</td>
+</tr>
+<tr>
+    <td>Plankton</td>
+    <td>پلانکٹن</td>
+</tr>
+        <tr>
+    <td>Sea Lion</td>
+    <td>سمندری شیر</td>
+</tr>
+<tr>
+    <td>Seal</td>
+    <td>مہر مچھلی</td>
+</tr>
+<tr>
+    <td>Elephant Seal</td>
+    <td>ہاتھی مہر مچھلی</td>
+</tr>
+<tr>
+    <td>Walrus</td>
+    <td>والرس</td>
+</tr>
+<tr>
+    <td>Manatee</td>
+    <td>سمندری گائے</td>
+</tr>
+<tr>
+    <td>Dugong</td>
+    <td>ڈوگونگ</td>
+</tr>
+<tr>
+    <td>Sea Otter</td>
+    <td>سمندری اوٹر</td>
+</tr>
+<tr>
+    <td>Penguin</td>
+    <td>پینگوئن</td>
+</tr>
+<tr>
+    <td>Albatross</td>
+    <td>الباٹروس پرندہ</td>
+</tr>
+<tr>
+    <td>Pelican</td>
+    <td>پیلیکن پرندہ</td>
+</tr>
+<tr>
+    <td>Seagull</td>
+    <td>سمندری گل</td>
+</tr>
+<tr>
+    <td>Clownfish</td>
+    <td>کلاؤن فش</td>
+</tr>
+<tr>
+    <td>Angelfish</td>
+    <td>فرشتہ مچھلی</td>
+</tr>
+<tr>
+    <td>Lionfish</td>
+    <td>شیر مچھلی</td>
+</tr>
+<tr>
+    <td>Butterflyfish</td>
+    <td>تتلی مچھلی</td>
+</tr>
+<tr>
+    <td>Parrotfish</td>
+    <td>طوطا مچھلی</td>
+</tr>
+<tr>
+    <td>Triggerfish</td>
+    <td>ٹرگر مچھلی</td>
+</tr>
+<tr>
+    <td>Pufferfish</td>
+    <td>پھولنے والی مچھلی</td>
+</tr>
+<tr>
+    <td>Goby Fish</td>
+    <td>گوبی مچھلی</td>
+</tr>
+<tr>
+    <td>Grouper</td>
+    <td>گروپر مچھلی</td>
+</tr>
+<tr>
+    <td>Tuna</td>
+    <td>ٹونا مچھلی</td>
+</tr>
+<tr>
+    <td>Salmon</td>
+    <td>سالمن مچھلی</td>
+</tr>
+<tr>
+    <td>Sardine</td>
+    <td>سارڈین مچھلی</td>
+</tr>
+<tr>
+    <td>Anchovy</td>
+    <td>اینچووی مچھلی</td>
+</tr>
+<tr>
+    <td>Cod</td>
+    <td>کاڈ مچھلی</td>
+</tr>
+<tr>
+    <td>Haddock</td>
+    <td>ہیڈاک مچھلی</td>
+</tr>
+<tr>
+    <td>Halibut</td>
+    <td>ہیلی بٹ مچھلی</td>
+</tr>
+<tr>
+    <td>Marlin</td>
+    <td>مارلن مچھلی</td>
+</tr>
+<tr>
+    <td>Swordfish</td>
+    <td>تلوار مچھلی</td>
+</tr>
+<tr>
+    <td>Sailfish</td>
+    <td>بادبانی مچھلی</td>
+</tr>
+<tr>
+    <td>Flying Fish</td>
+    <td>اڑنے والی مچھلی</td>
+</tr>
+<tr>
+    <td>Clam</td>
+    <td>سیپی</td>
+</tr>
+<tr>
+    <td>Oyster</td>
+    <td>سیپ</td>
+</tr>
+<tr>
+    <td>Mussel</td>
+    <td>مسل</td>
+</tr>
+<tr>
+    <td>Scallop</td>
+    <td>سکیلپ</td>
+</tr>
+<tr>
+    <td>Lobster</td>
+    <td>جھینگا نما کیکڑا</td>
+</tr>
+<tr>
+    <td>Crab</td>
+    <td>کیکڑا</td>
+</tr>
+<tr>
+    <td>Shrimp</td>
+    <td>جھینگا</td>
+</tr>
+<tr>
+    <td>Prawn</td>
+    <td>بڑا جھینگا</td>
+</tr>
+<tr>
+    <td>Barnacle</td>
+    <td>سمندری چپکنے والا جانور</td>
+</tr>
+<tr>
+    <td>Sea Spider</td>
+    <td>سمندری مکڑی</td>
+</tr>
+<tr>
+    <td>Sea Worm</td>
+    <td>سمندری کیڑا</td>
+</tr>
+<tr>
+    <td>Feather Star</td>
+    <td>پر دار ستارہ</td>
+</tr>
+<tr>
+    <td>Sea Lily</td>
+    <td>سمندری کنول</td>
+</tr>
+<tr>
+    <td>Sea Squirt</td>
+    <td>سمندری اسپرے جانور</td>
+</tr>
+<tr>
+    <td>Comb Jelly</td>
+    <td>کنگھی جیلی</td>
+</tr>
+<tr>
+    <td>Salp</td>
+    <td>سالپ</td>
+</tr>
+<tr>
+    <td>Vampire Squid</td>
+    <td>ویمپائر اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Fire Coral</td>
+    <td>آگ والا مرجان</td>
+</tr>
+<tr>
+    <td>Brain Coral</td>
+    <td>دماغ نما مرجان</td>
+</tr>
+        <tr>
+    <td>Hammer Coral</td>
+    <td>ہتھوڑا مرجان</td>
+</tr>
+<tr>
+    <td>Tube Worm</td>
+    <td>ٹیوب کیڑا</td>
+</tr>
+<tr>
+    <td>Flatworm</td>
+    <td>چپٹا کیڑا</td>
+</tr>
+<tr>
+    <td>Ribbon Worm</td>
+    <td>ربن کیڑا</td>
+</tr>
+<tr>
+    <td>Arrow Worm</td>
+    <td>تیر نما کیڑا</td>
+</tr>
+<tr>
+    <td>Peacock Worm</td>
+    <td>مور نما کیڑا</td>
+</tr>
+<tr>
+    <td>Sea Mouse</td>
+    <td>سمندری چوہا</td>
+</tr>
+<tr>
+    <td>Sea Pig</td>
+    <td>سمندری سور</td>
+</tr>
+<tr>
+    <td>Sea Potato</td>
+    <td>سمندری آلو</td>
+</tr>
+<tr>
+    <td>Sea Biscuit</td>
+    <td>سمندری بسکٹ</td>
+</tr>
+<tr>
+    <td>Sand Dollar</td>
+    <td>ریت کا سکہ</td>
+</tr>
+<tr>
+    <td>Sea Daisy</td>
+    <td>سمندری گلِ داؤدی</td>
+</tr>
+<tr>
+    <td>Basket Star</td>
+    <td>ٹوکری نما ستارہ</td>
+</tr>
+<tr>
+    <td>Sun Star</td>
+    <td>سورج ستارہ</td>
+</tr>
+<tr>
+    <td>Chocolate Chip Starfish</td>
+    <td>چاکلیٹ چپ ستارہ مچھلی</td>
+</tr>
+<tr>
+    <td>Crown of Thorns Starfish</td>
+    <td>کانٹوں والا تاج ستارہ مچھلی</td>
+</tr>
+<tr>
+    <td>Long-Spined Sea Urchin</td>
+    <td>لمبے کانٹوں والا سمندری خارپشت</td>
+</tr>
+<tr>
+    <td>Purple Sea Urchin</td>
+    <td>جامنی سمندری خارپشت</td>
+</tr>
+<tr>
+    <td>Sea Slug</td>
+    <td>سمندری سلگ</td>
+</tr>
+<tr>
+    <td>Nudibranch</td>
+    <td>رنگین سمندری سلگ</td>
+</tr>
+<tr>
+    <td>Sea Hare</td>
+    <td>سمندری خرگوش</td>
+</tr>
+<tr>
+    <td>Conch</td>
+    <td>سمندری گھونگا</td>
+</tr>
+<tr>
+    <td>Abalone</td>
+    <td>ابالون سیپی</td>
+</tr>
+<tr>
+    <td>Whelk</td>
+    <td>سمندری گھونگا</td>
+</tr>
+<tr>
+    <td>Chiton</td>
+    <td>چائٹن</td>
+</tr>
+<tr>
+    <td>Limpet</td>
+    <td>چپٹی سیپی</td>
+</tr>
+<tr>
+    <td>Moon Snail</td>
+    <td>چاند گھونگا</td>
+</tr>
+<tr>
+    <td>Cone Snail</td>
+    <td>مخروطی گھونگا</td>
+</tr>
+<tr>
+    <td>Sea Butterfly</td>
+    <td>سمندری تتلی</td>
+</tr>
+<tr>
+    <td>Sea Angel</td>
+    <td>سمندری فرشتہ</td>
+</tr>
+<tr>
+    <td>Pyrosome</td>
+    <td>پائروسوم</td>
+</tr>
+<tr>
+    <td>Comb Jellyfish</td>
+    <td>کنگھی جیلی فش</td>
+</tr>
+<tr>
+    <td>Portuguese Man o' War</td>
+    <td>پرتگالی جنگی جہاز جیسا جانور</td>
+</tr>
+<tr>
+    <td>Hydrozoan</td>
+    <td>ہائیڈروزوا</td>
+</tr>
+<tr>
+    <td>Sea Wasp</td>
+    <td>سمندری بھڑ</td>
+</tr>
+<tr>
+    <td>Firefly Squid</td>
+    <td>چمکنے والا اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Glass Squid</td>
+    <td>شیشے جیسا اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Bobtail Squid</td>
+    <td>چھوٹی دم والا اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Reef Squid</td>
+    <td>چٹانی علاقہ اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Bigfin Squid</td>
+    <td>بڑے پنکھ والا اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Vampire Squid</td>
+    <td>ویمپائر اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Paper Nautilus</td>
+    <td>کاغذی ناٹیلس</td>
+</tr>
+<tr>
+    <td>Chambered Nautilus</td>
+    <td>خانے دار ناٹیلس</td>
+</tr>
+<tr>
+    <td>Sea Butterfly Snail</td>
+    <td>سمندری تتلی گھونگا</td>
+</tr>
+<tr>
+    <td>Arrow Squid</td>
+    <td>تیر نما اسکوئیڈ</td>
+</tr>
+<tr>
+    <td>Giant Cuttlefish</td>
+    <td>دیوقامت کٹل فش</td>
+</tr>
+<tr>
+    <td>Flamboyant Cuttlefish</td>
+    <td>رنگین کٹل فش</td>
+</tr>
+<tr>
+    <td>Dumbo Octopus</td>
+    <td>ڈمبو آکٹوپس</td>
+</tr>
+<tr>
+    <td>Blue-Ringed Octopus</td>
+    <td>نیلے حلقوں والا آکٹوپس</td>
+</tr>
+        <tr>
+    <td>Giant Clam</td>
+    <td>دیوقامت سیپی</td>
+</tr>
+<tr>
+    <td>Heart Urchin</td>
+    <td>دل نما سمندری خارپشت</td>
+</tr>
+<tr>
+    <td>Keyhole Limpet</td>
+    <td>سوراخ والی چپٹی سیپی</td>
+</tr>
+<tr>
+    <td>Venus Clam</td>
+    <td>وینس سیپی</td>
+</tr>
+<tr>
+    <td>Razor Clam</td>
+    <td>استرے جیسی سیپی</td>
+</tr>
+<tr>
+    <td>Horse Mussel</td>
+    <td>گھوڑا مسل</td>
+</tr>
+<tr>
+    <td>Blue Mussel</td>
+    <td>نیلا مسل</td>
+</tr>
+<tr>
+    <td>Giant Oyster</td>
+    <td>دیوقامت سیپ</td>
+</tr>
+<tr>
+    <td>Pearl Oyster</td>
+    <td>موتی والی سیپ</td>
+</tr>
+<tr>
+    <td>Sea Cockroach</td>
+    <td>سمندری کاکروچ</td>
+</tr>
+<tr>
+    <td>Isopod</td>
+    <td>آئیسوپوڈ</td>
+</tr>
+<tr>
+    <td>Amphipod</td>
+    <td>ایمفی پوڈ</td>
+</tr>
+<tr>
+    <td>Copepod</td>
+    <td>کوپی پوڈ</td>
+</tr>
+<tr>
+    <td>Euphausia</td>
+    <td>یو فاؤسیا</td>
+</tr>
+<tr>
+    <td>Mantis Shrimp</td>
+    <td>مینٹس جھینگا</td>
+</tr>
+<tr>
+    <td>Cleaner Shrimp</td>
+    <td>صفائی کرنے والا جھینگا</td>
+</tr>
+<tr>
+    <td>Pistol Shrimp</td>
+    <td>پستول جھینگا</td>
+</tr>
+<tr>
+    <td>Ghost Shrimp</td>
+    <td>بھوت جھینگا</td>
+</tr>
+<tr>
+    <td>King Crab</td>
+    <td>بادشاہ کیکڑا</td>
+</tr>
+<tr>
+    <td>Hermit Crab</td>
+    <td>گوشہ نشین کیکڑا</td>
+</tr>
+<tr>
+    <td>Spider Crab</td>
+    <td>مکڑی کیکڑا</td>
+</tr>
+<tr>
+    <td>Fiddler Crab</td>
+    <td>وائلن بجانے والا کیکڑا</td>
+</tr>
+<tr>
+    <td>Horseshoe Crab</td>
+    <td>گھوڑے کی نعل جیسا کیکڑا</td>
+</tr>
+<tr>
+    <td>Decorator Crab</td>
+    <td>سجانے والا کیکڑا</td>
+</tr>
+<tr>
+    <td>Coral Crab</td>
+    <td>مرجان کیکڑا</td>
+</tr>
+<tr>
+    <td>Blue Crab</td>
+    <td>نیلا کیکڑا</td>
+</tr>
+<tr>
+    <td>Snow Crab</td>
+    <td>برفانی کیکڑا</td>
+</tr>
+<tr>
+    <td>Rock Crab</td>
+    <td>چٹانی کیکڑا</td>
+</tr>
+<tr>
+    <td>Deep Sea Crab</td>
+    <td>گہرے سمندر کا کیکڑا</td>
+</tr>
+<tr>
+    <td>Sea Butterfly</td>
+    <td>سمندری تتلی</td>
+</tr>
+<tr>
+    <td>Sea Robin</td>
+    <td>سمندری رابن مچھلی</td>
+</tr>
+<tr>
+    <td>Flying Gurnard</td>
+    <td>اڑنے والی گرنارڈ مچھلی</td>
+</tr>
+<tr>
+    <td>Goblin Shark</td>
+    <td>گوبلن شارک</td>
+</tr>
+<tr>
+    <td>Frilled Shark</td>
+    <td>جھالر والی شارک</td>
+</tr>
+<tr>
+    <td>Cookiecutter Shark</td>
+    <td>کوکی کٹر شارک</td>
+</tr>
+<tr>
+    <td>Sixgill Shark</td>
+    <td>چھ گلپھڑوں والی شارک</td>
+</tr>
+<tr>
+    <td>Thresher Shark</td>
+    <td>دم والی شارک</td>
+</tr>
+<tr>
+    <td>Wobbegong Shark</td>
+    <td>قالین نما شارک</td>
+</tr>
+<tr>
+    <td>Sawfish</td>
+    <td>آرے جیسی مچھلی</td>
+</tr>
+<tr>
+    <td>Sawshark</td>
+    <td>آرا سر شارک</td>
+</tr>
+<tr>
+    <td>Guitarfish</td>
+    <td>گٹار نما مچھلی</td>
+</tr>
+<tr>
+    <td>Electric Ray</td>
+    <td>برقی رے مچھلی</td>
+</tr>
+<tr>
+    <td>Round Ray</td>
+    <td>گول رے مچھلی</td>
+</tr>
+<tr>
+    <td>Eagle Ray</td>
+    <td>عقاب رے مچھلی</td>
+</tr>
+<tr>
+    <td>Cownose Ray</td>
+    <td>گائے ناک رے مچھلی</td>
+</tr>
+<tr>
+    <td>Spotted Ray</td>
+    <td>دھبوں والی رے مچھلی</td>
+</tr>
+<tr>
+    <td>Butterfly Ray</td>
+    <td>تتلی رے مچھلی</td>
+</tr>
+      </tbody>
+      </table>
+</body>
+</html>
